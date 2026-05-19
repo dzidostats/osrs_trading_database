@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Avantoe seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    }
+  ]
+}

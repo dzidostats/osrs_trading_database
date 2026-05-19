@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Marrentill",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778926400,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1778975482,
+      "profit": null
+    },
+    {
+      "time": 1779023801,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    }
+  ]
+}

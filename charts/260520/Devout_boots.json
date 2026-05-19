@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Devout boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778926400,
+      "profit": null
+    },
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    }
+  ]
+}

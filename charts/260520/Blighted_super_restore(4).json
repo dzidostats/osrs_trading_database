@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blighted super restore(4)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778886148,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    }
+  ]
+}

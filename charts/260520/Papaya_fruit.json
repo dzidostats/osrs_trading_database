@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Papaya fruit",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    }
+  ]
+}

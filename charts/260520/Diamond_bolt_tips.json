@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Diamond bolt tips",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778998915,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Watchtower teleport (tablet)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779130202,
+      "profit": null
+    }
+  ]
+}
