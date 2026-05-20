@@ -1,36 +1,14 @@
 [
   {
-    "id": 6470,
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "avgHighPrice": 9,
-    "avgLowPrice": 8,
-    "minimalPrice": 12,
-    "highPriceVolume": 60,
-    "lowPriceVolume": 13
-  },
-  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 1,
-    "avgLowPrice": 2,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 214,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 4525,
-    "name": "Empty oil lamp",
-    "limit": 10000,
-    "value": 25,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.5,
-    "highPriceVolume": 72,
-    "lowPriceVolume": 36
+    "highPriceVolume": 4,
+    "lowPriceVolume": 4
   },
   {
     "id": 1131,
@@ -38,42 +16,31 @@
     "limit": 125,
     "value": 170,
     "avgHighPrice": 10,
-    "avgLowPrice": 10,
+    "avgLowPrice": 9,
     "minimalPrice": 17,
-    "highPriceVolume": 409,
-    "lowPriceVolume": 14
+    "highPriceVolume": 14,
+    "lowPriceVolume": 5
   },
   {
     "id": 48,
     "name": "Longbow (u)",
     "limit": 10000,
     "value": 60,
-    "avgHighPrice": 4,
+    "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 249,
-    "lowPriceVolume": 56
+    "highPriceVolume": 77,
+    "lowPriceVolume": 21
   },
   {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 11,
-    "avgLowPrice": 12,
-    "minimalPrice": 14,
-    "highPriceVolume": 67,
-    "lowPriceVolume": 586
-  },
-  {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 17,
-    "avgLowPrice": 15,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 21,
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 7,
     "lowPriceVolume": 1
   },
   {
@@ -81,10 +48,10 @@
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
     "minimalPrice": 13.3,
-    "highPriceVolume": 204,
-    "lowPriceVolume": 114
+    "highPriceVolume": 10,
+    "lowPriceVolume": 147
   }
 ]
