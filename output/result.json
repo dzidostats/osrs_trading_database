@@ -1,46 +1,35 @@
 [
   {
-    "id": 6470,
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "avgHighPrice": 9,
-    "avgLowPrice": 5,
-    "minimalPrice": 12,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 3
-  },
-  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 5,
+    "highPriceVolume": 42,
     "lowPriceVolume": 2
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
+    "id": 1293,
+    "name": "Iron longsword",
     "limit": 125,
-    "value": 170,
-    "avgHighPrice": 16,
-    "avgLowPrice": 12,
-    "minimalPrice": 17,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 5
+    "value": 140,
+    "avgHighPrice": 13,
+    "avgLowPrice": 13,
+    "minimalPrice": 14,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 1
   },
   {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 19,
-    "avgLowPrice": 20,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 1
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 38,
+    "lowPriceVolume": 219
   }
 ]

@@ -4926,5 +4926,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 42,
+    "totalLowVolume": 2,
+    "averageHighPrice": 5,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1293": {
+    "id": 1293,
+    "name": "Iron longsword",
+    "totalHighVolume": 50,
+    "totalLowVolume": 1,
+    "averageHighPrice": 13,
+    "averageLowPrice": 13,
+    "samples": 1,
+    "lastHighPrice": 13,
+    "lastLowPrice": 13,
+    "limit": 125,
+    "value": 140,
+    "minimalPrice": 14
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 38,
+    "totalLowVolume": 219,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
