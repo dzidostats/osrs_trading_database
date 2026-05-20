@@ -4058,5 +4058,61 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "6470": {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "totalHighVolume": 50,
+    "totalLowVolume": 3,
+    "averageHighPrice": 9,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 9,
+    "lastLowPrice": 5,
+    "limit": 50,
+    "value": 120,
+    "minimalPrice": 12
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 5,
+    "totalLowVolume": 2,
+    "averageHighPrice": 5,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 9,
+    "totalLowVolume": 5,
+    "averageHighPrice": 16,
+    "averageLowPrice": 12,
+    "samples": 1,
+    "lastHighPrice": 16,
+    "lastLowPrice": 12,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 8,
+    "totalLowVolume": 1,
+    "averageHighPrice": 19,
+    "averageLowPrice": 20,
+    "samples": 1,
+    "lastHighPrice": 19,
+    "lastLowPrice": 20,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
   }
 }
