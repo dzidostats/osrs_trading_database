@@ -1,0 +1,93 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Contract of bloodied blows",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778998915,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779023801,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779121302,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1779223677,
+      "profit": null
+    },
+    {
+      "time": 1779228871,
+      "profit": null
+    },
+    {
+      "time": 1779235422,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    },
+    {
+      "time": 1779304992,
+      "profit": null
+    }
+  ]
+}
