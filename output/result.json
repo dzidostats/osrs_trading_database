@@ -7,19 +7,30 @@
     "avgHighPrice": 11,
     "avgLowPrice": 11,
     "minimalPrice": 17,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 163
+    "highPriceVolume": 8,
+    "lowPriceVolume": 2
   },
   {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
+    "id": 1081,
+    "name": "Iron plateskirt",
+    "limit": 125,
+    "value": 280,
+    "avgHighPrice": 23,
+    "avgLowPrice": 19,
+    "minimalPrice": 28,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 242
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 1
   },
   {
     "id": 22873,
@@ -29,18 +40,29 @@
     "avgHighPrice": 12,
     "avgLowPrice": 12,
     "minimalPrice": 14,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 121
+    "highPriceVolume": 4,
+    "lowPriceVolume": 26
   },
   {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 17,
-    "avgLowPrice": 18,
-    "minimalPrice": 22.5,
+    "id": 4387,
+    "name": "Team-37 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 5,
     "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 2,
+    "avgLowPrice": 3,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 147,
     "lowPriceVolume": 2
   }
 ]
