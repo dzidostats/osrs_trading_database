@@ -5304,5 +5304,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 3,
+    "totalLowVolume": 163,
+    "averageHighPrice": 11,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 11,
+    "lastLowPrice": 11,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 100,
+    "totalLowVolume": 242,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "22873": {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "totalHighVolume": 6,
+    "totalLowVolume": 121,
+    "averageHighPrice": 12,
+    "averageLowPrice": 12,
+    "samples": 1,
+    "lastHighPrice": 12,
+    "lastLowPrice": 12,
+    "limit": 200,
+    "value": 140,
+    "minimalPrice": 14
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 1,
+    "totalLowVolume": 2,
+    "averageHighPrice": 17,
+    "averageLowPrice": 18,
+    "samples": 1,
+    "lastHighPrice": 17,
+    "lastLowPrice": 18,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
   }
 }
