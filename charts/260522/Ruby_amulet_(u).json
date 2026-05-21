@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ruby amulet (u)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1779015852,
+      "profit": null
+    },
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1779121302,
+      "profit": null
+    }
+  ]
+}
