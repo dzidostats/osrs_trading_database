@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Gold bar",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778882299,
+      "profit": null
+    },
+    {
+      "time": 1778886148,
+      "profit": null
+    },
+    {
+      "time": 1778899471,
+      "profit": null
+    },
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1778986409,
+      "profit": null
+    }
+  ]
+}

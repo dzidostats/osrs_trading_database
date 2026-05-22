@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Greenman mask",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778899471,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779376840,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1779446927,
+      "profit": null
+    },
+    {
+      "time": 1779467070,
+      "profit": null
+    }
+  ]
+}

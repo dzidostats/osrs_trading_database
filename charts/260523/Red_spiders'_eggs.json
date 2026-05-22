@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red spiders' eggs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778975482,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    }
+  ]
+}

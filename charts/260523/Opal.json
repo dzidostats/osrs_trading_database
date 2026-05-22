@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Opal",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    }
+  ]
+}

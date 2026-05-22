@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blue wizard robe (t)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779015852,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779192529,
+      "profit": null
+    },
+    {
+      "time": 1779376840,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Black wizard hat (t)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778998915,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779253386,
+      "profit": null
+    },
+    {
+      "time": 1779420577,
+      "profit": null
+    },
+    {
+      "time": 1779467070,
+      "profit": null
+    },
+    {
+      "time": 1779482541,
+      "profit": null
+    },
+    {
+      "time": 1779487584,
+      "profit": null
+    }
+  ]
+}
