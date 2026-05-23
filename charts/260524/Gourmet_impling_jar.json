@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Gourmet impling jar",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779269348,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779482541,
+      "profit": null
+    },
+    {
+      "time": 1779487584,
+      "profit": null
+    },
+    {
+      "time": 1779521405,
+      "profit": null
+    },
+    {
+      "time": 1779529837,
+      "profit": null
+    }
+  ]
+}
