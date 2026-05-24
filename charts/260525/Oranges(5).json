@@ -1,0 +1,117 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Oranges(5)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779015852,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779279776,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1779521405,
+      "profit": null
+    },
+    {
+      "time": 1779573187,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1779653017,
+      "profit": null
+    },
+    {
+      "time": 1779659680,
+      "profit": null
+    }
+  ]
+}

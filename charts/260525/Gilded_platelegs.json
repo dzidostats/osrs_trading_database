@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Gilded platelegs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779269348,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    }
+  ]
+}

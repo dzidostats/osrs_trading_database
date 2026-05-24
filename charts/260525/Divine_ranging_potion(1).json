@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Divine ranging potion(1)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1779015852,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1779634933,
+      "profit": null
+    },
+    {
+      "time": 1779641920,
+      "profit": null
+    }
+  ]
+}

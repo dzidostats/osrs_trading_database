@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Steel warhammer",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779223677,
+      "profit": null
+    },
+    {
+      "time": 1779253386,
+      "profit": null
+    },
+    {
+      "time": 1779376840,
+      "profit": null
+    }
+  ]
+}
