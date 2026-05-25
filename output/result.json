@@ -1,5 +1,60 @@
 [
   {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
+    "minimalPrice": 9,
+    "highPriceVolume": 100,
+    "lowPriceVolume": 100
+  },
+  {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5535,
+    "name": "Earth tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 40
+  },
+  {
+    "id": 5537,
+    "name": "Fire tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 116,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 7660,
+    "name": "Guthix balance(4)",
+    "limit": 2000,
+    "value": 200,
+    "avgHighPrice": 1,
+    "avgLowPrice": 11,
+    "minimalPrice": 20,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 2
+  },
+  {
     "id": 48,
     "name": "Longbow (u)",
     "limit": 10000,
@@ -7,7 +62,7 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 191,
-    "lowPriceVolume": 270
+    "highPriceVolume": 1,
+    "lowPriceVolume": 49
   }
 ]
