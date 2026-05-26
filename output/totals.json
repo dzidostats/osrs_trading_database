@@ -4716,5 +4716,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "6470": {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "totalHighVolume": 50,
+    "totalLowVolume": 1,
+    "averageHighPrice": 3,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 2,
+    "limit": 50,
+    "value": 120,
+    "minimalPrice": 12
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 57,
+    "totalLowVolume": 7,
+    "averageHighPrice": 12,
+    "averageLowPrice": 14,
+    "samples": 1,
+    "lastHighPrice": 12,
+    "lastLowPrice": 14,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "1335": {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "totalHighVolume": 6,
+    "totalLowVolume": 306,
+    "averageHighPrice": 14,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 14,
+    "lastLowPrice": 7,
+    "limit": 125,
+    "value": 173,
+    "minimalPrice": 17.3
+  },
+  "4411": {
+    "id": 4411,
+    "name": "Team-49 cape",
+    "totalHighVolume": 2,
+    "totalLowVolume": 1,
+    "averageHighPrice": 1,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 1,
+    "limit": 150,
+    "value": 50,
+    "minimalPrice": 5
   }
 }

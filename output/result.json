@@ -1,24 +1,46 @@
 [
   {
-    "id": 5537,
-    "name": "Fire tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 2
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 12,
+    "avgLowPrice": 14,
+    "minimalPrice": 17,
+    "highPriceVolume": 57,
+    "lowPriceVolume": 7
+  },
+  {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "limit": 125,
+    "value": 173,
+    "avgHighPrice": 14,
     "avgLowPrice": 7,
-    "minimalPrice": 10,
-    "highPriceVolume": 88,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 306
+  },
+  {
+    "id": 4411,
+    "name": "Team-49 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 5,
+    "highPriceVolume": 2,
     "lowPriceVolume": 1
   }
 ]
