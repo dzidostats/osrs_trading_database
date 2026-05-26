@@ -1,90 +1,24 @@
 [
   {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 644,
-    "lowPriceVolume": 94
-  },
-  {
-    "id": 6470,
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "avgHighPrice": 3,
-    "avgLowPrice": 2,
-    "minimalPrice": 12,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 15
-  },
-  {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 15,
-    "avgLowPrice": 13,
-    "minimalPrice": 17,
-    "highPriceVolume": 29,
-    "lowPriceVolume": 45
-  },
-  {
-    "id": 1335,
-    "name": "Iron warhammer",
-    "limit": 125,
-    "value": 173,
-    "avgHighPrice": 15,
-    "avgLowPrice": 8,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 45
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 466,
-    "lowPriceVolume": 540
-  },
-  {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 5,
-    "avgLowPrice": 12,
-    "minimalPrice": 14,
-    "highPriceVolume": 41,
-    "lowPriceVolume": 271
+    "id": 5537,
+    "name": "Fire tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 2
   },
   {
     "id": 5531,
     "name": "Water tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 2,
+    "avgHighPrice": 4,
     "avgLowPrice": 7,
     "minimalPrice": 10,
-    "highPriceVolume": 1085,
+    "highPriceVolume": 88,
     "lowPriceVolume": 1
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 2,
-    "avgLowPrice": 3,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 487,
-    "lowPriceVolume": 418
   }
 ]

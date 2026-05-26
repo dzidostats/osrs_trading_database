@@ -5276,5 +5276,33 @@
     "limit": 10000,
     "value": 167,
     "minimalPrice": 167
+  },
+  "5537": {
+    "id": 5537,
+    "name": "Fire tiara",
+    "totalHighVolume": 3,
+    "totalLowVolume": 2,
+    "averageHighPrice": 6,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 88,
+    "totalLowVolume": 1,
+    "averageHighPrice": 4,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 7,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
   }
 }
