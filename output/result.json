@@ -1,47 +1,36 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 5,
+    "minimalPrice": 6,
+    "highPriceVolume": 18,
+    "lowPriceVolume": 448
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 20,
+    "avgLowPrice": 20,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 43,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 9745,
-    "name": "Combat potion(1)",
-    "limit": 2000,
-    "value": 52,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 5.2,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1335,
-    "name": "Iron warhammer",
-    "limit": 125,
-    "value": 173,
-    "avgHighPrice": 15,
-    "avgLowPrice": 7,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 252
-  },
-  {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
     "avgHighPrice": 6,
     "avgLowPrice": 6,
-    "minimalPrice": 14,
-    "highPriceVolume": 94,
-    "lowPriceVolume": 134
+    "minimalPrice": 10,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
   },
   {
     "id": 5105,
@@ -49,9 +38,9 @@
     "limit": 200,
     "value": 133,
     "avgHighPrice": 6,
-    "avgLowPrice": 7,
+    "avgLowPrice": 6,
     "minimalPrice": 13.3,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 440
+    "highPriceVolume": 76,
+    "lowPriceVolume": 1201
   }
 ]

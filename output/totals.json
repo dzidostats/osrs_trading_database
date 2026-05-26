@@ -5430,5 +5430,61 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 18,
+    "totalLowVolume": 448,
+    "averageHighPrice": 3,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 5,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 43,
+    "totalLowVolume": 2,
+    "averageHighPrice": 20,
+    "averageLowPrice": 20,
+    "samples": 1,
+    "lastHighPrice": 20,
+    "lastLowPrice": 20,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 8,
+    "totalLowVolume": 1,
+    "averageHighPrice": 6,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 76,
+    "totalLowVolume": 1201,
+    "averageHighPrice": 6,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 6,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
