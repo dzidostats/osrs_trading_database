@@ -1,0 +1,73 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mystic robe bottom (dusk)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1779304992,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779435751,
+      "profit": null
+    },
+    {
+      "time": 1779529837,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779813698,
+      "profit": null
+    },
+    {
+      "time": 1779831792,
+      "profit": null
+    }
+  ]
+}

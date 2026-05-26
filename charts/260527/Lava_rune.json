@@ -1,0 +1,133 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Lava rune",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778937492,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1779121302,
+      "profit": null
+    },
+    {
+      "time": 1779130202,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1779192529,
+      "profit": null
+    },
+    {
+      "time": 1779223677,
+      "profit": null
+    },
+    {
+      "time": 1779228871,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    },
+    {
+      "time": 1779304992,
+      "profit": null
+    },
+    {
+      "time": 1779318669,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779529837,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1779573187,
+      "profit": null
+    },
+    {
+      "time": 1779580535,
+      "profit": null
+    },
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1779659680,
+      "profit": null
+    },
+    {
+      "time": 1779663382,
+      "profit": null
+    },
+    {
+      "time": 1779667227,
+      "profit": null
+    },
+    {
+      "time": 1779686292,
+      "profit": null
+    },
+    {
+      "time": 1779717502,
+      "profit": null
+    },
+    {
+      "time": 1779726423,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779789195,
+      "profit": null
+    }
+  ]
+}
