@@ -4408,5 +4408,33 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5533": {
+    "id": 5533,
+    "name": "Body tiara",
+    "totalHighVolume": 37,
+    "totalLowVolume": 1,
+    "averageHighPrice": 5,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 5,
+    "totalLowVolume": 27,
+    "averageHighPrice": 18,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 18,
+    "lastLowPrice": 4,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
   }
 }
