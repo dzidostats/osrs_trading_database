@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bandos crozier",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779580535,
+      "profit": null
+    },
+    {
+      "time": 1779593587,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779634933,
+      "profit": null
+    },
+    {
+      "time": 1779641920,
+      "profit": null
+    },
+    {
+      "time": 1779733463,
+      "profit": null
+    },
+    {
+      "time": 1779746759,
+      "profit": null
+    },
+    {
+      "time": 1779909789,
+      "profit": null
+    }
+  ]
+}

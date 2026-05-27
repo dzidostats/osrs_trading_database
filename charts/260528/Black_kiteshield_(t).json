@@ -1,0 +1,21 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Black kiteshield (t)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779475962,
+      "profit": null
+    }
+  ]
+}
