@@ -4,54 +4,43 @@
     "name": "Body tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 5,
+    "avgHighPrice": 4,
     "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 1,
+    "highPriceVolume": 22,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 31205,
+    "name": "Grid master altar icon scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 166666,
+    "avgLowPrice": 121001,
+    "minimalPrice": 250000,
+    "highPriceVolume": 2,
     "lowPriceVolume": 1
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 12,
+    "avgLowPrice": 12,
+    "minimalPrice": 17,
+    "highPriceVolume": 616,
+    "lowPriceVolume": 267
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 4,
-    "avgLowPrice": 5,
+    "avgHighPrice": 1,
+    "avgLowPrice": 3,
     "minimalPrice": 14,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 357
-  },
-  {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 20,
-    "avgLowPrice": 19,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 18,
-    "lowPriceVolume": 16
-  },
-  {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 47,
-    "lowPriceVolume": 151
-  },
-  {
-    "id": 22254,
-    "name": "Willow shield",
-    "limit": 18000,
-    "value": 160,
-    "avgHighPrice": 13,
-    "avgLowPrice": 10,
-    "minimalPrice": 16,
-    "highPriceVolume": 384,
-    "lowPriceVolume": 8
+    "highPriceVolume": 1,
+    "lowPriceVolume": 146
   }
 ]
