@@ -4282,5 +4282,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "4525": {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "totalHighVolume": 106,
+    "totalLowVolume": 174,
+    "averageHighPrice": 2,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 2,
+    "limit": 10000,
+    "value": 25,
+    "minimalPrice": 2.5
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 5,
+    "totalLowVolume": 106,
+    "averageHighPrice": 15,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 15,
+    "lastLowPrice": 11,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 2,
+    "totalLowVolume": 26,
+    "averageHighPrice": 2,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 2,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
