@@ -1,46 +1,90 @@
 [
   {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 10,
-    "highPriceVolume": 22,
-    "lowPriceVolume": 2
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 300,
+    "lowPriceVolume": 50
   },
   {
-    "id": 31205,
-    "name": "Grid master altar icon scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 166666,
-    "avgLowPrice": 121001,
-    "minimalPrice": 250000,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 63,
+    "lowPriceVolume": 50
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
+    "id": 5576,
+    "name": "Initiate cuisse",
     "limit": 125,
-    "value": 170,
-    "avgHighPrice": 12,
-    "avgLowPrice": 12,
-    "minimalPrice": 17,
-    "highPriceVolume": 616,
-    "lowPriceVolume": 267
+    "value": 8000,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 800,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 250
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 2,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 250,
+    "lowPriceVolume": 355
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 1,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 641,
+    "lowPriceVolume": 153
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 1,
-    "avgLowPrice": 3,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
     "minimalPrice": 14,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 146
+    "highPriceVolume": 4,
+    "lowPriceVolume": 172
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 20,
+    "avgLowPrice": 20,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 5
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 6,
+    "avgLowPrice": 7,
+    "minimalPrice": 10,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 1
   }
 ]
