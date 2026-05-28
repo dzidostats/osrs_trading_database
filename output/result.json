@@ -1,35 +1,79 @@
 [
   {
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 12217,
+    "name": "Bronze platelegs (t)",
+    "limit": 4,
+    "value": 80,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 8,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1169,
+    "name": "Coif",
+    "limit": 125,
+    "value": 200,
+    "avgHighPrice": 17,
+    "avgLowPrice": 16,
+    "minimalPrice": 20,
+    "highPriceVolume": 152,
+    "lowPriceVolume": 42
+  },
+  {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 9,
-    "avgLowPrice": 3,
+    "avgHighPrice": 11,
+    "avgLowPrice": 6,
     "minimalPrice": 17,
-    "highPriceVolume": 18,
-    "lowPriceVolume": 5
+    "highPriceVolume": 295,
+    "lowPriceVolume": 11
   },
   {
-    "id": 1081,
-    "name": "Iron plateskirt",
-    "limit": 125,
-    "value": 280,
-    "avgHighPrice": 15,
-    "avgLowPrice": 11,
-    "minimalPrice": 28,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 1
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 134,
+    "lowPriceVolume": 8
   },
   {
-    "id": 1175,
-    "name": "Iron sq shield",
-    "limit": 125,
-    "value": 168,
+    "id": 411,
+    "name": "Oyster pearl",
+    "limit": 11000,
+    "value": 112,
     "avgHighPrice": 7,
     "avgLowPrice": 7,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 16
+    "minimalPrice": 11.200000000000001,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 24
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 11,
+    "avgLowPrice": 12,
+    "minimalPrice": 14,
+    "highPriceVolume": 168,
+    "lowPriceVolume": 641
   }
 ]
