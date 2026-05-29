@@ -5,21 +5,21 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
+    "highPriceVolume": 4,
     "lowPriceVolume": 1
   },
   {
-    "id": 5535,
-    "name": "Earth tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 4,
-    "minimalPrice": 10,
-    "highPriceVolume": 43,
-    "lowPriceVolume": 1
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 1,
+    "avgLowPrice": 11,
+    "minimalPrice": 12,
+    "highPriceVolume": 237,
+    "lowPriceVolume": 2
   },
   {
     "id": 5537,
@@ -29,18 +29,18 @@
     "avgHighPrice": 5,
     "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 3
+    "highPriceVolume": 272,
+    "lowPriceVolume": 2
   },
   {
-    "id": 7660,
-    "name": "Guthix balance(4)",
-    "limit": 2000,
-    "value": 200,
-    "avgHighPrice": 4,
-    "avgLowPrice": 7,
-    "minimalPrice": 20,
-    "highPriceVolume": 2,
+    "id": 31205,
+    "name": "Grid master altar icon scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 132674,
+    "avgLowPrice": 121001,
+    "minimalPrice": 250000,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
@@ -48,43 +48,65 @@
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 14,
-    "avgLowPrice": 9,
+    "avgHighPrice": 11,
+    "avgLowPrice": 10,
     "minimalPrice": 17,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 11
+    "highPriceVolume": 119,
+    "lowPriceVolume": 8
   },
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 2,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 1404
+    "id": 1363,
+    "name": "Iron battleaxe",
+    "limit": 125,
+    "value": 182,
+    "avgHighPrice": 15,
+    "avgLowPrice": 15,
+    "minimalPrice": 18.2,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 5
   },
   {
     "id": 48,
     "name": "Longbow (u)",
     "limit": 10000,
     "value": 60,
-    "avgHighPrice": 4,
+    "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 27
+    "highPriceVolume": 381,
+    "lowPriceVolume": 323
   },
   {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
+    "id": 411,
+    "name": "Oyster pearl",
+    "limit": 11000,
+    "value": 112,
     "avgHighPrice": 7,
-    "avgLowPrice": 5,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 24,
-    "lowPriceVolume": 752
+    "avgLowPrice": 7,
+    "minimalPrice": 11.200000000000001,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 274
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 9,
+    "avgLowPrice": 8,
+    "minimalPrice": 14,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 12
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 18,
+    "avgLowPrice": 20,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 3
   }
 ]
