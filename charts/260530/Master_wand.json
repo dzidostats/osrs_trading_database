@@ -1,0 +1,105 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Master wand",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778975482,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779435751,
+      "profit": null
+    },
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1779573187,
+      "profit": null
+    },
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1779831792,
+      "profit": null
+    },
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1779852983,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779909789,
+      "profit": null
+    },
+    {
+      "time": 1779918734,
+      "profit": null
+    },
+    {
+      "time": 1779923745,
+      "profit": null
+    },
+    {
+      "time": 1779936956,
+      "profit": null
+    },
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1780002399,
+      "profit": null
+    },
+    {
+      "time": 1780068154,
+      "profit": null
+    }
+  ]
+}

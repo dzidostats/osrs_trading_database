@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Death talisman",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    }
+  ]
+}
