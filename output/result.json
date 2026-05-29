@@ -1,46 +1,57 @@
 [
   {
-    "id": 6472,
-    "name": "Compost potion(3)",
+    "id": 6470,
+    "name": "Compost potion(4)",
     "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
+    "value": 120,
+    "avgHighPrice": 3,
     "avgLowPrice": 2,
-    "minimalPrice": 9,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 782
+    "minimalPrice": 12,
+    "highPriceVolume": 101,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5537,
-    "name": "Fire tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 100
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 15,
-    "avgLowPrice": 13,
-    "minimalPrice": 17,
-    "highPriceVolume": 113,
-    "lowPriceVolume": 309
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 446,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 8,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 18
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 12,
+    "avgLowPrice": 12,
+    "minimalPrice": 14,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 127
+  },
+  {
+    "id": 4365,
+    "name": "Team-26 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 2,
+    "avgLowPrice": 1,
+    "minimalPrice": 5,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 12
   }
 ]
