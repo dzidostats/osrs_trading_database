@@ -4380,5 +4380,33 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5537": {
+    "id": 5537,
+    "name": "Fire tiara",
+    "totalHighVolume": 5,
+    "totalLowVolume": 1,
+    "averageHighPrice": 7,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 201,
+    "totalLowVolume": 130,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
