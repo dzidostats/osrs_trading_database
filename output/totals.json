@@ -5276,5 +5276,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 3,
+    "totalLowVolume": 1,
+    "averageHighPrice": 5,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5537": {
+    "id": 5537,
+    "name": "Fire tiara",
+    "totalHighVolume": 4,
+    "totalLowVolume": 2,
+    "averageHighPrice": 5,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 468,
+    "totalLowVolume": 14,
+    "averageHighPrice": 11,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 11,
+    "lastLowPrice": 11,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 5,
+    "totalLowVolume": 127,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
