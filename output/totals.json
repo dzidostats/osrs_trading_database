@@ -4940,5 +4940,61 @@
     "limit": 150,
     "value": 32,
     "minimalPrice": 32
+  },
+  "6472": {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "totalHighVolume": 100,
+    "totalLowVolume": 782,
+    "averageHighPrice": 1,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 2,
+    "limit": 50,
+    "value": 90,
+    "minimalPrice": 9
+  },
+  "5537": {
+    "id": 5537,
+    "name": "Fire tiara",
+    "totalHighVolume": 2,
+    "totalLowVolume": 2,
+    "averageHighPrice": 7,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 113,
+    "totalLowVolume": 309,
+    "averageHighPrice": 15,
+    "averageLowPrice": 13,
+    "samples": 1,
+    "lastHighPrice": 15,
+    "lastLowPrice": 13,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 13,
+    "totalLowVolume": 18,
+    "averageHighPrice": 8,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 8,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
   }
 }
