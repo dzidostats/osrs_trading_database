@@ -1,5 +1,16 @@
 [
   {
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
+  },
+  {
     "id": 6470,
     "name": "Compost potion(4)",
     "limit": 50,
@@ -7,19 +18,30 @@
     "avgHighPrice": 3,
     "avgLowPrice": 2,
     "minimalPrice": 12,
-    "highPriceVolume": 101,
+    "highPriceVolume": 12,
     "lowPriceVolume": 1
   },
   {
-    "id": 4525,
-    "name": "Empty oil lamp",
-    "limit": 10000,
-    "value": 25,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.5,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 100
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 11,
+    "avgLowPrice": 12,
+    "minimalPrice": 17,
+    "highPriceVolume": 678,
+    "lowPriceVolume": 125
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 384
   },
   {
     "id": 48,
@@ -29,29 +51,29 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 446,
-    "lowPriceVolume": 1
+    "highPriceVolume": 90,
+    "lowPriceVolume": 352
   },
   {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 12,
-    "avgLowPrice": 12,
-    "minimalPrice": 14,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 127
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 22,
+    "avgLowPrice": 15,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 159,
+    "lowPriceVolume": 12
   },
   {
-    "id": 4365,
-    "name": "Team-26 cape",
+    "id": 4411,
+    "name": "Team-49 cape",
     "limit": 150,
     "value": 50,
-    "avgHighPrice": 2,
+    "avgHighPrice": 1,
     "avgLowPrice": 1,
     "minimalPrice": 5,
-    "highPriceVolume": 14,
-    "lowPriceVolume": 12
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   }
 ]
