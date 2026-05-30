@@ -5682,5 +5682,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "6472": {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "totalHighVolume": 66,
+    "totalLowVolume": 150,
+    "averageHighPrice": 1,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 1,
+    "limit": 50,
+    "value": 90,
+    "minimalPrice": 9
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 59,
+    "totalLowVolume": 3,
+    "averageHighPrice": 4,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 178,
+    "totalLowVolume": 466,
+    "averageHighPrice": 11,
+    "averageLowPrice": 13,
+    "samples": 1,
+    "lastHighPrice": 11,
+    "lastLowPrice": 13,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
   }
 }
