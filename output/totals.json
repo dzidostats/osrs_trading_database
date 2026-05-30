@@ -5458,5 +5458,47 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "6470": {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "totalHighVolume": 4,
+    "totalLowVolume": 51,
+    "averageHighPrice": 2,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 3,
+    "limit": 50,
+    "value": 120,
+    "minimalPrice": 12
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 17,
+    "totalLowVolume": 3,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "5106": {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "totalHighVolume": 118,
+    "totalLowVolume": 30,
+    "averageHighPrice": 9,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 9,
+    "lastLowPrice": 2,
+    "limit": 200,
+    "value": 166,
+    "minimalPrice": 16.6
   }
 }
