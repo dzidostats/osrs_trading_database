@@ -4338,5 +4338,47 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "6470": {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "totalHighVolume": 52,
+    "totalLowVolume": 1,
+    "averageHighPrice": 3,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 2,
+    "limit": 50,
+    "value": 120,
+    "minimalPrice": 12
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 265,
+    "totalLowVolume": 124,
+    "averageHighPrice": 1,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 3,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 1252,
+    "totalLowVolume": 361,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
   }
 }
