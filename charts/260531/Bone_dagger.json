@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bone dagger",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1779918734,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    }
+  ]
+}
