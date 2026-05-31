@@ -5374,5 +5374,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "5527": {
+    "id": 5527,
+    "name": "Air tiara",
+    "totalHighVolume": 26,
+    "totalLowVolume": 1,
+    "averageHighPrice": 5,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5533": {
+    "id": 5533,
+    "name": "Body tiara",
+    "totalHighVolume": 2,
+    "totalLowVolume": 1,
+    "averageHighPrice": 5,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 5,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "6470": {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "totalHighVolume": 21,
+    "totalLowVolume": 2,
+    "averageHighPrice": 3,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 2,
+    "limit": 50,
+    "value": 120,
+    "minimalPrice": 12
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 5,
+    "totalLowVolume": 196,
+    "averageHighPrice": 7,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
   }
 }

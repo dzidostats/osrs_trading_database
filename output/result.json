@@ -1,13 +1,35 @@
 [
   {
-    "id": 5533,
-    "name": "Body tiara",
+    "id": 5527,
+    "name": "Air tiara",
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
     "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
+    "highPriceVolume": 26,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 21,
     "lowPriceVolume": 2
   },
   {
@@ -16,20 +38,9 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 7,
-    "avgLowPrice": 7,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 10422,
-    "name": "White elegant skirt",
-    "limit": 4,
-    "value": 2000,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 200,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 5,
+    "lowPriceVolume": 196
   }
 ]
