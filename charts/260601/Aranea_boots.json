@@ -1,0 +1,25 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Aranea boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778899471,
+      "profit": null
+    },
+    {
+      "time": 1778986409,
+      "profit": null
+    }
+  ]
+}

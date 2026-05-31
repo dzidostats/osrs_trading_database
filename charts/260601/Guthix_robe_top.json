@@ -1,0 +1,73 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Guthix robe top",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779404503,
+      "profit": null
+    },
+    {
+      "time": 1779511108,
+      "profit": null
+    },
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1779659680,
+      "profit": null
+    },
+    {
+      "time": 1779667227,
+      "profit": null
+    },
+    {
+      "time": 1779771727,
+      "profit": null
+    },
+    {
+      "time": 1780079627,
+      "profit": null
+    },
+    {
+      "time": 1780109555,
+      "profit": null
+    },
+    {
+      "time": 1780160521,
+      "profit": null
+    }
+  ]
+}

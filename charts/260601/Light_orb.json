@@ -1,0 +1,25 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Light orb",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1780222422,
+      "profit": null
+    }
+  ]
+}
