@@ -1,38 +1,5 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 48,
-    "lowPriceVolume": 73
-  },
-  {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 10,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 169,
-    "lowPriceVolume": 720
-  },
-  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
@@ -40,18 +7,7 @@
     "avgHighPrice": 3,
     "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 22
-  },
-  {
-    "id": 1081,
-    "name": "Iron plateskirt",
-    "limit": 125,
-    "value": 280,
-    "avgHighPrice": 25,
-    "avgLowPrice": 11,
-    "minimalPrice": 28,
-    "highPriceVolume": 4,
+    "highPriceVolume": 2,
     "lowPriceVolume": 1
   },
   {
@@ -62,8 +18,30 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 217
+    "highPriceVolume": 310,
+    "lowPriceVolume": 20
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 11,
+    "avgLowPrice": 8,
+    "minimalPrice": 14,
+    "highPriceVolume": 147,
+    "lowPriceVolume": 28
+  },
+  {
+    "id": 1141,
+    "name": "Steel med helm",
+    "limit": 125,
+    "value": 300,
+    "avgHighPrice": 24,
+    "avgLowPrice": 10,
+    "minimalPrice": 30,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 1
   },
   {
     "id": 5531,
@@ -73,18 +51,7 @@
     "avgHighPrice": 7,
     "avgLowPrice": 7,
     "minimalPrice": 10,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 6,
-    "avgLowPrice": 11,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 218,
-    "lowPriceVolume": 1015
+    "highPriceVolume": 5,
+    "lowPriceVolume": 2
   }
 ]
