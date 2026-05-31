@@ -5654,5 +5654,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 63,
+    "totalLowVolume": 23,
+    "averageHighPrice": 11,
+    "averageLowPrice": 12,
+    "samples": 1,
+    "lastHighPrice": 11,
+    "lastLowPrice": 12,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 1719,
+    "totalLowVolume": 200,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "1083": {
+    "id": 1083,
+    "name": "Steel plateskirt",
+    "totalHighVolume": 641,
+    "totalLowVolume": 20,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 125,
+    "value": 1000,
+    "minimalPrice": 100
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 7,
+    "totalLowVolume": 2,
+    "averageHighPrice": 7,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
   }
 }
