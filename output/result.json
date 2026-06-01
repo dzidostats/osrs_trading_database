@@ -1,25 +1,69 @@
 [
   {
-    "id": 1335,
-    "name": "Iron warhammer",
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 1,
+    "minimalPrice": 10,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 41
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
     "limit": 125,
-    "value": 173,
+    "value": 170,
     "avgHighPrice": 14,
-    "avgLowPrice": 10,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 6,
+    "avgLowPrice": 14,
+    "minimalPrice": 17,
+    "highPriceVolume": 30,
+    "lowPriceVolume": 12
+  },
+  {
+    "id": 1363,
+    "name": "Iron battleaxe",
+    "limit": 125,
+    "value": 182,
+    "avgHighPrice": 15,
+    "avgLowPrice": 15,
+    "minimalPrice": 18.2,
+    "highPriceVolume": 22,
     "lowPriceVolume": 1
   },
   {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 218,
+    "lowPriceVolume": 259
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
     "avgHighPrice": 15,
-    "avgLowPrice": 15,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 92,
-    "lowPriceVolume": 27
+    "avgLowPrice": 13,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 251,
+    "lowPriceVolume": 521
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 12,
+    "avgLowPrice": 10,
+    "minimalPrice": 14,
+    "highPriceVolume": 239,
+    "lowPriceVolume": 64
   },
   {
     "id": 5105,
@@ -27,9 +71,9 @@
     "limit": 200,
     "value": 133,
     "avgHighPrice": 7,
-    "avgLowPrice": 7,
+    "avgLowPrice": 9,
     "minimalPrice": 13.3,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 238
+    "highPriceVolume": 11,
+    "lowPriceVolume": 255
   }
 ]
