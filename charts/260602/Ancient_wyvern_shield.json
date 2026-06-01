@@ -1,0 +1,85 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancient wyvern shield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779334233,
+      "profit": null
+    },
+    {
+      "time": 1779446927,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779580535,
+      "profit": null
+    },
+    {
+      "time": 1779789195,
+      "profit": null
+    },
+    {
+      "time": 1779868908,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779923745,
+      "profit": null
+    },
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1780068154,
+      "profit": null
+    },
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780293633,
+      "profit": null
+    }
+  ]
+}
