@@ -3162,5 +3162,61 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5533": {
+    "id": 5533,
+    "name": "Body tiara",
+    "totalHighVolume": 10,
+    "totalLowVolume": 79,
+    "averageHighPrice": 1,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1335": {
+    "id": 1335,
+    "name": "Iron warhammer",
+    "totalHighVolume": 170,
+    "totalLowVolume": 73,
+    "averageHighPrice": 15,
+    "averageLowPrice": 10,
+    "samples": 1,
+    "lastHighPrice": 15,
+    "lastLowPrice": 10,
+    "limit": 125,
+    "value": 173,
+    "minimalPrice": 17.3
+  },
+  "1365": {
+    "id": 1365,
+    "name": "Steel battleaxe",
+    "totalHighVolume": 403,
+    "totalLowVolume": 4,
+    "averageHighPrice": 42,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 42,
+    "lastLowPrice": 2,
+    "limit": 125,
+    "value": 650,
+    "minimalPrice": 65
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 36,
+    "totalLowVolume": 1098,
+    "averageHighPrice": 6,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 7,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
