@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Tiara",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778937492,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778975482,
+      "profit": null
+    },
+    {
+      "time": 1779253386,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779717502,
+      "profit": null
+    },
+    {
+      "time": 1780371862,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    }
+  ]
+}
