@@ -5416,5 +5416,33 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 51,
+    "totalLowVolume": 852,
+    "averageHighPrice": 12,
+    "averageLowPrice": 13,
+    "samples": 1,
+    "lastHighPrice": 12,
+    "lastLowPrice": 13,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 42,
+    "totalLowVolume": 34,
+    "averageHighPrice": 8,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 8,
+    "lastLowPrice": 6,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
