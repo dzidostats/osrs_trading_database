@@ -5444,5 +5444,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5533": {
+    "id": 5533,
+    "name": "Body tiara",
+    "totalHighVolume": 2,
+    "totalLowVolume": 1,
+    "averageHighPrice": 4,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 4,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 17,
+    "totalLowVolume": 10,
+    "averageHighPrice": 14,
+    "averageLowPrice": 14,
+    "samples": 1,
+    "lastHighPrice": 14,
+    "lastLowPrice": 14,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 20,
+    "totalLowVolume": 250,
+    "averageHighPrice": 7,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 6,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }

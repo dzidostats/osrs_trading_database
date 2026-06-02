@@ -5,10 +5,10 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 4,
-    "avgLowPrice": 1,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
     "highPriceVolume": 2,
-    "lowPriceVolume": 41
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
@@ -18,52 +18,8 @@
     "avgHighPrice": 14,
     "avgLowPrice": 14,
     "minimalPrice": 17,
-    "highPriceVolume": 30,
-    "lowPriceVolume": 12
-  },
-  {
-    "id": 1363,
-    "name": "Iron battleaxe",
-    "limit": 125,
-    "value": 182,
-    "avgHighPrice": 15,
-    "avgLowPrice": 15,
-    "minimalPrice": 18.2,
-    "highPriceVolume": 22,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 218,
-    "lowPriceVolume": 259
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 15,
-    "avgLowPrice": 13,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 251,
-    "lowPriceVolume": 521
-  },
-  {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 12,
-    "avgLowPrice": 10,
-    "minimalPrice": 14,
-    "highPriceVolume": 239,
-    "lowPriceVolume": 64
+    "highPriceVolume": 17,
+    "lowPriceVolume": 10
   },
   {
     "id": 5105,
@@ -71,9 +27,9 @@
     "limit": 200,
     "value": 133,
     "avgHighPrice": 7,
-    "avgLowPrice": 9,
+    "avgLowPrice": 6,
     "minimalPrice": 13.3,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 255
+    "highPriceVolume": 20,
+    "lowPriceVolume": 250
   }
 ]
