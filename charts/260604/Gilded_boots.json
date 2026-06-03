@@ -1,0 +1,109 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Gilded boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778926400,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779269348,
+      "profit": null
+    },
+    {
+      "time": 1779318669,
+      "profit": null
+    },
+    {
+      "time": 1779529837,
+      "profit": null
+    },
+    {
+      "time": 1779552444,
+      "profit": null
+    },
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1779593587,
+      "profit": null
+    },
+    {
+      "time": 1779621292,
+      "profit": null
+    },
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1779823235,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779936956,
+      "profit": null
+    },
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780109555,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1780229435,
+      "profit": null
+    }
+  ]
+}

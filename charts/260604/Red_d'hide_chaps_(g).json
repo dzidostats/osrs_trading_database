@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red d'hide chaps (g)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779334233,
+      "profit": null
+    },
+    {
+      "time": 1779386149,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779663382,
+      "profit": null
+    },
+    {
+      "time": 1779726423,
+      "profit": null
+    },
+    {
+      "time": 1779733463,
+      "profit": null
+    },
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780250393,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780510922,
+      "profit": null
+    },
+    {
+      "time": 1780523246,
+      "profit": null
+    }
+  ]
+}

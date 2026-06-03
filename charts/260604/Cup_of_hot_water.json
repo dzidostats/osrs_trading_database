@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Cup of hot water",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779717502,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780317319,
+      "profit": null
+    },
+    {
+      "time": 1780476853,
+      "profit": null
+    }
+  ]
+}
