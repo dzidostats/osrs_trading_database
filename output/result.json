@@ -1,25 +1,25 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 7,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 1
+  },
+  {
     "id": 5533,
     "name": "Body tiara",
     "limit": 40,
     "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 2,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 4
-  },
-  {
-    "id": 4525,
-    "name": "Empty oil lamp",
-    "limit": 10000,
-    "value": 25,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.5,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 21
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   },
   {
     "id": 5537,
@@ -27,32 +27,32 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 6,
-    "avgLowPrice": 5,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 31205,
-    "name": "Grid master altar icon scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 138152,
-    "avgLowPrice": 110000,
-    "minimalPrice": 250000,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 5
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 5,
+    "avgHighPrice": 13,
     "avgLowPrice": 11,
     "minimalPrice": 17,
     "highPriceVolume": 20,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 263
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 121
   },
   {
     "id": 48,
@@ -62,8 +62,41 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 81,
-    "lowPriceVolume": 120
+    "highPriceVolume": 15,
+    "lowPriceVolume": 95
+  },
+  {
+    "id": 54,
+    "name": "Oak shortbow (u)",
+    "limit": 10000,
+    "value": 50,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 5,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 416
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 10,
+    "avgLowPrice": 13,
+    "minimalPrice": 14,
+    "highPriceVolume": 328,
+    "lowPriceVolume": 467
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 7,
+    "avgLowPrice": 8,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 220,
+    "lowPriceVolume": 447
   },
   {
     "id": 32041,
@@ -74,6 +107,6 @@
     "avgLowPrice": 10,
     "minimalPrice": 25,
     "highPriceVolume": 10,
-    "lowPriceVolume": 17
+    "lowPriceVolume": 14
   }
 ]
