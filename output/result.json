@@ -1,112 +1,57 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 1
-  },
-  {
     "id": 5533,
     "name": "Body tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 1
+    "highPriceVolume": 4,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 785,
+    "lowPriceVolume": 460
   },
   {
     "id": 5537,
     "name": "Fire tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 4,
+    "avgHighPrice": 5,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 8,
+    "highPriceVolume": 7,
     "lowPriceVolume": 1
-  },
-  {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 13,
-    "avgLowPrice": 11,
-    "minimalPrice": 17,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 263
-  },
-  {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 6,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 121
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 95
-  },
-  {
-    "id": 54,
-    "name": "Oak shortbow (u)",
-    "limit": 10000,
-    "value": 50,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
-    "minimalPrice": 5,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 416
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 10,
-    "avgLowPrice": 13,
+    "avgHighPrice": 6,
+    "avgLowPrice": 4,
     "minimalPrice": 14,
-    "highPriceVolume": 328,
-    "lowPriceVolume": 467
+    "highPriceVolume": 800,
+    "lowPriceVolume": 20
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 7,
-    "avgLowPrice": 8,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
     "minimalPrice": 13.3,
-    "highPriceVolume": 220,
-    "lowPriceVolume": 447
-  },
-  {
-    "id": 32041,
-    "name": "Wooden hull parts",
-    "limit": 100,
-    "value": 250,
-    "avgHighPrice": 20,
-    "avgLowPrice": 10,
-    "minimalPrice": 25,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 14
+    "highPriceVolume": 1002,
+    "lowPriceVolume": 2
   }
 ]
