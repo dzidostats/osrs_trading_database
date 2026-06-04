@@ -1,14 +1,58 @@
 [
   {
-    "id": 407,
-    "name": "Oyster",
-    "limit": 11000,
-    "value": 200,
-    "avgHighPrice": 19,
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1363,
+    "name": "Iron battleaxe",
+    "limit": 125,
+    "value": 182,
+    "avgHighPrice": 17,
     "avgLowPrice": 15,
-    "minimalPrice": 20,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 25
+    "minimalPrice": 18.2,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
+    "highPriceVolume": 141,
+    "lowPriceVolume": 144
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 528,
+    "lowPriceVolume": 198
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 18,
+    "avgLowPrice": 15,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 17,
+    "lowPriceVolume": 5
   },
   {
     "id": 5105,
@@ -18,7 +62,7 @@
     "avgHighPrice": 6,
     "avgLowPrice": 4,
     "minimalPrice": 13.3,
-    "highPriceVolume": 968,
-    "lowPriceVolume": 56
+    "highPriceVolume": 34,
+    "lowPriceVolume": 187
   }
 ]
