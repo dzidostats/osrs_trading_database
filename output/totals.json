@@ -4702,5 +4702,33 @@
     "limit": 8000,
     "value": 13,
     "minimalPrice": 13
+  },
+  "407": {
+    "id": 407,
+    "name": "Oyster",
+    "totalHighVolume": 2,
+    "totalLowVolume": 25,
+    "averageHighPrice": 19,
+    "averageLowPrice": 15,
+    "samples": 1,
+    "lastHighPrice": 19,
+    "lastLowPrice": 15,
+    "limit": 11000,
+    "value": 200,
+    "minimalPrice": 20
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 968,
+    "totalLowVolume": 56,
+    "averageHighPrice": 6,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 4,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }

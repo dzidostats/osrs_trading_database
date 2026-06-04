@@ -1,13 +1,24 @@
 [
   {
-    "id": 22873,
-    "name": "Potato cactus seed",
+    "id": 407,
+    "name": "Oyster",
+    "limit": 11000,
+    "value": 200,
+    "avgHighPrice": 19,
+    "avgLowPrice": 15,
+    "minimalPrice": 20,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 25
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
     "limit": 200,
-    "value": 140,
-    "avgHighPrice": 10,
-    "avgLowPrice": 8,
-    "minimalPrice": 14,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 120
+    "value": 133,
+    "avgHighPrice": 6,
+    "avgLowPrice": 4,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 968,
+    "lowPriceVolume": 56
   }
 ]
