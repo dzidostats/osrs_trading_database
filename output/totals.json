@@ -4926,5 +4926,33 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 3425,
+    "totalLowVolume": 817,
+    "averageHighPrice": 1,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 5,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "1311": {
+    "id": 1311,
+    "name": "Steel 2h sword",
+    "totalHighVolume": 1003,
+    "totalLowVolume": 225,
+    "averageHighPrice": 2,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 1,
+    "limit": 125,
+    "value": 1000,
+    "minimalPrice": 100
   }
 }
