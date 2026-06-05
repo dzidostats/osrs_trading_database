@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Wild pie",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779494740,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1779831792,
+      "profit": null
+    },
+    {
+      "time": 1779852983,
+      "profit": null
+    },
+    {
+      "time": 1779884339,
+      "profit": null
+    },
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780250393,
+      "profit": null
+    },
+    {
+      "time": 1780611585,
+      "profit": null
+    }
+  ]
+}

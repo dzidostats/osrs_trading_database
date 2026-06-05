@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ham hood",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780603391,
+      "profit": null
+    },
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1780636498,
+      "profit": null
+    },
+    {
+      "time": 1780662925,
+      "profit": null
+    },
+    {
+      "time": 1780674724,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    }
+  ]
+}
