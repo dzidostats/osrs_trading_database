@@ -4,87 +4,54 @@
     "name": "Body tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 25,
-    "lowPriceVolume": 1
+    "highPriceVolume": 123,
+    "lowPriceVolume": 14
   },
   {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 17,
-    "avgLowPrice": 17,
+    "avgHighPrice": 16,
+    "avgLowPrice": 9,
     "minimalPrice": 20,
-    "highPriceVolume": 241,
-    "lowPriceVolume": 217
+    "highPriceVolume": 984,
+    "lowPriceVolume": 3
   },
   {
-    "id": 5537,
-    "name": "Fire tiara",
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 870,
+    "lowPriceVolume": 27
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 10,
+    "avgLowPrice": 11,
+    "minimalPrice": 17,
+    "highPriceVolume": 2265,
+    "lowPriceVolume": 5561
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
+    "avgHighPrice": 7,
+    "avgLowPrice": 8,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1335,
-    "name": "Iron warhammer",
-    "limit": 125,
-    "value": 173,
-    "avgHighPrice": 9,
-    "avgLowPrice": 8,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 110,
-    "lowPriceVolume": 337
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 286,
-    "lowPriceVolume": 398
-  },
-  {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 8,
-    "avgLowPrice": 6,
-    "minimalPrice": 14,
-    "highPriceVolume": 158,
-    "lowPriceVolume": 42
-  },
-  {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 19,
-    "avgLowPrice": 15,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 32,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 6,
-    "avgLowPrice": 8,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 567
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   }
 ]
