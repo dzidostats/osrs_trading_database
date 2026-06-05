@@ -5626,5 +5626,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 12,
+    "totalLowVolume": 169,
+    "averageHighPrice": 4,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 2,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5104": {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "totalHighVolume": 609,
+    "totalLowVolume": 3505,
+    "averageHighPrice": 3,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 1,
+    "limit": 200,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 50,
+    "totalLowVolume": 472,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "407": {
+    "id": 407,
+    "name": "Oyster",
+    "totalHighVolume": 1,
+    "totalLowVolume": 96,
+    "averageHighPrice": 19,
+    "averageLowPrice": 16,
+    "samples": 1,
+    "lastHighPrice": 19,
+    "lastLowPrice": 16,
+    "limit": 11000,
+    "value": 200,
+    "minimalPrice": 20
   }
 }

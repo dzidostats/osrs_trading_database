@@ -1,68 +1,46 @@
 [
   {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
-  },
-  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
+    "avgHighPrice": 4,
+    "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 105,
-    "lowPriceVolume": 3
+    "highPriceVolume": 12,
+    "lowPriceVolume": 169
   },
   {
     "id": 5104,
     "name": "Jangerberry seed",
     "limit": 200,
     "value": 60,
-    "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgHighPrice": 3,
+    "avgLowPrice": 1,
     "minimalPrice": 6,
-    "highPriceVolume": 1477,
-    "lowPriceVolume": 1226
+    "highPriceVolume": 609,
+    "lowPriceVolume": 3505
   },
   {
-    "id": 54,
-    "name": "Oak shortbow (u)",
+    "id": 48,
+    "name": "Longbow (u)",
     "limit": 10000,
-    "value": 50,
+    "value": 60,
     "avgHighPrice": 3,
     "avgLowPrice": 3,
-    "minimalPrice": 5,
-    "highPriceVolume": 225,
-    "lowPriceVolume": 2018
+    "minimalPrice": 6,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 472
   },
   {
-    "id": 1339,
-    "name": "Steel warhammer",
-    "limit": 125,
-    "value": 640,
-    "avgHighPrice": 49,
-    "avgLowPrice": 50,
-    "minimalPrice": 64,
-    "highPriceVolume": 34,
-    "lowPriceVolume": 4
-  },
-  {
-    "id": 22254,
-    "name": "Willow shield",
-    "limit": 18000,
-    "value": 160,
-    "avgHighPrice": 10,
-    "avgLowPrice": 10,
-    "minimalPrice": 16,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1672
+    "id": 407,
+    "name": "Oyster",
+    "limit": 11000,
+    "value": 200,
+    "avgHighPrice": 19,
+    "avgLowPrice": 16,
+    "minimalPrice": 20,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 96
   }
 ]
