@@ -1,14 +1,36 @@
 [
   {
-    "id": 5535,
-    "name": "Earth tiara",
+    "id": 5533,
+    "name": "Body tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 2,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 169
+    "highPriceVolume": 6,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 1169,
+    "name": "Coif",
+    "limit": 125,
+    "value": 200,
+    "avgHighPrice": 16,
+    "avgLowPrice": 14,
+    "minimalPrice": 20,
+    "highPriceVolume": 365,
+    "lowPriceVolume": 17
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 11,
+    "avgLowPrice": 14,
+    "minimalPrice": 17,
+    "highPriceVolume": 539,
+    "lowPriceVolume": 13
   },
   {
     "id": 5104,
@@ -16,10 +38,10 @@
     "limit": 200,
     "value": 60,
     "avgHighPrice": 3,
-    "avgLowPrice": 1,
+    "avgLowPrice": 2,
     "minimalPrice": 6,
-    "highPriceVolume": 609,
-    "lowPriceVolume": 3505
+    "highPriceVolume": 1625,
+    "lowPriceVolume": 574
   },
   {
     "id": 48,
@@ -29,18 +51,40 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 472
+    "highPriceVolume": 225,
+    "lowPriceVolume": 233
+  },
+  {
+    "id": 5541,
+    "name": "Nature tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 10,
+    "highPriceVolume": 571,
+    "lowPriceVolume": 40
   },
   {
     "id": 407,
     "name": "Oyster",
     "limit": 11000,
     "value": 200,
-    "avgHighPrice": 19,
+    "avgHighPrice": 16,
     "avgLowPrice": 16,
     "minimalPrice": 20,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 96
+    "highPriceVolume": 33,
+    "lowPriceVolume": 35
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 9,
+    "avgLowPrice": 9,
+    "minimalPrice": 10,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   }
 ]
