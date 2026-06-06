@@ -4716,5 +4716,47 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 14,
+    "totalLowVolume": 320,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "5529": {
+    "id": 5529,
+    "name": "Mind tiara",
+    "totalHighVolume": 106,
+    "totalLowVolume": 1,
+    "averageHighPrice": 4,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 2,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 72,
+    "totalLowVolume": 205,
+    "averageHighPrice": 7,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 7,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
