@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Arcane spirit shield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779404503,
+      "profit": null
+    },
+    {
+      "time": 1779621292,
+      "profit": null
+    },
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    }
+  ]
+}

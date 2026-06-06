@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ensouled giant head",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778937492,
+      "profit": null
+    },
+    {
+      "time": 1778975481,
+      "profit": null
+    },
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1780441267,
+      "profit": null
+    },
+    {
+      "time": 1780745071,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    }
+  ]
+}
