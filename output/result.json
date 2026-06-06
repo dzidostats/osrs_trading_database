@@ -1,36 +1,47 @@
 [
   {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 5535,
-    "name": "Earth tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 2
-  },
-  {
     "id": 5537,
     "name": "Fire tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
+    "avgHighPrice": 3,
+    "avgLowPrice": 1,
     "minimalPrice": 10,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 1
+    "highPriceVolume": 68,
+    "lowPriceVolume": 360
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 13,
+    "avgLowPrice": 15,
+    "minimalPrice": 17,
+    "highPriceVolume": 31,
+    "lowPriceVolume": 370
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 6,
+    "highPriceVolume": 200,
+    "lowPriceVolume": 7
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 118,
+    "lowPriceVolume": 3
   },
   {
     "id": 5531,
@@ -38,20 +49,31 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 8,
-    "avgLowPrice": 7,
+    "avgLowPrice": 9,
     "minimalPrice": 10,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 2
+    "highPriceVolume": 7,
+    "lowPriceVolume": 1
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 10,
-    "avgLowPrice": 7,
+    "avgHighPrice": 5,
+    "avgLowPrice": 2,
     "minimalPrice": 13.3,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 37
+    "highPriceVolume": 16,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 32041,
+    "name": "Wooden hull parts",
+    "limit": 100,
+    "value": 250,
+    "avgHighPrice": 20,
+    "avgLowPrice": 10,
+    "minimalPrice": 25,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 20
   }
 ]
