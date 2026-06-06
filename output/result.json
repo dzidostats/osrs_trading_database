@@ -1,36 +1,25 @@
 [
   {
-    "id": 5537,
-    "name": "Fire tiara",
+    "id": 5533,
+    "name": "Body tiara",
     "limit": 40,
     "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 1,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 68,
-    "lowPriceVolume": 360
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 13,
-    "avgLowPrice": 15,
-    "minimalPrice": 17,
-    "highPriceVolume": 31,
-    "lowPriceVolume": 370
-  },
-  {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
     "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 2,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
     "minimalPrice": 6,
-    "highPriceVolume": 200,
-    "lowPriceVolume": 7
+    "highPriceVolume": 211,
+    "lowPriceVolume": 332
   },
   {
     "id": 5529,
@@ -38,42 +27,42 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
+    "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 118,
-    "lowPriceVolume": 3
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 8,
-    "avgLowPrice": 9,
-    "minimalPrice": 10,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 1
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 12,
+    "avgLowPrice": 12,
+    "minimalPrice": 14,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 20,
+    "avgLowPrice": 20,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 2
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 5,
-    "avgLowPrice": 2,
+    "avgHighPrice": 10,
+    "avgLowPrice": 8,
     "minimalPrice": 13.3,
-    "highPriceVolume": 16,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 32041,
-    "name": "Wooden hull parts",
-    "limit": 100,
-    "value": 250,
-    "avgHighPrice": 20,
-    "avgLowPrice": 10,
-    "minimalPrice": 25,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 20
+    "highPriceVolume": 20,
+    "lowPriceVolume": 38
   }
 ]
