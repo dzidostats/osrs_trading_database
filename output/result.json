@@ -1,80 +1,36 @@
 [
   {
-    "id": 3036,
-    "name": "Agility potion(2)",
-    "limit": 2000,
-    "value": 100,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 8,
-    "avgLowPrice": 8,
-    "minimalPrice": 10,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
-  },
-  {
     "id": 5535,
     "name": "Earth tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 52,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 5537,
-    "name": "Fire tiara",
     "limit": 40,
     "value": 100,
     "avgHighPrice": 4,
     "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 19,
+    "highPriceVolume": 4,
     "lowPriceVolume": 3
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 9,
-    "avgLowPrice": 8,
-    "minimalPrice": 17,
-    "highPriceVolume": 1028,
-    "lowPriceVolume": 97
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 102
   },
   {
     "id": 1335,
     "name": "Iron warhammer",
     "limit": 125,
     "value": 173,
-    "avgHighPrice": 17,
-    "avgLowPrice": 17,
+    "avgHighPrice": 14,
+    "avgLowPrice": 14,
     "minimalPrice": 17.3,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 185
-  },
-  {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 6,
-    "highPriceVolume": 35,
-    "lowPriceVolume": 88
+    "highPriceVolume": 11,
+    "lowPriceVolume": 74
   },
   {
     "id": 5529,
@@ -82,42 +38,42 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 6,
-    "avgLowPrice": 3,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 158
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 12,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 207,
-    "lowPriceVolume": 369
+    "highPriceVolume": 3,
+    "lowPriceVolume": 6
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
+    "avgHighPrice": 9,
+    "avgLowPrice": 10,
     "minimalPrice": 14,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 161
+    "highPriceVolume": 89,
+    "lowPriceVolume": 366
   },
   {
-    "id": 127,
-    "name": "Restore potion(3)",
-    "limit": 2000,
-    "value": 88,
-    "avgHighPrice": 6,
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 9,
+    "avgLowPrice": 7,
+    "minimalPrice": 10,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 10,
     "avgLowPrice": 6,
-    "minimalPrice": 8.8,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 398
+    "minimalPrice": 13.3,
+    "highPriceVolume": 180,
+    "lowPriceVolume": 984
   }
 ]
