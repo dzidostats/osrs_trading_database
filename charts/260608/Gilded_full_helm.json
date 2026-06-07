@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Gilded full helm",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779552444,
+      "profit": null
+    },
+    {
+      "time": 1779663382,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780603391,
+      "profit": null
+    },
+    {
+      "time": 1780700788,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ensouled demon head",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1778975481,
+      "profit": null
+    },
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779435751,
+      "profit": null
+    },
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779559168,
+      "profit": null
+    },
+    {
+      "time": 1779667227,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779746759,
+      "profit": null
+    },
+    {
+      "time": 1779852983,
+      "profit": null
+    },
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780510922,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    }
+  ]
+}

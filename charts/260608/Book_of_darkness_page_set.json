@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Book of darkness page set",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779753837,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1780351165,
+      "profit": null
+    },
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    }
+  ]
+}
