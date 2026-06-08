@@ -1,5 +1,27 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 67,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 650,
+    "lowPriceVolume": 50
+  },
+  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
@@ -7,41 +29,30 @@
     "avgHighPrice": 4,
     "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 4
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 9,
+    "avgHighPrice": 12,
+    "avgLowPrice": 11,
     "minimalPrice": 17,
-    "highPriceVolume": 23,
-    "lowPriceVolume": 7
+    "highPriceVolume": 238,
+    "lowPriceVolume": 352
   },
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 46,
-    "lowPriceVolume": 149
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 569,
-    "lowPriceVolume": 100
+    "id": 1095,
+    "name": "Leather chaps",
+    "limit": 125,
+    "value": 20,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 2,
+    "highPriceVolume": 895,
+    "lowPriceVolume": 747
   },
   {
     "id": 5529,
@@ -52,18 +63,18 @@
     "avgLowPrice": 2,
     "minimalPrice": 10,
     "highPriceVolume": 4,
-    "lowPriceVolume": 144
+    "lowPriceVolume": 2
   },
   {
-    "id": 5541,
-    "name": "Nature tiara",
-    "limit": 40,
-    "value": 100,
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
     "avgHighPrice": 1,
     "avgLowPrice": 1,
-    "minimalPrice": 10,
-    "highPriceVolume": 211,
-    "lowPriceVolume": 40
+    "minimalPrice": 14,
+    "highPriceVolume": 184,
+    "lowPriceVolume": 199
   },
   {
     "id": 5105,
@@ -71,20 +82,9 @@
     "limit": 200,
     "value": 133,
     "avgHighPrice": 4,
-    "avgLowPrice": 4,
+    "avgLowPrice": 5,
     "minimalPrice": 13.3,
-    "highPriceVolume": 79,
-    "lowPriceVolume": 30
-  },
-  {
-    "id": 9452,
-    "name": "Yew stock",
-    "limit": 10000,
-    "value": 167,
-    "avgHighPrice": 16,
-    "avgLowPrice": 2,
-    "minimalPrice": 16.7,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 28
+    "highPriceVolume": 220,
+    "lowPriceVolume": 355
   }
 ]
