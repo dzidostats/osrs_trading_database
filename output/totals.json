@@ -3750,5 +3750,33 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 1,
+    "totalLowVolume": 1,
+    "averageHighPrice": 4,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 3,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 4,
+    "totalLowVolume": 12,
+    "averageHighPrice": 9,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 9,
+    "lastLowPrice": 5,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
   }
 }
