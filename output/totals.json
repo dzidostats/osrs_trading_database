@@ -1244,5 +1244,61 @@
     "limit": 50000,
     "value": 4,
     "minimalPrice": 4
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 1,
+    "totalLowVolume": 1,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5529": {
+    "id": 5529,
+    "name": "Mind tiara",
+    "totalHighVolume": 1,
+    "totalLowVolume": 3,
+    "averageHighPrice": 6,
+    "averageLowPrice": 5,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 5,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1281": {
+    "id": 1281,
+    "name": "Steel sword",
+    "totalHighVolume": 2,
+    "totalLowVolume": 1,
+    "averageHighPrice": 19,
+    "averageLowPrice": 19,
+    "samples": 1,
+    "lastHighPrice": 19,
+    "lastLowPrice": 19,
+    "limit": 125,
+    "value": 325,
+    "minimalPrice": 32.5
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 4,
+    "totalLowVolume": 20,
+    "averageHighPrice": 6,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 6,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
