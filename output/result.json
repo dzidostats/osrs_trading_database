@@ -1,14 +1,47 @@
 [
   {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 2,
+    "avgLowPrice": 6,
+    "minimalPrice": 12,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 572
+  },
+  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
     "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 34
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
     "avgHighPrice": 3,
     "avgLowPrice": 3,
-    "minimalPrice": 10,
+    "minimalPrice": 6,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 11
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
     "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 100
   },
   {
     "id": 5529,
@@ -16,21 +49,32 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 6,
-    "avgLowPrice": 5,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 3
+    "highPriceVolume": 89,
+    "lowPriceVolume": 1
   },
   {
-    "id": 1281,
-    "name": "Steel sword",
-    "limit": 125,
-    "value": 325,
-    "avgHighPrice": 19,
-    "avgLowPrice": 19,
-    "minimalPrice": 32.5,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 11,
+    "avgLowPrice": 10,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 54,
+    "lowPriceVolume": 32
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 56,
+    "lowPriceVolume": 2
   },
   {
     "id": 5105,
@@ -38,9 +82,9 @@
     "limit": 200,
     "value": 133,
     "avgHighPrice": 6,
-    "avgLowPrice": 6,
+    "avgLowPrice": 3,
     "minimalPrice": 13.3,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 20
+    "highPriceVolume": 119,
+    "lowPriceVolume": 110
   }
 ]
