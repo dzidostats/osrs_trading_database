@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pearl bolt tips",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780109555,
+      "profit": null
+    },
+    {
+      "time": 1780139917,
+      "profit": null
+    },
+    {
+      "time": 1781028120,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    }
+  ]
+}

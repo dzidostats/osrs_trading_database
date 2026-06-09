@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Topiary hedge (bagged)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1780139917,
+      "profit": null
+    },
+    {
+      "time": 1780168259,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1780222422,
+      "profit": null
+    },
+    {
+      "time": 1780441267,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1780930015,
+      "profit": null
+    }
+  ]
+}

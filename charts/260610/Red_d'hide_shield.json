@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red d'hide shield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778876119,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1780714539,
+      "profit": null
+    },
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1780877110,
+      "profit": null
+    },
+    {
+      "time": 1780957503,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Avantoe seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    },
+    {
+      "time": 1779304992,
+      "profit": null
+    },
+    {
+      "time": 1779318669,
+      "profit": null
+    },
+    {
+      "time": 1779376840,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1779446927,
+      "profit": null
+    },
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1780160521,
+      "profit": null
+    },
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1780371862,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780441267,
+      "profit": null
+    },
+    {
+      "time": 1780523246,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780584951,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    },
+    {
+      "time": 1780745071,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    }
+  ]
+}
