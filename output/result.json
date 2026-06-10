@@ -1,36 +1,25 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
+    "id": 5535,
+    "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 5,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 9,
-    "avgLowPrice": 9,
+    "avgHighPrice": 10,
+    "avgLowPrice": 7,
     "minimalPrice": 17,
-    "highPriceVolume": 192,
-    "lowPriceVolume": 5
-  },
-  {
-    "id": 1363,
-    "name": "Iron battleaxe",
-    "limit": 125,
-    "value": 182,
-    "avgHighPrice": 16,
-    "avgLowPrice": 16,
-    "minimalPrice": 18.2,
-    "highPriceVolume": 88,
-    "lowPriceVolume": 75
+    "highPriceVolume": 4,
+    "lowPriceVolume": 77
   },
   {
     "id": 5104,
@@ -40,29 +29,29 @@
     "avgHighPrice": 4,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 496,
-    "lowPriceVolume": 31
+    "highPriceVolume": 1,
+    "lowPriceVolume": 17
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 371,
+    "lowPriceVolume": 14
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 11,
+    "avgHighPrice": 10,
     "avgLowPrice": 8,
     "minimalPrice": 14,
-    "highPriceVolume": 263,
-    "lowPriceVolume": 4
-  },
-  {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 27
+    "highPriceVolume": 18,
+    "lowPriceVolume": 35
   }
 ]
