@@ -1,5 +1,16 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 8,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 1
+  },
+  {
     "id": 5535,
     "name": "Earth tiara",
     "limit": 40,
@@ -7,30 +18,30 @@
     "avgHighPrice": 4,
     "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
+    "highPriceVolume": 46,
+    "lowPriceVolume": 50
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
+    "avgHighPrice": 8,
     "avgLowPrice": 7,
     "minimalPrice": 17,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 77
+    "highPriceVolume": 19,
+    "lowPriceVolume": 6
   },
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 17
+    "id": 1335,
+    "name": "Iron warhammer",
+    "limit": 125,
+    "value": 173,
+    "avgHighPrice": 17,
+    "avgLowPrice": 17,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 90,
+    "lowPriceVolume": 36
   },
   {
     "id": 48,
@@ -40,18 +51,29 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 371,
-    "lowPriceVolume": 14
+    "highPriceVolume": 595,
+    "lowPriceVolume": 27
+  },
+  {
+    "id": 5541,
+    "name": "Nature tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 166,
+    "lowPriceVolume": 1
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 10,
+    "avgHighPrice": 5,
     "avgLowPrice": 8,
     "minimalPrice": 14,
-    "highPriceVolume": 18,
-    "lowPriceVolume": 35
+    "highPriceVolume": 11,
+    "lowPriceVolume": 5
   }
 ]
