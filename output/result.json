@@ -1,47 +1,36 @@
 [
   {
-    "id": 5535,
-    "name": "Earth tiara",
-    "limit": 40,
-    "value": 100,
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
     "avgHighPrice": 4,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 31205,
-    "name": "Grid master altar icon scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 190000,
-    "avgLowPrice": 139373,
-    "minimalPrice": 250000,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 3
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 3,
+    "avgHighPrice": 6,
+    "avgLowPrice": 12,
     "minimalPrice": 17,
-    "highPriceVolume": 2511,
-    "lowPriceVolume": 1335
+    "highPriceVolume": 951,
+    "lowPriceVolume": 1
   },
   {
-    "id": 1335,
-    "name": "Iron warhammer",
-    "limit": 125,
-    "value": 173,
-    "avgHighPrice": 17,
-    "avgLowPrice": 12,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 276
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 5,
+    "minimalPrice": 6,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 536
   },
   {
     "id": 48,
@@ -51,40 +40,29 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 355,
-    "lowPriceVolume": 534
-  },
-  {
-    "id": 5541,
-    "name": "Nature tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 97,
-    "lowPriceVolume": 34
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 13,
-    "avgLowPrice": 13,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 314
+    "highPriceVolume": 83,
+    "lowPriceVolume": 528
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 11,
-    "avgLowPrice": 8,
+    "avgHighPrice": 9,
+    "avgLowPrice": 9,
     "minimalPrice": 14,
-    "highPriceVolume": 232,
-    "lowPriceVolume": 29
+    "highPriceVolume": 3,
+    "lowPriceVolume": 221
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 7,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   }
 ]
