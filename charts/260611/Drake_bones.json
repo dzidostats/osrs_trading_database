@@ -1,0 +1,85 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Drake bones",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779482541,
+      "profit": null
+    },
+    {
+      "time": 1779753837,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779909789,
+      "profit": null
+    },
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1779965803,
+      "profit": null
+    },
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780054033,
+      "profit": null
+    },
+    {
+      "time": 1780068154,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1780941056,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781096217,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Armadyl stole",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780002399,
+      "profit": null
+    },
+    {
+      "time": 1780088773,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1780160521,
+      "profit": null
+    },
+    {
+      "time": 1780168259,
+      "profit": null
+    },
+    {
+      "time": 1780178401,
+      "profit": null
+    },
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780238585,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780250393,
+      "profit": null
+    },
+    {
+      "time": 1780256279,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780272290,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    }
+  ]
+}

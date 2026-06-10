@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Tan cavalier",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780272290,
+      "profit": null
+    },
+    {
+      "time": 1780371862,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780779719,
+      "profit": null
+    }
+  ]
+}
