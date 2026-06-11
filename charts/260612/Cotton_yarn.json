@@ -1,0 +1,93 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Cotton yarn",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1778975481,
+      "profit": null
+    },
+    {
+      "time": 1779015852,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779235422,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779686292,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779909789,
+      "profit": null
+    },
+    {
+      "time": 1780088773,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781109365,
+      "profit": null
+    }
+  ]
+}

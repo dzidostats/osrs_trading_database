@@ -1,0 +1,117 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Magpie impling jar",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1778975482,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779130202,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    },
+    {
+      "time": 1779334233,
+      "profit": null
+    },
+    {
+      "time": 1779362490,
+      "profit": null
+    },
+    {
+      "time": 1779593587,
+      "profit": null
+    },
+    {
+      "time": 1779667227,
+      "profit": null
+    },
+    {
+      "time": 1779799130,
+      "profit": null
+    },
+    {
+      "time": 1779868908,
+      "profit": null
+    },
+    {
+      "time": 1779884339,
+      "profit": null
+    },
+    {
+      "time": 1779965803,
+      "profit": null
+    },
+    {
+      "time": 1780002399,
+      "profit": null
+    },
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1780930015,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    }
+  ]
+}

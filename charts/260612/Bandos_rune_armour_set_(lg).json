@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bandos rune armour set (lg)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779552444,
+      "profit": null
+    },
+    {
+      "time": 1780168259,
+      "profit": null
+    },
+    {
+      "time": 1780178401,
+      "profit": null
+    },
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780238585,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780458870,
+      "profit": null
+    },
+    {
+      "time": 1780652593,
+      "profit": null
+    },
+    {
+      "time": 1781043797,
+      "profit": null
+    }
+  ]
+}

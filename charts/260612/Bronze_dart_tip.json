@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bronze dart tip",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779511108,
+      "profit": null
+    },
+    {
+      "time": 1779663382,
+      "profit": null
+    },
+    {
+      "time": 1780265046,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    }
+  ]
+}
