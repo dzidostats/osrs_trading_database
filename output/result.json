@@ -1,47 +1,69 @@
 [
   {
-    "id": 6470,
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "avgHighPrice": 4,
+    "id": 1169,
+    "name": "Coif",
+    "limit": 125,
+    "value": 200,
+    "avgHighPrice": 7,
+    "avgLowPrice": 10,
+    "minimalPrice": 20,
+    "highPriceVolume": 349,
+    "lowPriceVolume": 2058
+  },
+  {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
     "avgLowPrice": 2,
-    "minimalPrice": 12,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 3
+    "minimalPrice": 2.5,
+    "highPriceVolume": 43,
+    "lowPriceVolume": 18
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 6,
-    "avgLowPrice": 12,
+    "avgHighPrice": 9,
+    "avgLowPrice": 8,
     "minimalPrice": 17,
-    "highPriceVolume": 951,
-    "lowPriceVolume": 1
+    "highPriceVolume": 69,
+    "lowPriceVolume": 14
   },
   {
     "id": 5104,
     "name": "Jangerberry seed",
     "limit": 200,
     "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 5,
+    "avgHighPrice": 3,
+    "avgLowPrice": 4,
     "minimalPrice": 6,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 536
+    "highPriceVolume": 11,
+    "lowPriceVolume": 137
   },
   {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
+    "id": 5541,
+    "name": "Nature tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
     "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 83,
-    "lowPriceVolume": 528
+    "minimalPrice": 10,
+    "highPriceVolume": 170,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 12,
+    "avgLowPrice": 15,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 809,
+    "lowPriceVolume": 675
   },
   {
     "id": 22873,
@@ -49,10 +71,10 @@
     "limit": 200,
     "value": 140,
     "avgHighPrice": 9,
-    "avgLowPrice": 9,
+    "avgLowPrice": 8,
     "minimalPrice": 14,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 221
+    "highPriceVolume": 8,
+    "lowPriceVolume": 9
   },
   {
     "id": 5531,
@@ -60,9 +82,20 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 7,
-    "avgLowPrice": 6,
+    "avgLowPrice": 8,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
+    "highPriceVolume": 134,
+    "lowPriceVolume": 38
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 11,
+    "avgLowPrice": 7,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 338,
+    "lowPriceVolume": 359
   }
 ]
