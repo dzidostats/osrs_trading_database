@@ -5,99 +5,139 @@
     "limit": 10000,
     "value": 40,
     "avgHighPrice": 91,
-    "avgLowPrice": 89,
-    "highPriceVolume": 12441,
-    "lowPriceVolume": 9428
+    "avgLowPrice": 90,
+    "highPriceVolume": 1001,
+    "lowPriceVolume": 2250
   },
   {
     "id": 31912,
     "name": "Adamant cannonball",
     "limit": 11000,
     "value": 180,
-    "avgHighPrice": 643,
-    "avgLowPrice": 627,
-    "highPriceVolume": 12130,
-    "lowPriceVolume": 28261
+    "avgHighPrice": 653,
+    "avgLowPrice": 623,
+    "highPriceVolume": 36416,
+    "lowPriceVolume": 15173
   },
   {
     "id": 449,
     "name": "Adamantite ore",
     "limit": 4500,
     "value": 400,
-    "avgHighPrice": 633,
-    "avgLowPrice": 629,
-    "highPriceVolume": 23881,
-    "lowPriceVolume": 63118
+    "avgHighPrice": 648,
+    "avgLowPrice": 631,
+    "highPriceVolume": 14542,
+    "lowPriceVolume": 87639
   },
   {
     "id": 556,
     "name": "Air rune",
     "limit": 50000,
     "value": 4,
-    "avgHighPrice": 5,
+    "avgHighPrice": 6,
     "avgLowPrice": 5,
-    "highPriceVolume": 342197,
-    "lowPriceVolume": 171214
+    "highPriceVolume": 927238,
+    "lowPriceVolume": 933288
   },
   {
     "id": 1438,
     "name": "Air talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 331,
+    "avgHighPrice": 350,
     "avgLowPrice": 281,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1075
-  },
-  {
-    "id": 29993,
-    "name": "Aldarium",
-    "limit": 13000,
-    "value": 100,
-    "avgHighPrice": 48027,
-    "avgLowPrice": 47643,
-    "highPriceVolume": 1730,
-    "lowPriceVolume": 2294
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1080
   },
   {
     "id": 12775,
     "name": "Annakarl teleport (tablet)",
     "limit": 10000,
     "value": 1,
-    "avgHighPrice": 2473,
-    "avgLowPrice": 2277,
-    "highPriceVolume": 598,
-    "lowPriceVolume": 486
+    "avgHighPrice": 2537,
+    "avgLowPrice": 2278,
+    "highPriceVolume": 969,
+    "lowPriceVolume": 624
+  },
+  {
+    "id": 33015,
+    "name": "Annihilation blueprints",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 33000000,
+    "avgLowPrice": 33000000,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 33012,
+    "name": "Annihilation weapon scroll",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 27900000,
+    "avgLowPrice": 26139970,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 7
   },
   {
     "id": 1540,
     "name": "Anti-dragon shield",
     "limit": 125,
     "value": 20,
-    "avgHighPrice": 104,
-    "avgLowPrice": 103,
-    "highPriceVolume": 146,
-    "lowPriceVolume": 10
+    "avgHighPrice": 109,
+    "avgLowPrice": 106,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 3
   },
   {
-    "id": 1905,
-    "name": "Asgarnian ale",
-    "limit": 2000,
-    "value": 2,
-    "avgHighPrice": 306,
-    "avgLowPrice": 129,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 6
+    "id": 2323,
+    "name": "Apple pie",
+    "limit": 10000,
+    "value": 30,
+    "avgHighPrice": 77,
+    "avgLowPrice": 73,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 781
+  },
+  {
+    "id": 29628,
+    "name": "Armageddon cape fabric",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 14100000,
+    "avgLowPrice": 13550000,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 29625,
+    "name": "Armageddon weapon scroll",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 25500000,
+    "avgLowPrice": 26000000,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 2
   },
   {
     "id": 5308,
     "name": "Asgarnian seed",
     "limit": 2000,
     "value": 3,
-    "avgHighPrice": 10,
+    "avgHighPrice": 8,
     "avgLowPrice": 7,
-    "highPriceVolume": 1070,
-    "lowPriceVolume": 25991
+    "highPriceVolume": 2000,
+    "lowPriceVolume": 3568
+  },
+  {
+    "id": 4161,
+    "name": "Bag of salt",
+    "limit": 8000,
+    "value": 10,
+    "avgHighPrice": 35,
+    "avgLowPrice": 23,
+    "highPriceVolume": 65,
+    "lowPriceVolume": 11
   },
   {
     "id": 8419,
@@ -105,69 +145,39 @@
     "limit": 10000,
     "value": 2000,
     "avgHighPrice": 3850,
-    "avgLowPrice": 3365,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 26
+    "avgLowPrice": 3510,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
     "id": 8431,
     "name": "Bagged plant 1",
     "limit": 10000,
     "value": 1000,
-    "avgHighPrice": 1549,
-    "avgLowPrice": 1430,
-    "highPriceVolume": 910,
-    "lowPriceVolume": 6
-  },
-  {
-    "id": 8435,
-    "name": "Bagged plant 3",
-    "limit": 10000,
-    "value": 10000,
-    "avgHighPrice": 14494,
-    "avgLowPrice": 13094,
-    "highPriceVolume": 136,
-    "lowPriceVolume": 21
-  },
-  {
-    "id": 8427,
-    "name": "Bagged yew tree",
-    "limit": 10000,
-    "value": 20000,
-    "avgHighPrice": 22399,
-    "avgLowPrice": 23589,
-    "highPriceVolume": 14,
-    "lowPriceVolume": 193
+    "avgHighPrice": 1548,
+    "avgLowPrice": 1432,
+    "highPriceVolume": 35,
+    "lowPriceVolume": 110
   },
   {
     "id": 1759,
     "name": "Ball of wool",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 59,
-    "avgLowPrice": 58,
-    "highPriceVolume": 590,
-    "lowPriceVolume": 1517
+    "avgHighPrice": 56,
+    "avgLowPrice": 54,
+    "highPriceVolume": 8756,
+    "lowPriceVolume": 559
   },
   {
     "id": 1963,
     "name": "Banana",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 42,
+    "avgHighPrice": 41,
     "avgLowPrice": 41,
-    "highPriceVolume": 171,
-    "lowPriceVolume": 261
-  },
-  {
-    "id": 4627,
-    "name": "Bandit's brew",
-    "limit": 2000,
-    "value": 500,
-    "avgHighPrice": 1745,
-    "avgLowPrice": 1500,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 2
+    "highPriceVolume": 2231,
+    "lowPriceVolume": 9205
   },
   {
     "id": 5305,
@@ -175,19 +185,29 @@
     "limit": 2000,
     "value": 2,
     "avgHighPrice": 7,
-    "avgLowPrice": 6,
-    "highPriceVolume": 13655,
-    "lowPriceVolume": 23
+    "avgLowPrice": 5,
+    "highPriceVolume": 13243,
+    "lowPriceVolume": 1520
+  },
+  {
+    "id": 5376,
+    "name": "Basket",
+    "limit": 10000,
+    "value": 1,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 128
   },
   {
     "id": 365,
     "name": "Bass",
     "limit": 6000,
     "value": 40,
-    "avgHighPrice": 87,
-    "avgLowPrice": 71,
-    "highPriceVolume": 17403,
-    "lowPriceVolume": 1112
+    "avgHighPrice": 95,
+    "avgLowPrice": 73,
+    "highPriceVolume": 18,
+    "lowPriceVolume": 8914
   },
   {
     "id": 1391,
@@ -195,9 +215,9 @@
     "limit": 11000,
     "value": 7000,
     "avgHighPrice": 7701,
-    "avgLowPrice": 7678,
-    "highPriceVolume": 14067,
-    "lowPriceVolume": 32827
+    "avgLowPrice": 7642,
+    "highPriceVolume": 23014,
+    "lowPriceVolume": 33568
   },
   {
     "id": 948,
@@ -205,99 +225,109 @@
     "limit": 18000,
     "value": 10,
     "avgHighPrice": 205,
-    "avgLowPrice": 74,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 7
+    "avgLowPrice": 55,
+    "highPriceVolume": 23,
+    "lowPriceVolume": 5
   },
   {
     "id": 1917,
     "name": "Beer",
     "limit": 2000,
     "value": 2,
-    "avgHighPrice": 85,
-    "avgLowPrice": 83,
-    "highPriceVolume": 37,
-    "lowPriceVolume": 14
+    "avgHighPrice": 86,
+    "avgLowPrice": 85,
+    "highPriceVolume": 55,
+    "lowPriceVolume": 21
+  },
+  {
+    "id": 1919,
+    "name": "Beer glass",
+    "limit": 10000,
+    "value": 2,
+    "avgHighPrice": 24,
+    "avgLowPrice": 24,
+    "highPriceVolume": 42,
+    "lowPriceVolume": 10232
   },
   {
     "id": 305,
     "name": "Big fishing net",
     "limit": 40,
     "value": 20,
-    "avgHighPrice": 118,
-    "avgLowPrice": 100,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 1
+    "avgHighPrice": 292,
+    "avgLowPrice": 138,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 5
+  },
+  {
+    "id": 10006,
+    "name": "Bird snare",
+    "limit": 250,
+    "value": 5,
+    "avgHighPrice": 27,
+    "avgLowPrice": 9,
+    "highPriceVolume": 256,
+    "lowPriceVolume": 39
   },
   {
     "id": 1019,
     "name": "Black cape",
     "limit": 150,
     "value": 7,
-    "avgHighPrice": 868,
-    "avgLowPrice": 708,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 11
-  },
-  {
-    "id": 1107,
-    "name": "Black chainbody",
-    "limit": 125,
-    "value": 1440,
-    "avgHighPrice": 10000,
-    "avgLowPrice": 4345,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "avgHighPrice": 999,
+    "avgLowPrice": 706,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 44
   },
   {
     "id": 1327,
     "name": "Black scimitar",
     "limit": 125,
     "value": 768,
-    "avgHighPrice": 1699,
-    "avgLowPrice": 1655,
-    "highPriceVolume": 23,
-    "lowPriceVolume": 3
+    "avgHighPrice": 1657,
+    "avgLowPrice": 1656,
+    "highPriceVolume": 81,
+    "lowPriceVolume": 23
   },
   {
     "id": 24607,
     "name": "Blighted ancient ice sack",
     "limit": 15000,
     "value": 35,
-    "avgHighPrice": 300,
-    "avgLowPrice": 300,
-    "highPriceVolume": 118369,
-    "lowPriceVolume": 46001
+    "avgHighPrice": 322,
+    "avgLowPrice": 312,
+    "highPriceVolume": 117984,
+    "lowPriceVolume": 24599
   },
   {
     "id": 24592,
     "name": "Blighted anglerfish",
     "limit": 10000,
     "value": 50,
-    "avgHighPrice": 122,
-    "avgLowPrice": 121,
-    "highPriceVolume": 7353,
-    "lowPriceVolume": 25402
+    "avgHighPrice": 126,
+    "avgLowPrice": 125,
+    "highPriceVolume": 28031,
+    "lowPriceVolume": 24933
   },
   {
     "id": 24613,
     "name": "Blighted entangle sack",
     "limit": 15000,
     "value": 30,
-    "avgHighPrice": 48,
+    "avgHighPrice": 47,
     "avgLowPrice": 44,
-    "highPriceVolume": 7970,
-    "lowPriceVolume": 3606
+    "highPriceVolume": 6058,
+    "lowPriceVolume": 4583
   },
   {
     "id": 24595,
     "name": "Blighted karambwan",
     "limit": 10000,
     "value": 50,
-    "avgHighPrice": 71,
-    "avgLowPrice": 69,
-    "highPriceVolume": 3433,
-    "lowPriceVolume": 31597
+    "avgHighPrice": 73,
+    "avgLowPrice": 70,
+    "highPriceVolume": 22960,
+    "lowPriceVolume": 9410
   },
   {
     "id": 24589,
@@ -305,69 +335,99 @@
     "limit": 10000,
     "value": 50,
     "avgHighPrice": 127,
-    "avgLowPrice": 116,
-    "highPriceVolume": 8377,
-    "lowPriceVolume": 13865
+    "avgLowPrice": 120,
+    "highPriceVolume": 11199,
+    "lowPriceVolume": 15265
   },
   {
     "id": 24598,
     "name": "Blighted super restore(4)",
     "limit": 2000,
     "value": 40,
-    "avgHighPrice": 2093,
-    "avgLowPrice": 2023,
-    "highPriceVolume": 2852,
-    "lowPriceVolume": 7401
+    "avgHighPrice": 2109,
+    "avgLowPrice": 2092,
+    "highPriceVolume": 7323,
+    "lowPriceVolume": 1492
   },
   {
     "id": 24615,
     "name": "Blighted teleport spell sack",
     "limit": 10000,
     "value": 32,
-    "avgHighPrice": 66,
-    "avgLowPrice": 61,
-    "highPriceVolume": 2486,
-    "lowPriceVolume": 3551
+    "avgHighPrice": 67,
+    "avgLowPrice": 60,
+    "highPriceVolume": 9086,
+    "lowPriceVolume": 1794
   },
   {
     "id": 24621,
     "name": "Blighted vengeance sack",
     "limit": 10000,
     "value": 31,
-    "avgHighPrice": 109,
-    "avgLowPrice": 95,
-    "highPriceVolume": 2180,
-    "lowPriceVolume": 9185
+    "avgHighPrice": 113,
+    "avgLowPrice": 107,
+    "highPriceVolume": 31910,
+    "lowPriceVolume": 9164
   },
   {
     "id": 1021,
     "name": "Blue cape",
     "limit": 150,
     "value": 32,
-    "avgHighPrice": 254,
-    "avgLowPrice": 230,
+    "avgHighPrice": 235,
+    "avgLowPrice": 329,
     "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 25
   },
   {
     "id": 1767,
     "name": "Blue dye",
     "limit": 150,
     "value": 5,
-    "avgHighPrice": 399,
-    "avgLowPrice": 400,
-    "highPriceVolume": 81,
-    "lowPriceVolume": 12
+    "avgHighPrice": 397,
+    "avgLowPrice": 316,
+    "highPriceVolume": 107,
+    "lowPriceVolume": 9
+  },
+  {
+    "id": 660,
+    "name": "Blue hat",
+    "limit": 150,
+    "value": 160,
+    "avgHighPrice": 615,
+    "avgLowPrice": 350,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 640,
+    "name": "Blue robe top",
+    "limit": 150,
+    "value": 180,
+    "avgHighPrice": 1066,
+    "avgLowPrice": 550,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1011,
+    "name": "Blue skirt",
+    "limit": 150,
+    "value": 2,
+    "avgHighPrice": 65,
+    "avgLowPrice": 45,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 4
   },
   {
     "id": 579,
     "name": "Blue wizard hat",
     "limit": 125,
     "value": 2,
-    "avgHighPrice": 207,
-    "avgLowPrice": 197,
-    "highPriceVolume": 57,
-    "lowPriceVolume": 14
+    "avgHighPrice": 282,
+    "avgLowPrice": 195,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 65
   },
   {
     "id": 559,
@@ -375,9 +435,9 @@
     "limit": 18000,
     "value": 3,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "highPriceVolume": 25373,
-    "lowPriceVolume": 29338
+    "avgLowPrice": 4,
+    "highPriceVolume": 33288,
+    "lowPriceVolume": 2929
   },
   {
     "id": 1446,
@@ -386,48 +446,28 @@
     "value": 4,
     "avgHighPrice": 1800,
     "avgLowPrice": 1800,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 116
+    "highPriceVolume": 17,
+    "lowPriceVolume": 261
   },
   {
     "id": 4740,
     "name": "Bolt rack",
     "limit": 11000,
     "value": 50,
-    "avgHighPrice": 114,
-    "avgLowPrice": 106,
-    "highPriceVolume": 1100,
-    "lowPriceVolume": 658
+    "avgHighPrice": 104,
+    "avgLowPrice": 95,
+    "highPriceVolume": 15715,
+    "lowPriceVolume": 742
   },
   {
-    "id": 8882,
-    "name": "Bone bolts",
-    "limit": 11000,
-    "value": 3,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "highPriceVolume": 39663,
-    "lowPriceVolume": 8827
-  },
-  {
-    "id": 8872,
-    "name": "Bone dagger",
+    "id": 8878,
+    "name": "Bone dagger (p++)",
     "limit": 70,
     "value": 2000,
-    "avgHighPrice": 4183,
-    "avgLowPrice": 4000,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 23037,
-    "name": "Boots of stone",
-    "limit": 125,
-    "value": 200,
-    "avgHighPrice": 900,
-    "avgLowPrice": 440,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 1
+    "avgHighPrice": 5618,
+    "avgLowPrice": 5500,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 20
   },
   {
     "id": 1777,
@@ -436,8 +476,8 @@
     "value": 10,
     "avgHighPrice": 110,
     "avgLowPrice": 110,
-    "highPriceVolume": 35530,
-    "lowPriceVolume": 26412
+    "highPriceVolume": 22249,
+    "lowPriceVolume": 12099
   },
   {
     "id": 1923,
@@ -445,19 +485,29 @@
     "limit": 13000,
     "value": 4,
     "avgHighPrice": 27,
-    "avgLowPrice": 24,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 40
+    "avgLowPrice": 23,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 208
+  },
+  {
+    "id": 10008,
+    "name": "Box trap",
+    "limit": 250,
+    "value": 32,
+    "avgHighPrice": 47,
+    "avgLowPrice": 43,
+    "highPriceVolume": 516,
+    "lowPriceVolume": 24
   },
   {
     "id": 11065,
     "name": "Bracelet mould",
     "limit": 40,
     "value": 5,
-    "avgHighPrice": 441,
+    "avgHighPrice": 800,
     "avgLowPrice": 100,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
   },
   {
     "id": 2309,
@@ -465,19 +515,19 @@
     "limit": 6000,
     "value": 12,
     "avgHighPrice": 107,
-    "avgLowPrice": 100,
-    "highPriceVolume": 106,
-    "lowPriceVolume": 95
+    "avgLowPrice": 102,
+    "highPriceVolume": 1219,
+    "lowPriceVolume": 8
   },
   {
     "id": 1307,
     "name": "Bronze 2h sword",
     "limit": 125,
     "value": 80,
-    "avgHighPrice": 347,
-    "avgLowPrice": 250,
+    "avgHighPrice": 345,
+    "avgLowPrice": 180,
     "highPriceVolume": 2,
-    "lowPriceVolume": 24
+    "lowPriceVolume": 28
   },
   {
     "id": 882,
@@ -485,9 +535,9 @@
     "limit": 7000,
     "value": 1,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "highPriceVolume": 12575,
-    "lowPriceVolume": 5834
+    "avgLowPrice": 4,
+    "highPriceVolume": 16762,
+    "lowPriceVolume": 12208
   },
   {
     "id": 39,
@@ -496,8 +546,18 @@
     "value": 1,
     "avgHighPrice": 4,
     "avgLowPrice": 4,
-    "highPriceVolume": 1025,
-    "lowPriceVolume": 2000
+    "highPriceVolume": 12626,
+    "lowPriceVolume": 6340
+  },
+  {
+    "id": 1351,
+    "name": "Bronze axe",
+    "limit": 40,
+    "value": 16,
+    "avgHighPrice": 81,
+    "avgLowPrice": 83,
+    "highPriceVolume": 262,
+    "lowPriceVolume": 68
   },
   {
     "id": 2349,
@@ -505,19 +565,9 @@
     "limit": 10000,
     "value": 8,
     "avgHighPrice": 62,
-    "avgLowPrice": 62,
-    "highPriceVolume": 3501,
-    "lowPriceVolume": 4721
-  },
-  {
-    "id": 877,
-    "name": "Bronze bolts",
-    "limit": 7000,
-    "value": 0,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "highPriceVolume": 1621,
-    "lowPriceVolume": 133
+    "avgLowPrice": 61,
+    "highPriceVolume": 2440,
+    "lowPriceVolume": 2448
   },
   {
     "id": 31906,
@@ -525,39 +575,39 @@
     "limit": 11000,
     "value": 2,
     "avgHighPrice": 8,
-    "avgLowPrice": 6,
-    "highPriceVolume": 10906,
-    "lowPriceVolume": 32
+    "avgLowPrice": 7,
+    "highPriceVolume": 3189,
+    "lowPriceVolume": 3441
   },
   {
-    "id": 9174,
-    "name": "Bronze crossbow",
+    "id": 3095,
+    "name": "Bronze claws",
     "limit": 125,
-    "value": 73,
-    "avgHighPrice": 650,
-    "avgLowPrice": 601,
+    "value": 15,
+    "avgHighPrice": 420000,
+    "avgLowPrice": 301,
     "highPriceVolume": 1,
-    "lowPriceVolume": 43
+    "lowPriceVolume": 12
   },
   {
     "id": 1205,
     "name": "Bronze dagger",
     "limit": 125,
     "value": 10,
-    "avgHighPrice": 81,
-    "avgLowPrice": 81,
-    "highPriceVolume": 1067,
-    "lowPriceVolume": 1
+    "avgHighPrice": 68,
+    "avgLowPrice": 38,
+    "highPriceVolume": 194,
+    "lowPriceVolume": 7
   },
   {
     "id": 1155,
     "name": "Bronze full helm",
     "limit": 125,
     "value": 44,
-    "avgHighPrice": 62,
-    "avgLowPrice": 61,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 34
+    "avgHighPrice": 302,
+    "avgLowPrice": 75,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 38
   },
   {
     "id": 825,
@@ -566,8 +616,8 @@
     "value": 4,
     "avgHighPrice": 10,
     "avgLowPrice": 10,
-    "highPriceVolume": 63,
-    "lowPriceVolume": 546
+    "highPriceVolume": 168,
+    "lowPriceVolume": 147
   },
   {
     "id": 1189,
@@ -575,29 +625,19 @@
     "limit": 125,
     "value": 68,
     "avgHighPrice": 150,
-    "avgLowPrice": 131,
+    "avgLowPrice": 128,
     "highPriceVolume": 1,
-    "lowPriceVolume": 75
-  },
-  {
-    "id": 9420,
-    "name": "Bronze limbs",
-    "limit": 10000,
-    "value": 20,
-    "avgHighPrice": 37,
-    "avgLowPrice": 42,
-    "highPriceVolume": 17,
-    "lowPriceVolume": 9
+    "lowPriceVolume": 16
   },
   {
     "id": 1139,
     "name": "Bronze med helm",
     "limit": 125,
     "value": 24,
-    "avgHighPrice": 40,
-    "avgLowPrice": 38,
-    "highPriceVolume": 44,
-    "lowPriceVolume": 6
+    "avgHighPrice": 83,
+    "avgLowPrice": 32,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 5
   },
   {
     "id": 1265,
@@ -606,28 +646,38 @@
     "value": 1,
     "avgHighPrice": 75,
     "avgLowPrice": 62,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 7
+    "highPriceVolume": 24,
+    "lowPriceVolume": 11
+  },
+  {
+    "id": 1075,
+    "name": "Bronze platelegs",
+    "limit": 125,
+    "value": 80,
+    "avgHighPrice": 181,
+    "avgLowPrice": 161,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 116
   },
   {
     "id": 1237,
     "name": "Bronze spear",
     "limit": 125,
     "value": 26,
-    "avgHighPrice": 888,
-    "avgLowPrice": 434,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 5
+    "avgHighPrice": 795,
+    "avgLowPrice": 370,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 18
   },
   {
     "id": 1277,
     "name": "Bronze sword",
     "limit": 125,
     "value": 26,
-    "avgHighPrice": 60,
-    "avgLowPrice": 61,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 5
+    "avgHighPrice": 116,
+    "avgLowPrice": 62,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 15
   },
   {
     "id": 1757,
@@ -636,7 +686,7 @@
     "value": 2,
     "avgHighPrice": 57,
     "avgLowPrice": 56,
-    "highPriceVolume": 6,
+    "highPriceVolume": 13,
     "lowPriceVolume": 1
   },
   {
@@ -644,60 +694,60 @@
     "name": "Bucket",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 9,
-    "avgLowPrice": 9,
-    "highPriceVolume": 150688,
-    "lowPriceVolume": 10474
+    "avgHighPrice": 8,
+    "avgLowPrice": 8,
+    "highPriceVolume": 171516,
+    "lowPriceVolume": 5892
   },
   {
     "id": 1783,
     "name": "Bucket of sand",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 10,
+    "avgHighPrice": 11,
     "avgLowPrice": 9,
-    "highPriceVolume": 16143,
-    "lowPriceVolume": 22313
+    "highPriceVolume": 6045,
+    "lowPriceVolume": 33187
   },
   {
     "id": 4687,
     "name": "Bucket of sap",
     "limit": 15,
     "value": 30,
-    "avgHighPrice": 423,
-    "avgLowPrice": 423,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 1
+    "avgHighPrice": 459,
+    "avgLowPrice": 445,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 4
   },
   {
     "id": 1929,
     "name": "Bucket of water",
     "limit": 13000,
     "value": 6,
-    "avgHighPrice": 26,
-    "avgLowPrice": 25,
-    "highPriceVolume": 173,
-    "lowPriceVolume": 24
-  },
-  {
-    "id": 4548,
-    "name": "Bullseye lantern",
-    "limit": 10000,
-    "value": 420,
-    "avgHighPrice": 1712,
-    "avgLowPrice": 1641,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 3
+    "avgHighPrice": 27,
+    "avgLowPrice": 26,
+    "highPriceVolume": 92,
+    "lowPriceVolume": 321
   },
   {
     "id": 10012,
     "name": "Butterfly jar",
     "limit": 40,
     "value": 1,
-    "avgHighPrice": 25,
+    "avgHighPrice": 30,
     "avgLowPrice": 27,
-    "highPriceVolume": 150,
-    "lowPriceVolume": 69
+    "highPriceVolume": 87,
+    "lowPriceVolume": 433
+  },
+  {
+    "id": 10010,
+    "name": "Butterfly net",
+    "limit": 125,
+    "value": 20,
+    "avgHighPrice": 99,
+    "avgLowPrice": 50,
+    "highPriceVolume": 18,
+    "lowPriceVolume": 2
   },
   {
     "id": 1965,
@@ -705,19 +755,29 @@
     "limit": 6000,
     "value": 1,
     "avgHighPrice": 20,
-    "avgLowPrice": 20,
-    "highPriceVolume": 547,
-    "lowPriceVolume": 6071
+    "avgLowPrice": 18,
+    "highPriceVolume": 12271,
+    "lowPriceVolume": 118
+  },
+  {
+    "id": 5324,
+    "name": "Cabbage seed",
+    "limit": 600,
+    "value": 3,
+    "avgHighPrice": 7,
+    "avgLowPrice": 4,
+    "highPriceVolume": 62,
+    "lowPriceVolume": 1739
   },
   {
     "id": 1891,
     "name": "Cake",
     "limit": 6000,
     "value": 50,
-    "avgHighPrice": 363,
-    "avgLowPrice": 331,
-    "highPriceVolume": 240,
-    "lowPriceVolume": 2367
+    "avgHighPrice": 378,
+    "avgLowPrice": 327,
+    "highPriceVolume": 101,
+    "lowPriceVolume": 1259
   },
   {
     "id": 1887,
@@ -726,17 +786,17 @@
     "value": 10,
     "avgHighPrice": 71,
     "avgLowPrice": 69,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 1
+    "highPriceVolume": 23,
+    "lowPriceVolume": 3
   },
   {
     "id": 36,
     "name": "Candle",
     "limit": 40,
     "value": 3,
-    "avgHighPrice": 236,
-    "avgLowPrice": 69,
-    "highPriceVolume": 53,
+    "avgHighPrice": 237,
+    "avgLowPrice": 235,
+    "highPriceVolume": 73,
     "lowPriceVolume": 3
   },
   {
@@ -744,30 +804,30 @@
     "name": "Cannon base",
     "limit": 70,
     "value": 187500,
-    "avgHighPrice": 196718,
+    "avgHighPrice": 198887,
     "avgLowPrice": 191505,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
+    "highPriceVolume": 7,
+    "lowPriceVolume": 6
   },
   {
     "id": 12,
     "name": "Cannon furnace",
     "limit": 70,
     "value": 187500,
-    "avgHighPrice": 294460,
-    "avgLowPrice": 201769,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 6
+    "avgHighPrice": 229646,
+    "avgLowPrice": 201792,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 13
   },
   {
     "id": 12776,
     "name": "Carrallanger teleport (tablet)",
     "limit": 10000,
     "value": 1,
-    "avgHighPrice": 3250,
-    "avgLowPrice": 2704,
-    "highPriceVolume": 210,
-    "lowPriceVolume": 83
+    "avgHighPrice": 2230,
+    "avgLowPrice": 1600,
+    "highPriceVolume": 28,
+    "lowPriceVolume": 7
   },
   {
     "id": 562,
@@ -776,37 +836,47 @@
     "value": 90,
     "avgHighPrice": 106,
     "avgLowPrice": 104,
-    "highPriceVolume": 830676,
-    "lowPriceVolume": 492512
+    "highPriceVolume": 667883,
+    "lowPriceVolume": 281359
   },
   {
     "id": 1452,
     "name": "Chaos talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 322,
+    "avgHighPrice": 321,
     "avgLowPrice": 300,
     "highPriceVolume": 9,
-    "lowPriceVolume": 39
+    "lowPriceVolume": 24
   },
   {
     "id": 973,
     "name": "Charcoal",
     "limit": 13000,
     "value": 45,
-    "avgHighPrice": 152,
+    "avgHighPrice": 153,
     "avgLowPrice": 145,
-    "highPriceVolume": 57,
-    "lowPriceVolume": 2
+    "highPriceVolume": 303,
+    "lowPriceVolume": 104
+  },
+  {
+    "id": 1985,
+    "name": "Cheese",
+    "limit": 13000,
+    "value": 4,
+    "avgHighPrice": 62,
+    "avgLowPrice": 60,
+    "highPriceVolume": 1145,
+    "lowPriceVolume": 1834
   },
   {
     "id": 1949,
     "name": "Chef's hat",
     "limit": 150,
     "value": 2,
-    "avgHighPrice": 236,
-    "avgLowPrice": 111,
-    "highPriceVolume": 8,
+    "avgHighPrice": 232,
+    "avgLowPrice": 130,
+    "highPriceVolume": 9,
     "lowPriceVolume": 1
   },
   {
@@ -814,20 +884,30 @@
     "name": "Chisel",
     "limit": 40,
     "value": 1,
-    "avgHighPrice": 133,
-    "avgLowPrice": 129,
-    "highPriceVolume": 56,
-    "lowPriceVolume": 37
+    "avgHighPrice": 124,
+    "avgLowPrice": 122,
+    "highPriceVolume": 17,
+    "lowPriceVolume": 16
+  },
+  {
+    "id": 1973,
+    "name": "Chocolate bar",
+    "limit": 13000,
+    "value": 10,
+    "avgHighPrice": 45,
+    "avgLowPrice": 42,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 3
   },
   {
     "id": 1897,
     "name": "Chocolate cake",
     "limit": 6000,
     "value": 70,
-    "avgHighPrice": 320,
-    "avgLowPrice": 263,
-    "highPriceVolume": 436,
-    "lowPriceVolume": 67
+    "avgHighPrice": 400,
+    "avgLowPrice": 264,
+    "highPriceVolume": 4689,
+    "lowPriceVolume": 451
   },
   {
     "id": 1975,
@@ -836,28 +916,18 @@
     "value": 2,
     "avgHighPrice": 53,
     "avgLowPrice": 51,
-    "highPriceVolume": 4387,
-    "lowPriceVolume": 46
-  },
-  {
-    "id": 3188,
-    "name": "Cleaning cloth",
-    "limit": 40,
-    "value": 60,
-    "avgHighPrice": 489,
-    "avgLowPrice": 200,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
+    "highPriceVolume": 534,
+    "lowPriceVolume": 290
   },
   {
     "id": 3105,
     "name": "Climbing boots",
     "limit": 200,
     "value": 12,
-    "avgHighPrice": 741,
-    "avgLowPrice": 606,
-    "highPriceVolume": 164,
-    "lowPriceVolume": 126
+    "avgHighPrice": 641,
+    "avgLowPrice": 600,
+    "highPriceVolume": 24,
+    "lowPriceVolume": 17
   },
   {
     "id": 453,
@@ -865,29 +935,29 @@
     "limit": 13000,
     "value": 45,
     "avgHighPrice": 164,
-    "avgLowPrice": 163,
-    "highPriceVolume": 148192,
-    "lowPriceVolume": 416560
+    "avgLowPrice": 161,
+    "highPriceVolume": 350649,
+    "lowPriceVolume": 346784
   },
   {
     "id": 5974,
     "name": "Coconut",
     "limit": 11000,
     "value": 87,
-    "avgHighPrice": 1974,
-    "avgLowPrice": 1914,
-    "highPriceVolume": 4992,
-    "lowPriceVolume": 8172
+    "avgHighPrice": 1976,
+    "avgLowPrice": 1937,
+    "highPriceVolume": 7145,
+    "lowPriceVolume": 8353
   },
   {
-    "id": 339,
-    "name": "Cod",
-    "limit": 6000,
-    "value": 10,
-    "avgHighPrice": 22,
-    "avgLowPrice": 22,
-    "highPriceVolume": 90,
-    "lowPriceVolume": 349
+    "id": 4827,
+    "name": "Comp ogre bow",
+    "limit": 70,
+    "value": 180,
+    "avgHighPrice": 1236,
+    "avgLowPrice": 610,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 1
   },
   {
     "id": 3144,
@@ -895,29 +965,19 @@
     "limit": 10000,
     "value": 250,
     "avgHighPrice": 442,
-    "avgLowPrice": 431,
-    "highPriceVolume": 35078,
-    "lowPriceVolume": 21641
+    "avgLowPrice": 433,
+    "highPriceVolume": 41410,
+    "lowPriceVolume": 16699
   },
   {
     "id": 2142,
     "name": "Cooked meat",
     "limit": 6000,
     "value": 4,
-    "avgHighPrice": 62,
-    "avgLowPrice": 70,
-    "highPriceVolume": 43,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1955,
-    "name": "Cooking apple",
-    "limit": 13000,
-    "value": 1,
-    "avgHighPrice": 31,
-    "avgLowPrice": 30,
-    "highPriceVolume": 213,
-    "lowPriceVolume": 236
+    "avgHighPrice": 68,
+    "avgLowPrice": 64,
+    "highPriceVolume": 235,
+    "lowPriceVolume": 309
   },
   {
     "id": 436,
@@ -926,148 +986,158 @@
     "value": 3,
     "avgHighPrice": 15,
     "avgLowPrice": 14,
-    "highPriceVolume": 731,
-    "lowPriceVolume": 10165
+    "highPriceVolume": 509,
+    "lowPriceVolume": 80
   },
   {
     "id": 564,
     "name": "Cosmic rune",
     "limit": 18000,
     "value": 50,
-    "avgHighPrice": 116,
-    "avgLowPrice": 114,
-    "highPriceVolume": 313499,
-    "lowPriceVolume": 113542
+    "avgHighPrice": 118,
+    "avgLowPrice": 113,
+    "highPriceVolume": 210840,
+    "lowPriceVolume": 56222
   },
   {
     "id": 1454,
     "name": "Cosmic talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 154,
+    "avgHighPrice": 153,
     "avgLowPrice": 153,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 28
+    "highPriceVolume": 129,
+    "lowPriceVolume": 13
   },
   {
     "id": 837,
     "name": "Crossbow",
     "limit": 125,
     "value": 70,
-    "avgHighPrice": 261,
-    "avgLowPrice": 244,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 3
+    "avgHighPrice": 3571,
+    "avgLowPrice": 500,
+    "highPriceVolume": 100,
+    "lowPriceVolume": 1
   },
   {
     "id": 4207,
     "name": "Crystal weapon seed",
     "limit": 70,
     "value": 1,
-    "avgHighPrice": 401839,
-    "avgLowPrice": 392026,
-    "highPriceVolume": 80,
-    "lowPriceVolume": 7
+    "avgHighPrice": 396870,
+    "avgLowPrice": 390171,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 8
   },
   {
     "id": 1978,
     "name": "Cup of tea",
     "limit": 2000,
     "value": 10,
-    "avgHighPrice": 119,
+    "avgHighPrice": 118,
     "avgLowPrice": 118,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 414
+    "highPriceVolume": 77,
+    "lowPriceVolume": 458
   },
   {
     "id": 5970,
     "name": "Curry leaf",
     "limit": 11000,
     "value": 19,
-    "avgHighPrice": 37,
-    "avgLowPrice": 35,
-    "highPriceVolume": 201,
-    "lowPriceVolume": 36
+    "avgHighPrice": 47,
+    "avgLowPrice": 38,
+    "highPriceVolume": 1279,
+    "lowPriceVolume": 1048
   },
   {
     "id": 12777,
     "name": "Dareeyak teleport (tablet)",
     "limit": 10000,
     "value": 1,
-    "avgHighPrice": 644,
-    "avgLowPrice": 437,
-    "highPriceVolume": 1014,
-    "lowPriceVolume": 36
+    "avgHighPrice": 510,
+    "avgLowPrice": 520,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 29
   },
   {
     "id": 1456,
     "name": "Death talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 773,
+    "avgHighPrice": 722,
     "avgLowPrice": 705,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 4
+    "highPriceVolume": 1,
+    "lowPriceVolume": 5
+  },
+  {
+    "id": 133,
+    "name": "Defence potion(3)",
+    "limit": 2000,
+    "value": 120,
+    "avgHighPrice": 683,
+    "avgLowPrice": 372,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   },
   {
     "id": 2432,
     "name": "Defence potion(4)",
     "limit": 2000,
     "value": 150,
-    "avgHighPrice": 600,
+    "avgHighPrice": 749,
     "avgLowPrice": 597,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 40
+    "highPriceVolume": 10,
+    "lowPriceVolume": 3
   },
   {
     "id": 33305,
     "name": "Demonic axe ornament kit",
     "limit": null,
     "value": 1,
-    "avgHighPrice": 3246174,
-    "avgLowPrice": 3033198,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 26
+    "avgHighPrice": 3076327,
+    "avgLowPrice": 2871779,
+    "highPriceVolume": 29,
+    "lowPriceVolume": 45
   },
   {
     "id": 33302,
     "name": "Demonic skin contract",
     "limit": null,
     "value": 1,
-    "avgHighPrice": 1207356,
-    "avgLowPrice": 1134987,
-    "highPriceVolume": 55,
-    "lowPriceVolume": 58
+    "avgHighPrice": 1305233,
+    "avgLowPrice": 1159836,
+    "highPriceVolume": 69,
+    "lowPriceVolume": 31
   },
   {
     "id": 33308,
     "name": "Demonic staff ornament kit",
     "limit": null,
     "value": 1,
-    "avgHighPrice": 385918,
-    "avgLowPrice": 302069,
-    "highPriceVolume": 19,
-    "lowPriceVolume": 16
+    "avgHighPrice": 349407,
+    "avgLowPrice": 283127,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 17
   },
   {
     "id": 33311,
     "name": "Demonic trident ornament kit",
     "limit": null,
     "value": 1,
-    "avgHighPrice": 1249753,
-    "avgLowPrice": 1143857,
-    "highPriceVolume": 25,
-    "lowPriceVolume": 15
+    "avgHighPrice": 1212856,
+    "avgLowPrice": 1108237,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 6
   },
   {
     "id": 1837,
     "name": "Desert boots",
     "limit": 150,
     "value": 20,
-    "avgHighPrice": 98,
+    "avgHighPrice": 100,
     "avgLowPrice": 82,
-    "highPriceVolume": 22,
-    "lowPriceVolume": 1
+    "highPriceVolume": 17,
+    "lowPriceVolume": 19
   },
   {
     "id": 1833,
@@ -1076,47 +1146,47 @@
     "value": 40,
     "avgHighPrice": 330,
     "avgLowPrice": 250,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 1
+    "highPriceVolume": 16,
+    "lowPriceVolume": 4
   },
   {
-    "id": 2092,
-    "name": "Drunk dragon",
-    "limit": 2000,
-    "value": 30,
-    "avgHighPrice": 1800,
-    "avgLowPrice": 1120,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "id": 8880,
+    "name": "Dorgeshuun crossbow",
+    "limit": 70,
+    "value": 2000,
+    "avgHighPrice": 4900,
+    "avgLowPrice": 3070,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 12800,
+    "name": "Dragon pickaxe upgrade kit",
+    "limit": 50,
+    "value": 1600,
+    "avgHighPrice": 892959,
+    "avgLowPrice": 841422,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 9
   },
   {
     "id": 12863,
     "name": "Dwarf cannon set",
     "limit": 40,
     "value": 600000,
-    "avgHighPrice": 783853,
-    "avgLowPrice": 774138,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 6
+    "avgHighPrice": 782111,
+    "avgLowPrice": 765233,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 17
   },
   {
     "id": 1913,
     "name": "Dwarven stout",
     "limit": 2000,
     "value": 2,
-    "avgHighPrice": 160,
-    "avgLowPrice": 131,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 2126,
-    "name": "Dwellberries",
-    "limit": 13000,
-    "value": 4,
-    "avgHighPrice": 49,
-    "avgLowPrice": 14,
-    "highPriceVolume": 14,
+    "avgHighPrice": 123,
+    "avgLowPrice": 120,
+    "highPriceVolume": 61,
     "lowPriceVolume": 2
   },
   {
@@ -1124,50 +1194,60 @@
     "name": "Dynamite",
     "limit": 13000,
     "value": 50,
-    "avgHighPrice": 350,
-    "avgLowPrice": 332,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 17184
+    "avgHighPrice": 336,
+    "avgLowPrice": 327,
+    "highPriceVolume": 4002,
+    "lowPriceVolume": 25877
+  },
+  {
+    "id": 4166,
+    "name": "Earmuffs",
+    "limit": 70,
+    "value": 200,
+    "avgHighPrice": 4997,
+    "avgLowPrice": 300,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 4
   },
   {
     "id": 557,
     "name": "Earth rune",
     "limit": 50000,
     "value": 4,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "highPriceVolume": 343198,
-    "lowPriceVolume": 198931
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "highPriceVolume": 305365,
+    "lowPriceVolume": 552654
   },
   {
     "id": 1440,
     "name": "Earth talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 537,
-    "avgLowPrice": 512,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 2215
-  },
-  {
-    "id": 1944,
-    "name": "Egg",
-    "limit": 13000,
-    "value": 4,
-    "avgHighPrice": 28,
-    "avgLowPrice": 27,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 5196
+    "avgHighPrice": 576,
+    "avgLowPrice": 563,
+    "highPriceVolume": 1127,
+    "lowPriceVolume": 1836
   },
   {
     "id": 2890,
     "name": "Elemental shield",
     "limit": 70,
     "value": 20,
-    "avgHighPrice": 2671,
-    "avgLowPrice": 1250,
+    "avgHighPrice": 1722,
+    "avgLowPrice": 1289,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 9
+  },
+  {
+    "id": 24015,
+    "name": "Elven top (white)",
+    "limit": null,
+    "value": 5000,
+    "avgHighPrice": 8035,
+    "avgLowPrice": 5144,
     "highPriceVolume": 1,
-    "lowPriceVolume": 3
+    "lowPriceVolume": 1
   },
   {
     "id": 1980,
@@ -1176,8 +1256,18 @@
     "value": 2,
     "avgHighPrice": 7,
     "avgLowPrice": 6,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 8
+    "highPriceVolume": 5,
+    "lowPriceVolume": 6
+  },
+  {
+    "id": 5350,
+    "name": "Empty plant pot",
+    "limit": 10000,
+    "value": 1,
+    "avgHighPrice": 7,
+    "avgLowPrice": 7,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 81
   },
   {
     "id": 5418,
@@ -1185,9 +1275,19 @@
     "limit": 10000,
     "value": 1,
     "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "highPriceVolume": 42,
-    "lowPriceVolume": 1
+    "avgLowPrice": 2,
+    "highPriceVolume": 10062,
+    "lowPriceVolume": 108
+  },
+  {
+    "id": 2128,
+    "name": "Equa leaves",
+    "limit": 13000,
+    "value": 2,
+    "avgHighPrice": 431,
+    "avgLowPrice": 334,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 16
   },
   {
     "id": 221,
@@ -1195,29 +1295,19 @@
     "limit": 13000,
     "value": 3,
     "avgHighPrice": 5,
-    "avgLowPrice": 4,
-    "highPriceVolume": 6296,
-    "lowPriceVolume": 4676
-  },
-  {
-    "id": 314,
-    "name": "Feather",
-    "limit": 30000,
-    "value": 2,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "highPriceVolume": 1455311,
-    "lowPriceVolume": 171089
+    "avgLowPrice": 5,
+    "highPriceVolume": 11501,
+    "lowPriceVolume": 19396
   },
   {
     "id": 28177,
     "name": "Felling axe handle",
     "limit": null,
     "value": 5000,
-    "avgHighPrice": 1880000,
-    "avgLowPrice": 1881664,
+    "avgHighPrice": 1876960,
+    "avgLowPrice": 1835714,
     "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 5
   },
   {
     "id": 5354,
@@ -1226,18 +1316,18 @@
     "value": 1,
     "avgHighPrice": 4,
     "avgLowPrice": 3,
-    "highPriceVolume": 5311,
-    "lowPriceVolume": 984
+    "highPriceVolume": 11232,
+    "lowPriceVolume": 91
   },
   {
     "id": 1442,
     "name": "Fire talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 2150,
-    "avgLowPrice": 2107,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 26
+    "avgHighPrice": 2499,
+    "avgLowPrice": 2411,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 113
   },
   {
     "id": 313,
@@ -1245,18 +1335,28 @@
     "limit": 8000,
     "value": 3,
     "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "highPriceVolume": 27479,
-    "lowPriceVolume": 2443
+    "avgLowPrice": 4,
+    "highPriceVolume": 37485,
+    "lowPriceVolume": 100279
   },
   {
     "id": 307,
     "name": "Fishing rod",
     "limit": 40,
     "value": 5,
-    "avgHighPrice": 97,
-    "avgLowPrice": 95,
-    "highPriceVolume": 15,
+    "avgHighPrice": 88,
+    "avgLowPrice": 31,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 8
+  },
+  {
+    "id": 309,
+    "name": "Fly fishing rod",
+    "limit": 40,
+    "value": 5,
+    "avgHighPrice": 121,
+    "avgLowPrice": 90,
+    "highPriceVolume": 13,
     "lowPriceVolume": 4
   },
   {
@@ -1264,39 +1364,39 @@
     "name": "Fox fur",
     "limit": null,
     "value": 10,
-    "avgHighPrice": 6911,
+    "avgHighPrice": 6916,
     "avgLowPrice": 6910,
-    "highPriceVolume": 1153,
-    "lowPriceVolume": 635
-  },
-  {
-    "id": 3773,
-    "name": "Fremennik red shirt",
-    "limit": 150,
-    "value": 250,
-    "avgHighPrice": 8955,
-    "avgLowPrice": 1484,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 57,
+    "lowPriceVolume": 544
   },
   {
     "id": 2084,
     "name": "Fruit blast",
     "limit": 2000,
     "value": 30,
-    "avgHighPrice": 3405,
-    "avgLowPrice": 2969,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 5
+    "avgHighPrice": 3400,
+    "avgLowPrice": 2701,
+    "highPriceVolume": 23,
+    "lowPriceVolume": 2
   },
   {
     "id": 7178,
     "name": "Garden pie",
     "limit": 10000,
     "value": 24,
-    "avgHighPrice": 55,
+    "avgHighPrice": 59,
     "avgLowPrice": 49,
-    "highPriceVolume": 44,
+    "highPriceVolume": 53,
+    "lowPriceVolume": 167
+  },
+  {
+    "id": 5325,
+    "name": "Gardening trowel",
+    "limit": 40,
+    "value": 12,
+    "avgHighPrice": 254,
+    "avgLowPrice": 204,
+    "highPriceVolume": 55,
     "lowPriceVolume": 6
   },
   {
@@ -1305,29 +1405,29 @@
     "limit": 11000,
     "value": 3,
     "avgHighPrice": 39,
-    "avgLowPrice": 35,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 5130
+    "avgLowPrice": 36,
+    "highPriceVolume": 143,
+    "lowPriceVolume": 6
   },
   {
     "id": 12778,
     "name": "Ghorrock teleport (tablet)",
     "limit": 10000,
     "value": 1,
-    "avgHighPrice": 1686,
+    "avgHighPrice": 1611,
     "avgLowPrice": 1438,
-    "highPriceVolume": 328,
-    "lowPriceVolume": 42
+    "highPriceVolume": 223,
+    "lowPriceVolume": 21
   },
   {
-    "id": 1785,
-    "name": "Glassblowing pipe",
-    "limit": 40,
+    "id": 2171,
+    "name": "Gianne dough",
+    "limit": 13000,
     "value": 2,
-    "avgHighPrice": 54,
-    "avgLowPrice": 49,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 3
+    "avgHighPrice": 11,
+    "avgLowPrice": 11,
+    "highPriceVolume": 105,
+    "lowPriceVolume": 99
   },
   {
     "id": 8784,
@@ -1335,19 +1435,29 @@
     "limit": 11000,
     "value": 100000,
     "avgHighPrice": 135082,
-    "avgLowPrice": 134807,
-    "highPriceVolume": 105,
-    "lowPriceVolume": 12
+    "avgLowPrice": 134869,
+    "highPriceVolume": 91,
+    "lowPriceVolume": 31
+  },
+  {
+    "id": 6311,
+    "name": "Gout tuber",
+    "limit": 5,
+    "value": 200,
+    "avgHighPrice": 531680,
+    "avgLowPrice": 531680,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 2
   },
   {
     "id": 10099,
     "name": "Graahk fur",
     "limit": 10000,
     "value": 120,
-    "avgHighPrice": 1150,
+    "avgHighPrice": 1199,
     "avgLowPrice": 475,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 5
+    "highPriceVolume": 22,
+    "lowPriceVolume": 19
   },
   {
     "id": 1987,
@@ -1355,28 +1465,18 @@
     "limit": 20000,
     "value": 1,
     "avgHighPrice": 81,
-    "avgLowPrice": 79,
-    "highPriceVolume": 21790,
-    "lowPriceVolume": 71845
+    "avgLowPrice": 80,
+    "highPriceVolume": 17464,
+    "lowPriceVolume": 93463
   },
   {
     "id": 1771,
     "name": "Green dye",
     "limit": 150,
     "value": 5,
-    "avgHighPrice": 550,
+    "avgHighPrice": 539,
     "avgLowPrice": 500,
-    "highPriceVolume": 25,
-    "lowPriceVolume": 5
-  },
-  {
-    "id": 658,
-    "name": "Green hat",
-    "limit": 150,
-    "value": 160,
-    "avgHighPrice": 1178,
-    "avgLowPrice": 1000,
-    "highPriceVolume": 3,
+    "highPriceVolume": 28,
     "lowPriceVolume": 1
   },
   {
@@ -1384,50 +1484,50 @@
     "name": "Greenman's ale",
     "limit": 2000,
     "value": 2,
-    "avgHighPrice": 159,
+    "avgHighPrice": 98,
     "avgLowPrice": 159,
-    "highPriceVolume": 8,
+    "highPriceVolume": 7,
     "lowPriceVolume": 1
-  },
-  {
-    "id": 2894,
-    "name": "Grey boots",
-    "limit": 150,
-    "value": 500,
-    "avgHighPrice": 995,
-    "avgLowPrice": 793,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 3
   },
   {
     "id": 2347,
     "name": "Hammer",
     "limit": 40,
     "value": 1,
-    "avgHighPrice": 105,
-    "avgLowPrice": 119,
-    "highPriceVolume": 88,
-    "lowPriceVolume": 94
+    "avgHighPrice": 94,
+    "avgLowPrice": 91,
+    "highPriceVolume": 574,
+    "lowPriceVolume": 72
+  },
+  {
+    "id": 5307,
+    "name": "Hammerstone seed",
+    "limit": 2000,
+    "value": 2,
+    "avgHighPrice": 10,
+    "avgLowPrice": 9,
+    "highPriceVolume": 500,
+    "lowPriceVolume": 6011
   },
   {
     "id": 311,
     "name": "Harpoon",
     "limit": 40,
     "value": 5,
-    "avgHighPrice": 125,
-    "avgLowPrice": 124,
+    "avgHighPrice": 121,
+    "avgLowPrice": 116,
     "highPriceVolume": 5,
-    "lowPriceVolume": 26
+    "lowPriceVolume": 11
   },
   {
     "id": 347,
     "name": "Herring",
     "limit": 6000,
     "value": 10,
-    "avgHighPrice": 29,
-    "avgLowPrice": 25,
-    "highPriceVolume": 47,
-    "lowPriceVolume": 53
+    "avgHighPrice": 24,
+    "avgLowPrice": 20,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 111
   },
   {
     "id": 1718,
@@ -1435,9 +1535,9 @@
     "limit": 125,
     "value": 300,
     "avgHighPrice": 538,
-    "avgLowPrice": 535,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 10
+    "avgLowPrice": 536,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 199
   },
   {
     "id": 11260,
@@ -1445,19 +1545,19 @@
     "limit": 13000,
     "value": 1,
     "avgHighPrice": 507,
-    "avgLowPrice": 503,
-    "highPriceVolume": 2379,
-    "lowPriceVolume": 2633
+    "avgLowPrice": 502,
+    "highPriceVolume": 3645,
+    "lowPriceVolume": 6006
   },
   {
     "id": 7159,
     "name": "Insulated boots",
     "limit": 70,
     "value": 200,
-    "avgHighPrice": 756,
+    "avgHighPrice": 845,
     "avgLowPrice": 500,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 1
+    "highPriceVolume": 11,
+    "lowPriceVolume": 7
   },
   {
     "id": 884,
@@ -1465,9 +1565,9 @@
     "limit": 7000,
     "value": 3,
     "avgHighPrice": 7,
-    "avgLowPrice": 7,
-    "highPriceVolume": 57657,
-    "lowPriceVolume": 15485
+    "avgLowPrice": 6,
+    "highPriceVolume": 32186,
+    "lowPriceVolume": 30526
   },
   {
     "id": 40,
@@ -1476,98 +1576,88 @@
     "value": 2,
     "avgHighPrice": 9,
     "avgLowPrice": 7,
-    "highPriceVolume": 9342,
-    "lowPriceVolume": 1011
+    "highPriceVolume": 23955,
+    "lowPriceVolume": 10000
   },
   {
     "id": 1349,
     "name": "Iron axe",
     "limit": 40,
     "value": 56,
-    "avgHighPrice": 114,
-    "avgLowPrice": 113,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 21
+    "avgHighPrice": 119,
+    "avgLowPrice": 115,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 13
   },
   {
     "id": 2351,
     "name": "Iron bar",
     "limit": 10000,
     "value": 28,
-    "avgHighPrice": 174,
-    "avgLowPrice": 171,
-    "highPriceVolume": 8987,
-    "lowPriceVolume": 2724
+    "avgHighPrice": 177,
+    "avgLowPrice": 174,
+    "highPriceVolume": 22536,
+    "lowPriceVolume": 5219
   },
   {
     "id": 31908,
     "name": "Iron cannonball",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 15,
+    "avgHighPrice": 13,
     "avgLowPrice": 15,
-    "highPriceVolume": 17024,
-    "lowPriceVolume": 15204
+    "highPriceVolume": 7771,
+    "lowPriceVolume": 10538
   },
   {
     "id": 863,
     "name": "Iron knife",
     "limit": 7000,
     "value": 3,
-    "avgHighPrice": 37,
-    "avgLowPrice": 30,
-    "highPriceVolume": 4500,
-    "lowPriceVolume": 4146
-  },
-  {
-    "id": 1137,
-    "name": "Iron med helm",
-    "limit": 125,
-    "value": 84,
-    "avgHighPrice": 154,
-    "avgLowPrice": 145,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 3
+    "avgHighPrice": 33,
+    "avgLowPrice": 31,
+    "highPriceVolume": 2060,
+    "lowPriceVolume": 7290
   },
   {
     "id": 4820,
     "name": "Iron nails",
     "limit": 13000,
     "value": 4,
-    "avgHighPrice": 8,
-    "avgLowPrice": 7,
-    "highPriceVolume": 3490,
-    "lowPriceVolume": 3503
+    "avgHighPrice": 9,
+    "avgLowPrice": 8,
+    "highPriceVolume": 9622,
+    "lowPriceVolume": 13825
   },
   {
     "id": 440,
     "name": "Iron ore",
     "limit": 13000,
     "value": 17,
-    "avgHighPrice": 71,
-    "avgLowPrice": 67,
-    "highPriceVolume": 60490,
-    "lowPriceVolume": 30557
+    "avgHighPrice": 76,
+    "avgLowPrice": 74,
+    "highPriceVolume": 45880,
+    "lowPriceVolume": 14191
   },
   {
     "id": 1239,
     "name": "Iron spear",
     "limit": 125,
     "value": 91,
-    "avgHighPrice": 660,
-    "avgLowPrice": 460,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 6
+    "avgHighPrice": 997,
+    "avgLowPrice": 473,
+    "highPriceVolume": 11,
+    "lowPriceVolume": 21
   },
   {
     "id": 1611,
     "name": "Jade",
     "limit": 13000,
     "value": 150,
-    "avgHighPrice": 221,
-    "avgLowPrice": 224,
-    "highPriceVolume": 720,
-    "lowPriceVolume": 1356
+    "avgHighPrice": 280,
+    "avgLowPrice": 250,
+    "highPriceVolume": 556,
+    "lowPriceVolume": 241
   },
   {
     "id": 1935,
@@ -1576,8 +1666,8 @@
     "value": 1,
     "avgHighPrice": 3,
     "avgLowPrice": 3,
-    "highPriceVolume": 6056,
-    "lowPriceVolume": 131
+    "highPriceVolume": 924,
+    "lowPriceVolume": 1547
   },
   {
     "id": 1937,
@@ -1586,28 +1676,48 @@
     "value": 1,
     "avgHighPrice": 10,
     "avgLowPrice": 9,
-    "highPriceVolume": 2646,
-    "lowPriceVolume": 24883
+    "highPriceVolume": 18997,
+    "lowPriceVolume": 33266
   },
   {
     "id": 1993,
     "name": "Jug of wine",
     "limit": 6000,
     "value": 1,
-    "avgHighPrice": 3,
+    "avgHighPrice": 4,
     "avgLowPrice": 3,
-    "highPriceVolume": 6807,
-    "lowPriceVolume": 1279964
+    "highPriceVolume": 9239,
+    "lowPriceVolume": 33143
+  },
+  {
+    "id": 5931,
+    "name": "Jute fibre",
+    "limit": 13000,
+    "value": 6,
+    "avgHighPrice": 535,
+    "avgLowPrice": 535,
+    "highPriceVolume": 1144,
+    "lowPriceVolume": 607
   },
   {
     "id": 5306,
     "name": "Jute seed",
     "limit": 2000,
     "value": 5,
-    "avgHighPrice": 9,
-    "avgLowPrice": 7,
-    "highPriceVolume": 633,
-    "lowPriceVolume": 15202
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "highPriceVolume": 3899,
+    "lowPriceVolume": 2726
+  },
+  {
+    "id": 3159,
+    "name": "Karambwan vessel (baited)",
+    "limit": 15,
+    "value": 40,
+    "avgHighPrice": 2488,
+    "avgLowPrice": 2189,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
   },
   {
     "id": 1971,
@@ -1616,48 +1726,58 @@
     "value": 3,
     "avgHighPrice": 73,
     "avgLowPrice": 70,
-    "highPriceVolume": 105,
-    "lowPriceVolume": 20
+    "highPriceVolume": 5,
+    "lowPriceVolume": 29
   },
   {
     "id": 12779,
     "name": "Kharyrll teleport (tablet)",
     "limit": 10000,
     "value": 1,
-    "avgHighPrice": 1576,
-    "avgLowPrice": 1375,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 2
+    "avgHighPrice": 1848,
+    "avgLowPrice": 1382,
+    "highPriceVolume": 34,
+    "lowPriceVolume": 43
   },
   {
     "id": 946,
     "name": "Knife",
     "limit": 40,
     "value": 6,
-    "avgHighPrice": 99,
+    "avgHighPrice": 92,
     "avgLowPrice": 86,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 8
+    "highPriceVolume": 24,
+    "lowPriceVolume": 32
   },
   {
     "id": 27014,
     "name": "Kovac's grog",
     "limit": null,
     "value": 5,
-    "avgHighPrice": 66166,
-    "avgLowPrice": 65005,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 2
+    "avgHighPrice": 66500,
+    "avgLowPrice": 63166,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 4
   },
   {
     "id": 10103,
     "name": "Kyatt fur",
     "limit": 10000,
     "value": 160,
-    "avgHighPrice": 616,
-    "avgLowPrice": 563,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 6
+    "avgHighPrice": 582,
+    "avgLowPrice": 571,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 32
+  },
+  {
+    "id": 10095,
+    "name": "Larupia fur",
+    "limit": 10000,
+    "value": 80,
+    "avgHighPrice": 625,
+    "avgLowPrice": 410,
+    "highPriceVolume": 16,
+    "lowPriceVolume": 79
   },
   {
     "id": 12780,
@@ -1666,28 +1786,28 @@
     "value": 1,
     "avgHighPrice": 1831,
     "avgLowPrice": 1830,
-    "highPriceVolume": 133,
-    "lowPriceVolume": 124
+    "highPriceVolume": 92,
+    "lowPriceVolume": 75
   },
   {
     "id": 31716,
     "name": "Lead ore",
     "limit": null,
     "value": 35,
-    "avgHighPrice": 358,
-    "avgLowPrice": 355,
-    "highPriceVolume": 50,
-    "lowPriceVolume": 55
+    "avgHighPrice": 365,
+    "avgLowPrice": 365,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 7
   },
   {
     "id": 1061,
     "name": "Leather boots",
     "limit": 125,
     "value": 6,
-    "avgHighPrice": 40,
-    "avgLowPrice": 38,
-    "highPriceVolume": 40,
-    "lowPriceVolume": 128
+    "avgHighPrice": 37,
+    "avgLowPrice": 24,
+    "highPriceVolume": 106,
+    "lowPriceVolume": 789
   },
   {
     "id": 2102,
@@ -1695,109 +1815,139 @@
     "limit": 13000,
     "value": 2,
     "avgHighPrice": 107,
-    "avgLowPrice": 107,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 4
+    "avgLowPrice": 104,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 34
   },
   {
     "id": 10973,
     "name": "Light orb",
     "limit": 10000,
     "value": 350,
-    "avgHighPrice": 730,
-    "avgLowPrice": 708,
-    "highPriceVolume": 2,
+    "avgHighPrice": 1500,
+    "avgLowPrice": 700,
+    "highPriceVolume": 1,
     "lowPriceVolume": 2
+  },
+  {
+    "id": 2120,
+    "name": "Lime",
+    "limit": 13000,
+    "value": 2,
+    "avgHighPrice": 89,
+    "avgLowPrice": 85,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 6
   },
   {
     "id": 3420,
     "name": "Limestone brick",
     "limit": 10000,
     "value": 20,
-    "avgHighPrice": 70,
-    "avgLowPrice": 70,
-    "highPriceVolume": 1533,
-    "lowPriceVolume": 3
+    "avgHighPrice": 63,
+    "avgLowPrice": 62,
+    "highPriceVolume": 513,
+    "lowPriceVolume": 41
   },
   {
     "id": 379,
     "name": "Lobster",
     "limit": 6000,
     "value": 70,
-    "avgHighPrice": 133,
-    "avgLowPrice": 131,
-    "highPriceVolume": 3706,
-    "lowPriceVolume": 3606
+    "avgHighPrice": 132,
+    "avgLowPrice": 130,
+    "highPriceVolume": 5831,
+    "lowPriceVolume": 4107
+  },
+  {
+    "id": 301,
+    "name": "Lobster pot",
+    "limit": 40,
+    "value": 20,
+    "avgHighPrice": 122,
+    "avgLowPrice": 90,
+    "highPriceVolume": 72,
+    "lowPriceVolume": 3
   },
   {
     "id": 1523,
     "name": "Lockpick",
     "limit": 250,
     "value": 20,
-    "avgHighPrice": 295,
-    "avgLowPrice": 292,
-    "highPriceVolume": 492,
-    "lowPriceVolume": 241
+    "avgHighPrice": 290,
+    "avgLowPrice": 250,
+    "highPriceVolume": 3276,
+    "lowPriceVolume": 50
   },
   {
     "id": 24585,
     "name": "Looting bag note",
     "limit": 40,
     "value": 90,
-    "avgHighPrice": 57965,
-    "avgLowPrice": 57030,
-    "highPriceVolume": 58,
-    "lowPriceVolume": 6
-  },
-  {
-    "id": 975,
-    "name": "Machete",
-    "limit": 15,
-    "value": 40,
-    "avgHighPrice": 675,
-    "avgLowPrice": 418,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 3
+    "avgHighPrice": 59977,
+    "avgLowPrice": 56799,
+    "highPriceVolume": 275,
+    "lowPriceVolume": 172
   },
   {
     "id": 12786,
     "name": "Magic shortbow scroll",
     "limit": 10000,
     "value": 5000,
-    "avgHighPrice": 35676,
-    "avgLowPrice": 35050,
-    "highPriceVolume": 26,
-    "lowPriceVolume": 14
+    "avgHighPrice": 34847,
+    "avgLowPrice": 31336,
+    "highPriceVolume": 28,
+    "lowPriceVolume": 37
+  },
+  {
+    "id": 1389,
+    "name": "Magic staff",
+    "limit": 125,
+    "value": 200,
+    "avgHighPrice": 635,
+    "avgLowPrice": 350,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 18
   },
   {
     "id": 8788,
     "name": "Magic stone",
     "limit": 11000,
     "value": 750000,
-    "avgHighPrice": 1018323,
-    "avgLowPrice": 1005841,
-    "highPriceVolume": 61,
-    "lowPriceVolume": 1
+    "avgHighPrice": 1012631,
+    "avgLowPrice": 1004381,
+    "highPriceVolume": 155,
+    "lowPriceVolume": 4
   },
   {
     "id": 391,
     "name": "Manta ray",
     "limit": 10000,
     "value": 200,
-    "avgHighPrice": 1482,
-    "avgLowPrice": 1440,
-    "highPriceVolume": 6523,
-    "lowPriceVolume": 6406
+    "avgHighPrice": 1486,
+    "avgLowPrice": 1453,
+    "highPriceVolume": 1487,
+    "lowPriceVolume": 4940
+  },
+  {
+    "id": 8786,
+    "name": "Marble block",
+    "limit": 11000,
+    "value": 250000,
+    "avgHighPrice": 343681,
+    "avgLowPrice": 327643,
+    "highPriceVolume": 309,
+    "lowPriceVolume": 4
   },
   {
     "id": 5096,
     "name": "Marigold seed",
     "limit": 600,
     "value": 2,
-    "avgHighPrice": 10,
-    "avgLowPrice": 9,
-    "highPriceVolume": 93,
-    "lowPriceVolume": 2133
+    "avgHighPrice": 8,
+    "avgLowPrice": 8,
+    "highPriceVolume": 2401,
+    "lowPriceVolume": 1742
   },
   {
     "id": 2327,
@@ -1806,108 +1956,138 @@
     "value": 15,
     "avgHighPrice": 38,
     "avgLowPrice": 35,
-    "highPriceVolume": 31,
-    "lowPriceVolume": 15
-  },
-  {
-    "id": 21649,
-    "name": "Merfolk trident",
-    "limit": 125,
-    "value": 400,
-    "avgHighPrice": 1369846,
-    "avgLowPrice": 1228688,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 5
+    "highPriceVolume": 227,
+    "lowPriceVolume": 320
   },
   {
     "id": 1448,
     "name": "Mind talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 1246,
-    "avgLowPrice": 1231,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 52
+    "avgHighPrice": 1300,
+    "avgLowPrice": 1246,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 155
   },
   {
     "id": 42,
     "name": "Mithril arrowtips",
     "limit": 10000,
     "value": 16,
-    "avgHighPrice": 59,
-    "avgLowPrice": 57,
-    "highPriceVolume": 340,
-    "lowPriceVolume": 730
+    "avgHighPrice": 75,
+    "avgLowPrice": 63,
+    "highPriceVolume": 2821,
+    "lowPriceVolume": 1607
   },
   {
     "id": 31910,
     "name": "Mithril cannonball",
     "limit": 11000,
     "value": 60,
-    "avgHighPrice": 159,
-    "avgLowPrice": 152,
-    "highPriceVolume": 35896,
-    "lowPriceVolume": 2764
+    "avgHighPrice": 161,
+    "avgLowPrice": 150,
+    "highPriceVolume": 53772,
+    "lowPriceVolume": 5770
   },
   {
     "id": 299,
     "name": "Mithril seeds",
     "limit": 18000,
     "value": 200,
-    "avgHighPrice": 1190,
-    "avgLowPrice": 1161,
-    "highPriceVolume": 502,
-    "lowPriceVolume": 360
+    "avgHighPrice": 1210,
+    "avgLowPrice": 1165,
+    "highPriceVolume": 4811,
+    "lowPriceVolume": 564
   },
   {
     "id": 1775,
     "name": "Molten glass",
     "limit": 13000,
     "value": 3,
-    "avgHighPrice": 100,
-    "avgLowPrice": 100,
-    "highPriceVolume": 41692,
-    "lowPriceVolume": 44177
-  },
-  {
-    "id": 4014,
-    "name": "Monkey bar",
-    "limit": 6000,
-    "value": 50,
-    "avgHighPrice": 145,
-    "avgLowPrice": 101,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 1
+    "avgHighPrice": 105,
+    "avgLowPrice": 102,
+    "highPriceVolume": 19778,
+    "lowPriceVolume": 17316
   },
   {
     "id": 4012,
     "name": "Monkey nuts",
     "limit": 6000,
     "value": 3,
-    "avgHighPrice": 148,
-    "avgLowPrice": 141,
-    "highPriceVolume": 40,
-    "lowPriceVolume": 15
+    "avgHighPrice": 139,
+    "avgLowPrice": 130,
+    "highPriceVolume": 241,
+    "lowPriceVolume": 1
   },
   {
     "id": 7946,
     "name": "Monkfish",
     "limit": 13000,
     "value": 230,
-    "avgHighPrice": 247,
+    "avgHighPrice": 252,
     "avgLowPrice": 243,
-    "highPriceVolume": 8083,
-    "lowPriceVolume": 21933
+    "highPriceVolume": 18319,
+    "lowPriceVolume": 11267
+  },
+  {
+    "id": 29174,
+    "name": "Moonlight antelope fur",
+    "limit": 18000,
+    "value": 10,
+    "avgHighPrice": 739,
+    "avgLowPrice": 728,
+    "highPriceVolume": 1258,
+    "lowPriceVolume": 362
+  },
+  {
+    "id": 1462,
+    "name": "Nature talisman",
+    "limit": 11000,
+    "value": 4,
+    "avgHighPrice": 183,
+    "avgLowPrice": 182,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 145
+  },
+  {
+    "id": 1597,
+    "name": "Necklace mould",
+    "limit": 40,
+    "value": 5,
+    "avgHighPrice": 216,
+    "avgLowPrice": 204,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 1
   },
   {
     "id": 1733,
     "name": "Needle",
     "limit": 40,
     "value": 1,
-    "avgHighPrice": 48,
-    "avgLowPrice": 45,
-    "highPriceVolume": 136,
-    "lowPriceVolume": 6
+    "avgHighPrice": 49,
+    "avgLowPrice": 47,
+    "highPriceVolume": 116,
+    "lowPriceVolume": 34
+  },
+  {
+    "id": 31719,
+    "name": "Nickel ore",
+    "limit": null,
+    "value": 400,
+    "avgHighPrice": 1390,
+    "avgLowPrice": 1387,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 30
+  },
+  {
+    "id": 10150,
+    "name": "Noose wand",
+    "limit": 40,
+    "value": 4,
+    "avgHighPrice": 12,
+    "avgLowPrice": 12,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
   },
   {
     "id": 4168,
@@ -1924,40 +2104,50 @@
     "name": "Obsidian cape",
     "limit": 70,
     "value": 60000,
-    "avgHighPrice": 593877,
-    "avgLowPrice": 576063,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 14
+    "avgHighPrice": 587701,
+    "avgLowPrice": 574411,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 10
   },
   {
     "id": 21298,
     "name": "Obsidian helmet",
     "limit": 70,
     "value": 56320,
-    "avgHighPrice": 844911,
-    "avgLowPrice": 817718,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 2
+    "avgHighPrice": 775000,
+    "avgLowPrice": 770554,
+    "highPriceVolume": 14,
+    "lowPriceVolume": 4
   },
   {
     "id": 21301,
     "name": "Obsidian platebody",
     "limit": 70,
     "value": 84000,
-    "avgHighPrice": 1152376,
-    "avgLowPrice": 1123485,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 3
+    "avgHighPrice": 1146749,
+    "avgLowPrice": 1121934,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 8
   },
   {
     "id": 21304,
     "name": "Obsidian platelegs",
     "limit": 70,
     "value": 67000,
-    "avgHighPrice": 915817,
-    "avgLowPrice": 899363,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 5
+    "avgHighPrice": 911176,
+    "avgLowPrice": 890525,
+    "highPriceVolume": 9,
+    "lowPriceVolume": 9
+  },
+  {
+    "id": 3422,
+    "name": "Olive oil(4)",
+    "limit": 10000,
+    "value": 22,
+    "avgHighPrice": 86,
+    "avgLowPrice": 86,
+    "highPriceVolume": 42,
+    "lowPriceVolume": 8
   },
   {
     "id": 1957,
@@ -1966,8 +2156,8 @@
     "value": 3,
     "avgHighPrice": 26,
     "avgLowPrice": 25,
-    "highPriceVolume": 17,
-    "lowPriceVolume": 15
+    "highPriceVolume": 32,
+    "lowPriceVolume": 11
   },
   {
     "id": 9194,
@@ -1975,29 +2165,29 @@
     "limit": 11000,
     "value": 1000,
     "avgHighPrice": 8156,
-    "avgLowPrice": 8156,
-    "highPriceVolume": 2566,
-    "lowPriceVolume": 18279
+    "avgLowPrice": 8159,
+    "highPriceVolume": 1350,
+    "lowPriceVolume": 20455
   },
   {
     "id": 1609,
     "name": "Opal",
     "limit": 13000,
     "value": 100,
-    "avgHighPrice": 193,
-    "avgLowPrice": 168,
-    "highPriceVolume": 223,
-    "lowPriceVolume": 3266
+    "avgHighPrice": 159,
+    "avgLowPrice": 157,
+    "highPriceVolume": 67,
+    "lowPriceVolume": 53
   },
   {
     "id": 2108,
     "name": "Orange",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 132,
-    "avgLowPrice": 100,
-    "highPriceVolume": 243,
-    "lowPriceVolume": 1000
+    "avgHighPrice": 133,
+    "avgLowPrice": 133,
+    "highPriceVolume": 121,
+    "lowPriceVolume": 26
   },
   {
     "id": 1769,
@@ -2005,39 +2195,39 @@
     "limit": 150,
     "value": 5,
     "avgHighPrice": 548,
-    "avgLowPrice": 401,
-    "highPriceVolume": 51,
-    "lowPriceVolume": 9
+    "avgLowPrice": 545,
+    "highPriceVolume": 86,
+    "lowPriceVolume": 2
   },
   {
     "id": 24229,
     "name": "Ornate maul handle",
     "limit": 50,
     "value": 5000,
-    "avgHighPrice": 808551,
-    "avgLowPrice": 785007,
-    "highPriceVolume": 17,
-    "lowPriceVolume": 20
+    "avgHighPrice": 787798,
+    "avgLowPrice": 782797,
+    "highPriceVolume": 36,
+    "lowPriceVolume": 63
   },
   {
     "id": 5972,
     "name": "Papaya fruit",
     "limit": 11000,
     "value": 64,
-    "avgHighPrice": 1974,
-    "avgLowPrice": 1923,
-    "highPriceVolume": 7489,
-    "lowPriceVolume": 3293
+    "avgHighPrice": 1969,
+    "avgLowPrice": 1922,
+    "highPriceVolume": 4794,
+    "lowPriceVolume": 2929
   },
   {
     "id": 233,
     "name": "Pestle and mortar",
     "limit": 40,
     "value": 4,
-    "avgHighPrice": 87,
-    "avgLowPrice": 59,
-    "highPriceVolume": 166,
-    "lowPriceVolume": 40
+    "avgHighPrice": 99,
+    "avgLowPrice": 60,
+    "highPriceVolume": 51,
+    "lowPriceVolume": 6
   },
   {
     "id": 2313,
@@ -2045,19 +2235,19 @@
     "limit": 500,
     "value": 3,
     "avgHighPrice": 50,
-    "avgLowPrice": 48,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 344
+    "avgLowPrice": 50,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 399
   },
   {
     "id": 2114,
     "name": "Pineapple",
     "limit": 13000,
     "value": 2,
-    "avgHighPrice": 173,
-    "avgLowPrice": 157,
-    "highPriceVolume": 3270,
-    "lowPriceVolume": 476
+    "avgHighPrice": 169,
+    "avgLowPrice": 162,
+    "highPriceVolume": 4399,
+    "lowPriceVolume": 1184
   },
   {
     "id": 1013,
@@ -2065,9 +2255,9 @@
     "limit": 150,
     "value": 2,
     "avgHighPrice": 131,
-    "avgLowPrice": 134,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 1
+    "avgLowPrice": 117,
+    "highPriceVolume": 11,
+    "lowPriceVolume": 2
   },
   {
     "id": 7114,
@@ -2076,38 +2266,38 @@
     "value": 350,
     "avgHighPrice": 1056,
     "avgLowPrice": 508,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 4
+    "highPriceVolume": 4,
+    "lowPriceVolume": 3
   },
   {
     "id": 960,
     "name": "Plank",
     "limit": 13000,
     "value": 1,
-    "avgHighPrice": 156,
-    "avgLowPrice": 152,
-    "highPriceVolume": 5759,
-    "lowPriceVolume": 7086
-  },
-  {
-    "id": 6036,
-    "name": "Plant cure",
-    "limit": 2000,
-    "value": 40,
-    "avgHighPrice": 186,
-    "avgLowPrice": 161,
-    "highPriceVolume": 51,
-    "lowPriceVolume": 16
+    "avgHighPrice": 155,
+    "avgLowPrice": 154,
+    "highPriceVolume": 6242,
+    "lowPriceVolume": 19466
   },
   {
     "id": 1931,
     "name": "Pot",
     "limit": 13000,
     "value": 1,
-    "avgHighPrice": 9,
-    "avgLowPrice": 6,
-    "highPriceVolume": 182,
-    "lowPriceVolume": 1485
+    "avgHighPrice": 12,
+    "avgLowPrice": 10,
+    "highPriceVolume": 406,
+    "lowPriceVolume": 139
+  },
+  {
+    "id": 2130,
+    "name": "Pot of cream",
+    "limit": 13000,
+    "value": 2,
+    "avgHighPrice": 34,
+    "avgLowPrice": 34,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 2
   },
   {
     "id": 1933,
@@ -2116,7 +2306,7 @@
     "value": 10,
     "avgHighPrice": 70,
     "avgLowPrice": 68,
-    "highPriceVolume": 19,
+    "highPriceVolume": 38,
     "lowPriceVolume": 2
   },
   {
@@ -2124,20 +2314,20 @@
     "name": "Potato",
     "limit": 13000,
     "value": 1,
-    "avgHighPrice": 22,
+    "avgHighPrice": 25,
     "avgLowPrice": 20,
-    "highPriceVolume": 53,
-    "lowPriceVolume": 22
+    "highPriceVolume": 27879,
+    "lowPriceVolume": 3
   },
   {
     "id": 5318,
     "name": "Potato seed",
     "limit": 600,
     "value": 2,
-    "avgHighPrice": 8,
-    "avgLowPrice": 9,
-    "highPriceVolume": 3746,
-    "lowPriceVolume": 8
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "highPriceVolume": 5160,
+    "lowPriceVolume": 6750
   },
   {
     "id": 6705,
@@ -2145,99 +2335,109 @@
     "limit": 13000,
     "value": 8,
     "avgHighPrice": 221,
-    "avgLowPrice": 213,
-    "highPriceVolume": 620,
-    "lowPriceVolume": 40
+    "avgLowPrice": 210,
+    "highPriceVolume": 100,
+    "lowPriceVolume": 1306
   },
   {
     "id": 143,
     "name": "Prayer potion(1)",
     "limit": 2000,
     "value": 76,
-    "avgHighPrice": 2207,
+    "avgHighPrice": 2252,
     "avgLowPrice": 2195,
     "highPriceVolume": 1,
-    "lowPriceVolume": 25
+    "lowPriceVolume": 98
   },
   {
     "id": 141,
     "name": "Prayer potion(2)",
     "limit": 2000,
     "value": 114,
-    "avgHighPrice": 4400,
-    "avgLowPrice": 4300,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 69
+    "avgHighPrice": 4349,
+    "avgLowPrice": 4250,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 299
   },
   {
     "id": 139,
     "name": "Prayer potion(3)",
     "limit": 2000,
     "value": 152,
-    "avgHighPrice": 6238,
-    "avgLowPrice": 6209,
-    "highPriceVolume": 1238,
-    "lowPriceVolume": 9895
+    "avgHighPrice": 6253,
+    "avgLowPrice": 6232,
+    "highPriceVolume": 641,
+    "lowPriceVolume": 1795
   },
   {
     "id": 2434,
     "name": "Prayer potion(4)",
     "limit": 2000,
     "value": 190,
-    "avgHighPrice": 8463,
-    "avgLowPrice": 8264,
-    "highPriceVolume": 23570,
-    "lowPriceVolume": 4068
+    "avgHighPrice": 8454,
+    "avgLowPrice": 8419,
+    "highPriceVolume": 26193,
+    "lowPriceVolume": 8778
   },
   {
     "id": 428,
     "name": "Priest gown (bottom)",
     "limit": 150,
     "value": 5,
-    "avgHighPrice": 32,
+    "avgHighPrice": 31,
     "avgLowPrice": 31,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 3,
+    "lowPriceVolume": 2
   },
   {
     "id": 1773,
     "name": "Purple dye",
     "limit": 150,
     "value": 5,
-    "avgHighPrice": 129,
+    "avgHighPrice": 126,
     "avgLowPrice": 100,
-    "highPriceVolume": 90,
+    "highPriceVolume": 84,
     "lowPriceVolume": 1
   },
   {
-    "id": 30557,
-    "name": "Raging echoes curtains",
-    "limit": 5,
-    "value": 500,
-    "avgHighPrice": 200000,
-    "avgLowPrice": 199910,
+    "id": 30457,
+    "name": "Raging echoes npc contact scroll",
+    "limit": null,
+    "value": 25000,
+    "avgHighPrice": 2790000,
+    "avgLowPrice": 1733600,
     "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 5
   },
   {
     "id": 30554,
     "name": "Raging echoes rug",
     "limit": null,
     "value": 500,
-    "avgHighPrice": 247647,
-    "avgLowPrice": 246667,
-    "highPriceVolume": 17,
-    "lowPriceVolume": 3
+    "avgHighPrice": 213308,
+    "avgLowPrice": 213850,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 8
+  },
+  {
+    "id": 5341,
+    "name": "Rake",
+    "limit": 40,
+    "value": 6,
+    "avgHighPrice": 490,
+    "avgLowPrice": 200,
+    "highPriceVolume": 29,
+    "lowPriceVolume": 24
   },
   {
     "id": 321,
     "name": "Raw anchovies",
     "limit": 13000,
     "value": 15,
-    "avgHighPrice": 19,
+    "avgHighPrice": 20,
     "avgLowPrice": 19,
-    "highPriceVolume": 19,
-    "lowPriceVolume": 7
+    "highPriceVolume": 181,
+    "lowPriceVolume": 61
   },
   {
     "id": 2136,
@@ -2245,19 +2445,19 @@
     "limit": 13000,
     "value": 1,
     "avgHighPrice": 192,
-    "avgLowPrice": 157,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 5
+    "avgLowPrice": 172,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 2
   },
   {
     "id": 2132,
     "name": "Raw beef",
     "limit": 13000,
     "value": 1,
-    "avgHighPrice": 46,
-    "avgLowPrice": 41,
-    "highPriceVolume": 206,
-    "lowPriceVolume": 25
+    "avgHighPrice": 47,
+    "avgLowPrice": 42,
+    "highPriceVolume": 415,
+    "lowPriceVolume": 233
   },
   {
     "id": 2138,
@@ -2265,19 +2465,19 @@
     "limit": 13000,
     "value": 1,
     "avgHighPrice": 35,
-    "avgLowPrice": 33,
-    "highPriceVolume": 52,
-    "lowPriceVolume": 2
+    "avgLowPrice": 35,
+    "highPriceVolume": 379,
+    "lowPriceVolume": 929
   },
   {
     "id": 2876,
     "name": "Raw chompy",
     "limit": 13000,
     "value": 85,
-    "avgHighPrice": 1843,
+    "avgHighPrice": 2100,
     "avgLowPrice": 1715,
-    "highPriceVolume": 33,
-    "lowPriceVolume": 30
+    "highPriceVolume": 9,
+    "lowPriceVolume": 110
   },
   {
     "id": 341,
@@ -2286,18 +2486,18 @@
     "value": 10,
     "avgHighPrice": 28,
     "avgLowPrice": 28,
-    "highPriceVolume": 116,
-    "lowPriceVolume": 5
+    "highPriceVolume": 340,
+    "lowPriceVolume": 15
   },
   {
     "id": 345,
     "name": "Raw herring",
     "limit": 15000,
     "value": 10,
-    "avgHighPrice": 57,
-    "avgLowPrice": 50,
-    "highPriceVolume": 89,
-    "lowPriceVolume": 74
+    "avgHighPrice": 59,
+    "avgLowPrice": 61,
+    "highPriceVolume": 143,
+    "lowPriceVolume": 1
   },
   {
     "id": 3142,
@@ -2305,49 +2505,49 @@
     "limit": 13000,
     "value": 200,
     "avgHighPrice": 271,
-    "avgLowPrice": 267,
-    "highPriceVolume": 6111,
-    "lowPriceVolume": 49922
+    "avgLowPrice": 269,
+    "highPriceVolume": 52945,
+    "lowPriceVolume": 28731
   },
   {
     "id": 377,
     "name": "Raw lobster",
     "limit": 15000,
     "value": 70,
-    "avgHighPrice": 146,
+    "avgHighPrice": 148,
     "avgLowPrice": 143,
-    "highPriceVolume": 2638,
-    "lowPriceVolume": 8217
+    "highPriceVolume": 11542,
+    "lowPriceVolume": 3868
   },
   {
     "id": 353,
     "name": "Raw mackerel",
     "limit": 15000,
     "value": 15,
-    "avgHighPrice": 20,
+    "avgHighPrice": 21,
     "avgLowPrice": 20,
-    "highPriceVolume": 308,
-    "lowPriceVolume": 94
+    "highPriceVolume": 71,
+    "lowPriceVolume": 3
   },
   {
     "id": 349,
     "name": "Raw pike",
     "limit": 15000,
     "value": 20,
-    "avgHighPrice": 126,
+    "avgHighPrice": 122,
     "avgLowPrice": 119,
-    "highPriceVolume": 148,
-    "lowPriceVolume": 339
+    "highPriceVolume": 247,
+    "lowPriceVolume": 103
   },
   {
     "id": 2134,
     "name": "Raw rat meat",
     "limit": 13000,
     "value": 1,
-    "avgHighPrice": 35,
-    "avgLowPrice": 34,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 46
+    "avgHighPrice": 34,
+    "avgLowPrice": 36,
+    "highPriceVolume": 51,
+    "lowPriceVolume": 89
   },
   {
     "id": 331,
@@ -2356,28 +2556,28 @@
     "value": 30,
     "avgHighPrice": 48,
     "avgLowPrice": 46,
-    "highPriceVolume": 505,
-    "lowPriceVolume": 5002
+    "highPriceVolume": 2668,
+    "lowPriceVolume": 1981
   },
   {
     "id": 327,
     "name": "Raw sardine",
     "limit": 15000,
     "value": 10,
-    "avgHighPrice": 27,
-    "avgLowPrice": 28,
-    "highPriceVolume": 168,
-    "lowPriceVolume": 92
+    "avgHighPrice": 28,
+    "avgLowPrice": 27,
+    "highPriceVolume": 391,
+    "lowPriceVolume": 102
   },
   {
     "id": 383,
     "name": "Raw shark",
     "limit": 15000,
     "value": 170,
-    "avgHighPrice": 652,
-    "avgLowPrice": 647,
-    "highPriceVolume": 7893,
-    "lowPriceVolume": 44061
+    "avgHighPrice": 640,
+    "avgLowPrice": 633,
+    "highPriceVolume": 65728,
+    "lowPriceVolume": 25433
   },
   {
     "id": 317,
@@ -2385,58 +2585,88 @@
     "limit": 15000,
     "value": 5,
     "avgHighPrice": 30,
-    "avgLowPrice": 20,
-    "highPriceVolume": 271,
-    "lowPriceVolume": 2
+    "avgLowPrice": 25,
+    "highPriceVolume": 138,
+    "lowPriceVolume": 928
   },
   {
     "id": 371,
     "name": "Raw swordfish",
     "limit": 15000,
     "value": 80,
-    "avgHighPrice": 205,
-    "avgLowPrice": 200,
-    "highPriceVolume": 7715,
-    "lowPriceVolume": 9630
+    "avgHighPrice": 208,
+    "avgLowPrice": 204,
+    "highPriceVolume": 5304,
+    "lowPriceVolume": 8423
   },
   {
     "id": 335,
     "name": "Raw trout",
     "limit": 15000,
     "value": 10,
-    "avgHighPrice": 55,
-    "avgLowPrice": 58,
-    "highPriceVolume": 803,
-    "lowPriceVolume": 1261
+    "avgHighPrice": 54,
+    "avgLowPrice": 54,
+    "highPriceVolume": 1705,
+    "lowPriceVolume": 4002
   },
   {
     "id": 359,
     "name": "Raw tuna",
     "limit": 15000,
     "value": 40,
-    "avgHighPrice": 64,
-    "avgLowPrice": 62,
-    "highPriceVolume": 3898,
-    "lowPriceVolume": 11231
+    "avgHighPrice": 67,
+    "avgLowPrice": 64,
+    "highPriceVolume": 3173,
+    "lowPriceVolume": 2033
   },
   {
     "id": 2904,
     "name": "Red boots",
     "limit": 150,
     "value": 500,
-    "avgHighPrice": 1343,
-    "avgLowPrice": 828,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 3
+    "avgHighPrice": 1241,
+    "avgLowPrice": 844,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 37
   },
   {
     "id": 1007,
     "name": "Red cape",
     "limit": 150,
     "value": 2,
-    "avgHighPrice": 67,
+    "avgHighPrice": 64,
     "avgLowPrice": 60,
     "highPriceVolume": 6,
+    "lowPriceVolume": 5
+  },
+  {
+    "id": 1763,
+    "name": "Red dye",
+    "limit": 150,
+    "value": 5,
+    "avgHighPrice": 300,
+    "avgLowPrice": 272,
+    "highPriceVolume": 128,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 2910,
+    "name": "Red hat",
+    "limit": 150,
+    "value": 500,
+    "avgHighPrice": 1200,
+    "avgLowPrice": 650,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 2906,
+    "name": "Red robe top",
+    "limit": 150,
+    "value": 500,
+    "avgHighPrice": 1101,
+    "avgLowPrice": 1101,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
@@ -2444,50 +2674,70 @@
     "name": "Red topaz",
     "limit": 11000,
     "value": 200,
-    "avgHighPrice": 2829,
-    "avgLowPrice": 2680,
-    "highPriceVolume": 700,
-    "lowPriceVolume": 229
+    "avgHighPrice": 2834,
+    "avgLowPrice": 2682,
+    "highPriceVolume": 1448,
+    "lowPriceVolume": 125
   },
   {
     "id": 6317,
     "name": "Red topaz machete",
     "limit": 15,
     "value": 2000,
-    "avgHighPrice": 19887,
-    "avgLowPrice": 14123,
-    "highPriceVolume": 2,
+    "avgHighPrice": 20747,
+    "avgLowPrice": 13300,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1951,
+    "name": "Redberries",
+    "limit": 13000,
+    "value": 3,
+    "avgHighPrice": 51,
+    "avgLowPrice": 54,
+    "highPriceVolume": 23,
+    "lowPriceVolume": 58
+  },
+  {
+    "id": 1025,
+    "name": "Right eye patch",
+    "limit": 150,
+    "value": 2,
+    "avgHighPrice": 155,
+    "avgLowPrice": 61,
+    "highPriceVolume": 1,
     "lowPriceVolume": 2
   },
   {
-    "id": 2325,
-    "name": "Redberry pie",
-    "limit": 15,
-    "value": 12,
-    "avgHighPrice": 461,
-    "avgLowPrice": 462,
-    "highPriceVolume": 49,
-    "lowPriceVolume": 6
+    "id": 1592,
+    "name": "Ring mould",
+    "limit": 40,
+    "value": 5,
+    "avgHighPrice": 116,
+    "avgLowPrice": 98,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 1
   },
   {
-    "id": 4842,
-    "name": "Relicym's balm(4)",
-    "limit": 2000,
-    "value": 225,
-    "avgHighPrice": 1069,
-    "avgLowPrice": 992,
-    "highPriceVolume": 110,
-    "lowPriceVolume": 47
+    "id": 26815,
+    "name": "Ring of the elements",
+    "limit": null,
+    "value": 2000,
+    "avgHighPrice": 653977,
+    "avgLowPrice": 615862,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 5
   },
   {
     "id": 954,
     "name": "Rope",
     "limit": 250,
     "value": 18,
-    "avgHighPrice": 80,
-    "avgLowPrice": 76,
-    "highPriceVolume": 967,
-    "lowPriceVolume": 34
+    "avgHighPrice": 71,
+    "avgLowPrice": 56,
+    "highPriceVolume": 1348,
+    "lowPriceVolume": 71
   },
   {
     "id": 5097,
@@ -2495,39 +2745,39 @@
     "limit": 600,
     "value": 4,
     "avgHighPrice": 25,
-    "avgLowPrice": 7,
-    "highPriceVolume": 625,
-    "lowPriceVolume": 52
+    "avgLowPrice": 9,
+    "highPriceVolume": 30,
+    "lowPriceVolume": 62
   },
   {
     "id": 28896,
     "name": "Rum",
     "limit": null,
     "value": 5,
-    "avgHighPrice": 276,
+    "avgHighPrice": 275,
     "avgLowPrice": 275,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 272
+    "highPriceVolume": 3755,
+    "lowPriceVolume": 464
   },
   {
     "id": 44,
     "name": "Rune arrowtips",
     "limit": 10000,
     "value": 200,
-    "avgHighPrice": 225,
+    "avgHighPrice": 236,
     "avgLowPrice": 219,
-    "highPriceVolume": 684,
-    "lowPriceVolume": 735
+    "highPriceVolume": 1304,
+    "lowPriceVolume": 2408
   },
   {
     "id": 4803,
     "name": "Rune brutal",
     "limit": 11000,
     "value": 450,
-    "avgHighPrice": 1000,
-    "avgLowPrice": 960,
-    "highPriceVolume": 721,
-    "lowPriceVolume": 944
+    "avgHighPrice": 999,
+    "avgLowPrice": 1000,
+    "highPriceVolume": 924,
+    "lowPriceVolume": 3239
   },
   {
     "id": 1436,
@@ -2536,128 +2786,118 @@
     "value": 4,
     "avgHighPrice": 11,
     "avgLowPrice": 11,
-    "highPriceVolume": 3144,
-    "lowPriceVolume": 201
-  },
-  {
-    "id": 24587,
-    "name": "Rune pouch note",
-    "limit": 40,
-    "value": 210,
-    "avgHighPrice": 4200000,
-    "avgLowPrice": 4182952,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
+    "highPriceVolume": 1257,
+    "lowPriceVolume": 1053
   },
   {
     "id": 451,
     "name": "Runite ore",
     "limit": 4500,
     "value": 3200,
-    "avgHighPrice": 10460,
+    "avgHighPrice": 10455,
     "avgLowPrice": 10448,
-    "highPriceVolume": 2574,
-    "lowPriceVolume": 19583
+    "highPriceVolume": 6793,
+    "lowPriceVolume": 27882
   },
   {
     "id": 329,
     "name": "Salmon",
     "limit": 6000,
     "value": 30,
-    "avgHighPrice": 47,
+    "avgHighPrice": 49,
     "avgLowPrice": 48,
-    "highPriceVolume": 650,
-    "lowPriceVolume": 1314
+    "highPriceVolume": 373,
+    "lowPriceVolume": 1712
   },
   {
     "id": 13431,
     "name": "Sandworms",
     "limit": 8000,
     "value": 90,
-    "avgHighPrice": 116,
-    "avgLowPrice": 110,
-    "highPriceVolume": 5011,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 10927,
-    "name": "Sanfew serum(3)",
-    "limit": 2000,
-    "value": 240,
-    "avgHighPrice": 14800,
-    "avgLowPrice": 14310,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 24
+    "avgHighPrice": 121,
+    "avgLowPrice": 111,
+    "highPriceVolume": 1460,
+    "lowPriceVolume": 6169
   },
   {
     "id": 10925,
     "name": "Sanfew serum(4)",
     "limit": 2000,
     "value": 300,
-    "avgHighPrice": 20183,
-    "avgLowPrice": 19830,
-    "highPriceVolume": 1092,
-    "lowPriceVolume": 1366
+    "avgHighPrice": 20336,
+    "avgLowPrice": 19908,
+    "highPriceVolume": 2366,
+    "lowPriceVolume": 1200
   },
   {
     "id": 1607,
     "name": "Sapphire",
     "limit": 13000,
     "value": 250,
-    "avgHighPrice": 267,
-    "avgLowPrice": 263,
-    "highPriceVolume": 3451,
-    "lowPriceVolume": 24650
+    "avgHighPrice": 271,
+    "avgLowPrice": 268,
+    "highPriceVolume": 28176,
+    "lowPriceVolume": 39551
+  },
+  {
+    "id": 6691,
+    "name": "Saradomin brew(1)",
+    "limit": 2000,
+    "value": 125,
+    "avgHighPrice": 1990,
+    "avgLowPrice": 1989,
+    "highPriceVolume": 201,
+    "lowPriceVolume": 31
   },
   {
     "id": 6687,
     "name": "Saradomin brew(3)",
     "limit": 2000,
     "value": 175,
-    "avgHighPrice": 5795,
-    "avgLowPrice": 5665,
-    "highPriceVolume": 300,
-    "lowPriceVolume": 463
+    "avgHighPrice": 5773,
+    "avgLowPrice": 5640,
+    "highPriceVolume": 4002,
+    "lowPriceVolume": 4793
   },
   {
     "id": 6685,
     "name": "Saradomin brew(4)",
     "limit": 2000,
     "value": 200,
-    "avgHighPrice": 7741,
-    "avgLowPrice": 7679,
-    "highPriceVolume": 15595,
-    "lowPriceVolume": 7504
+    "avgHighPrice": 7748,
+    "avgLowPrice": 7709,
+    "highPriceVolume": 9010,
+    "lowPriceVolume": 7244
   },
   {
     "id": 8794,
     "name": "Saw",
     "limit": 40,
     "value": 10,
-    "avgHighPrice": 275,
-    "avgLowPrice": 261,
-    "highPriceVolume": 30,
-    "lowPriceVolume": 4
+    "avgHighPrice": 272,
+    "avgLowPrice": 220,
+    "highPriceVolume": 55,
+    "lowPriceVolume": 10
   },
   {
     "id": 28628,
     "name": "Sawmill voucher",
     "limit": 10000,
     "value": 100,
-    "avgHighPrice": 3590,
-    "avgLowPrice": 3489,
-    "highPriceVolume": 1632,
-    "lowPriceVolume": 1769
+    "avgHighPrice": 3655,
+    "avgLowPrice": 3658,
+    "highPriceVolume": 1332,
+    "lowPriceVolume": 5180
   },
   {
     "id": 397,
     "name": "Sea turtle",
     "limit": 10000,
     "value": 200,
-    "avgHighPrice": 960,
-    "avgLowPrice": 942,
-    "highPriceVolume": 807,
-    "lowPriceVolume": 200
+    "avgHighPrice": 939,
+    "avgLowPrice": 915,
+    "highPriceVolume": 2456,
+    "lowPriceVolume": 924
   },
   {
     "id": 401,
@@ -2665,119 +2905,209 @@
     "limit": 13000,
     "value": 2,
     "avgHighPrice": 8,
-    "avgLowPrice": 8,
-    "highPriceVolume": 397,
-    "lowPriceVolume": 3093
+    "avgLowPrice": 7,
+    "highPriceVolume": 968,
+    "lowPriceVolume": 12145
   },
   {
     "id": 21490,
     "name": "Seaweed spore",
     "limit": 600,
     "value": 20,
-    "avgHighPrice": 200,
-    "avgLowPrice": 120,
+    "avgHighPrice": 207,
+    "avgLowPrice": 207,
+    "highPriceVolume": 84,
+    "lowPriceVolume": 273
+  },
+  {
+    "id": 5329,
+    "name": "Secateurs",
+    "limit": 40,
+    "value": 5,
+    "avgHighPrice": 499,
+    "avgLowPrice": 380,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 9003,
+    "name": "Security book",
+    "limit": 15,
+    "value": 2,
+    "avgHighPrice": 89,
+    "avgLowPrice": 80,
     "highPriceVolume": 1,
-    "lowPriceVolume": 218
+    "lowPriceVolume": 1
   },
   {
     "id": 5343,
     "name": "Seed dibber",
     "limit": 40,
     "value": 6,
-    "avgHighPrice": 147,
-    "avgLowPrice": 148,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 1
+    "avgHighPrice": 149,
+    "avgLowPrice": 143,
+    "highPriceVolume": 69,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 12782,
+    "name": "Senntisten teleport (tablet)",
+    "limit": 10000,
+    "value": 1,
+    "avgHighPrice": 974,
+    "avgLowPrice": 705,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 20
   },
   {
     "id": 1854,
     "name": "Shantay pass (item)",
     "limit": 18000,
     "value": 5,
-    "avgHighPrice": 16,
+    "avgHighPrice": 20,
     "avgLowPrice": 10,
-    "highPriceVolume": 14,
-    "lowPriceVolume": 20
+    "highPriceVolume": 15,
+    "lowPriceVolume": 50
   },
   {
     "id": 385,
     "name": "Shark",
     "limit": 10000,
     "value": 170,
-    "avgHighPrice": 921,
-    "avgLowPrice": 905,
-    "highPriceVolume": 61927,
-    "lowPriceVolume": 21472
+    "avgHighPrice": 923,
+    "avgLowPrice": 910,
+    "highPriceVolume": 88600,
+    "lowPriceVolume": 32531
+  },
+  {
+    "id": 26528,
+    "name": "Shattered cannon ornament kit",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 432116,
+    "avgLowPrice": 450000,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 26421,
+    "name": "Shattered relics variety ornament kit",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 645116,
+    "avgLowPrice": 602101,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 3
   },
   {
     "id": 26479,
     "name": "Shattered relics void ornament kit",
     "limit": 5,
     "value": 25000,
-    "avgHighPrice": 477061,
-    "avgLowPrice": 433461,
-    "highPriceVolume": 27,
-    "lowPriceVolume": 12
+    "avgHighPrice": 419304,
+    "avgLowPrice": 423800,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 23
+  },
+  {
+    "id": 26500,
+    "name": "Shattered teleport scroll",
+    "limit": null,
+    "value": 25000,
+    "avgHighPrice": 499000,
+    "avgLowPrice": 355918,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 1735,
+    "name": "Shears",
+    "limit": 40,
+    "value": 1,
+    "avgHighPrice": 64,
+    "avgLowPrice": 20,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 5044,
+    "name": "Shorts (yellow)",
+    "limit": 150,
+    "value": 360,
+    "avgHighPrice": 15000,
+    "avgLowPrice": 3680,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
   },
   {
     "id": 303,
     "name": "Small fishing net",
     "limit": 40,
     "value": 5,
-    "avgHighPrice": 199,
-    "avgLowPrice": 176,
-    "highPriceVolume": 146,
-    "lowPriceVolume": 16
+    "avgHighPrice": 179,
+    "avgLowPrice": 131,
+    "highPriceVolume": 145,
+    "lowPriceVolume": 33
   },
   {
     "id": 3000,
     "name": "Snapdragon",
     "limit": 11000,
     "value": 59,
-    "avgHighPrice": 8452,
-    "avgLowPrice": 8452,
-    "highPriceVolume": 1742,
-    "lowPriceVolume": 6623
+    "avgHighPrice": 8450,
+    "avgLowPrice": 8435,
+    "highPriceVolume": 943,
+    "lowPriceVolume": 5867
   },
   {
     "id": 566,
     "name": "Soul rune",
     "limit": 25000,
     "value": 300,
-    "avgHighPrice": 379,
-    "avgLowPrice": 374,
-    "highPriceVolume": 296735,
-    "lowPriceVolume": 302263
+    "avgHighPrice": 378,
+    "avgLowPrice": 369,
+    "highPriceVolume": 814104,
+    "lowPriceVolume": 359167
   },
   {
     "id": 952,
     "name": "Spade",
     "limit": 40,
     "value": 3,
-    "avgHighPrice": 127,
-    "avgLowPrice": 126,
-    "highPriceVolume": 169,
-    "lowPriceVolume": 7
+    "avgHighPrice": 133,
+    "avgLowPrice": 128,
+    "highPriceVolume": 149,
+    "lowPriceVolume": 22
+  },
+  {
+    "id": 1379,
+    "name": "Staff",
+    "limit": 125,
+    "value": 15,
+    "avgHighPrice": 224,
+    "avgLowPrice": 76,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 4
   },
   {
     "id": 1381,
     "name": "Staff of air",
     "limit": 125,
     "value": 1500,
-    "avgHighPrice": 1908,
-    "avgLowPrice": 1868,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 15
+    "avgHighPrice": 1923,
+    "avgLowPrice": 1839,
+    "highPriceVolume": 25,
+    "lowPriceVolume": 58
   },
   {
     "id": 12631,
     "name": "Stamina potion(1)",
     "limit": 2000,
     "value": 100,
-    "avgHighPrice": 1067,
+    "avgHighPrice": 1093,
     "avgLowPrice": 957,
-    "highPriceVolume": 16,
-    "lowPriceVolume": 2
+    "highPriceVolume": 1213,
+    "lowPriceVolume": 14
   },
   {
     "id": 12629,
@@ -2785,9 +3115,9 @@
     "limit": 2000,
     "value": 200,
     "avgHighPrice": 2324,
-    "avgLowPrice": 2236,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 28
+    "avgLowPrice": 2106,
+    "highPriceVolume": 22,
+    "lowPriceVolume": 25
   },
   {
     "id": 12627,
@@ -2796,78 +3126,98 @@
     "value": 300,
     "avgHighPrice": 3070,
     "avgLowPrice": 3013,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 57
+    "highPriceVolume": 69,
+    "lowPriceVolume": 41
   },
   {
     "id": 12625,
     "name": "Stamina potion(4)",
     "limit": 2000,
     "value": 400,
-    "avgHighPrice": 4134,
-    "avgLowPrice": 4064,
-    "highPriceVolume": 6805,
-    "lowPriceVolume": 6102
+    "avgHighPrice": 4144,
+    "avgLowPrice": 4008,
+    "highPriceVolume": 4760,
+    "lowPriceVolume": 9461
+  },
+  {
+    "id": 886,
+    "name": "Steel arrow",
+    "limit": 7000,
+    "value": 12,
+    "avgHighPrice": 13,
+    "avgLowPrice": 13,
+    "highPriceVolume": 11204,
+    "lowPriceVolume": 58251
   },
   {
     "id": 41,
     "name": "Steel arrowtips",
     "limit": 10000,
     "value": 6,
-    "avgHighPrice": 22,
+    "avgHighPrice": 23,
     "avgLowPrice": 23,
-    "highPriceVolume": 40335,
-    "lowPriceVolume": 1038
+    "highPriceVolume": 21009,
+    "lowPriceVolume": 7099
   },
   {
     "id": 2,
     "name": "Steel cannonball",
     "limit": 11000,
     "value": 5,
-    "avgHighPrice": 292,
-    "avgLowPrice": 281,
-    "highPriceVolume": 500922,
-    "lowPriceVolume": 363472
+    "avgHighPrice": 290,
+    "avgLowPrice": 287,
+    "highPriceVolume": 392312,
+    "lowPriceVolume": 206476
   },
   {
     "id": 865,
     "name": "Steel knife",
     "limit": 7000,
     "value": 11,
-    "avgHighPrice": 55,
+    "avgHighPrice": 56,
     "avgLowPrice": 47,
     "highPriceVolume": 2000,
-    "lowPriceVolume": 2
+    "lowPriceVolume": 121
   },
   {
     "id": 1539,
     "name": "Steel nails",
     "limit": 13000,
     "value": 3,
-    "avgHighPrice": 24,
-    "avgLowPrice": 22,
-    "highPriceVolume": 72227,
-    "lowPriceVolume": 973
+    "avgHighPrice": 25,
+    "avgLowPrice": 25,
+    "highPriceVolume": 28446,
+    "lowPriceVolume": 27271
   },
   {
     "id": 2003,
     "name": "Stew",
     "limit": 10000,
     "value": 20,
-    "avgHighPrice": 114,
-    "avgLowPrice": 94,
-    "highPriceVolume": 531,
-    "lowPriceVolume": 3
+    "avgHighPrice": 120,
+    "avgLowPrice": 118,
+    "highPriceVolume": 421,
+    "lowPriceVolume": 583
   },
   {
     "id": 5504,
     "name": "Strawberry",
     "limit": 11000,
     "value": 17,
-    "avgHighPrice": 24,
+    "avgHighPrice": 30,
     "avgLowPrice": 24,
-    "highPriceVolume": 2484,
-    "lowPriceVolume": 36
+    "highPriceVolume": 21938,
+    "lowPriceVolume": 437
+  },
+  {
+    "id": 115,
+    "name": "Strength potion(3)",
+    "limit": 2000,
+    "value": 13,
+    "avgHighPrice": 61,
+    "avgLowPrice": 60,
+    "highPriceVolume": 119,
+    "lowPriceVolume": 200
   },
   {
     "id": 113,
@@ -2875,89 +3225,79 @@
     "limit": 2000,
     "value": 14,
     "avgHighPrice": 94,
-    "avgLowPrice": 93,
-    "highPriceVolume": 193,
-    "lowPriceVolume": 1278
+    "avgLowPrice": 94,
+    "highPriceVolume": 1401,
+    "lowPriceVolume": 1480
   },
   {
     "id": 7218,
     "name": "Summer pie",
     "limit": 10000,
     "value": 140,
-    "avgHighPrice": 761,
-    "avgLowPrice": 729,
-    "highPriceVolume": 963,
-    "lowPriceVolume": 1019
+    "avgHighPrice": 741,
+    "avgLowPrice": 754,
+    "highPriceVolume": 1012,
+    "lowPriceVolume": 2389
   },
   {
     "id": 29177,
     "name": "Sunlight antelope fur",
     "limit": null,
     "value": 10,
-    "avgHighPrice": 810,
+    "avgHighPrice": 821,
     "avgLowPrice": 800,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 86
+    "highPriceVolume": 15,
+    "lowPriceVolume": 756
   },
   {
     "id": 3030,
     "name": "Super restore(1)",
     "limit": 2000,
     "value": 120,
-    "avgHighPrice": 2910,
-    "avgLowPrice": 2772,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 13
+    "avgHighPrice": 2634,
+    "avgLowPrice": 1385,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
   },
   {
     "id": 3028,
     "name": "Super restore(2)",
     "limit": 2000,
     "value": 180,
-    "avgHighPrice": 5390,
+    "avgHighPrice": 5793,
     "avgLowPrice": 5390,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 4
+    "highPriceVolume": 1,
+    "lowPriceVolume": 28
   },
   {
     "id": 3026,
     "name": "Super restore(3)",
     "limit": 2000,
     "value": 240,
-    "avgHighPrice": 8099,
-    "avgLowPrice": 8084,
-    "highPriceVolume": 570,
-    "lowPriceVolume": 359
+    "avgHighPrice": 8100,
+    "avgLowPrice": 8028,
+    "highPriceVolume": 4060,
+    "lowPriceVolume": 1890
   },
   {
     "id": 3024,
     "name": "Super restore(4)",
     "limit": 2000,
     "value": 300,
-    "avgHighPrice": 10988,
-    "avgLowPrice": 10792,
-    "highPriceVolume": 11267,
-    "lowPriceVolume": 8617
+    "avgHighPrice": 10931,
+    "avgLowPrice": 10782,
+    "highPriceVolume": 18150,
+    "lowPriceVolume": 7623
   },
   {
     "id": 5986,
     "name": "Sweetcorn",
     "limit": 11000,
     "value": 9,
-    "avgHighPrice": 70,
+    "avgHighPrice": 69,
     "avgLowPrice": 53,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 103
-  },
-  {
-    "id": 5320,
-    "name": "Sweetcorn seed",
-    "limit": 600,
-    "value": 8,
-    "avgHighPrice": 14,
-    "avgLowPrice": 9,
-    "highPriceVolume": 1512,
-    "lowPriceVolume": 820
+    "highPriceVolume": 673,
+    "lowPriceVolume": 252
   },
   {
     "id": 373,
@@ -2966,18 +3306,28 @@
     "value": 80,
     "avgHighPrice": 198,
     "avgLowPrice": 193,
-    "highPriceVolume": 22910,
-    "lowPriceVolume": 3125
+    "highPriceVolume": 9550,
+    "lowPriceVolume": 13798
   },
   {
-    "id": 2924,
-    "name": "Teal boots",
-    "limit": 150,
-    "value": 500,
-    "avgHighPrice": 991,
-    "avgLowPrice": 900,
+    "id": 24336,
+    "name": "Target teleport",
+    "limit": null,
+    "value": 1,
+    "avgHighPrice": 1151,
+    "avgLowPrice": 1074,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 28
+  },
+  {
+    "id": 10101,
+    "name": "Tatty kyatt fur",
+    "limit": 10000,
+    "value": 120,
+    "avgHighPrice": 839,
+    "avgLowPrice": 136,
     "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 16
   },
   {
     "id": 4315,
@@ -2986,8 +3336,58 @@
     "value": 50,
     "avgHighPrice": 1500,
     "avgLowPrice": 1143,
-    "highPriceVolume": 23,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 4335,
+    "name": "Team-11 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 1400,
+    "avgLowPrice": 1195,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
+  },
+  {
+    "id": 4371,
+    "name": "Team-29 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 450,
+    "avgLowPrice": 226,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 4377,
+    "name": "Team-32 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 1272,
+    "avgLowPrice": 952,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 4379,
+    "name": "Team-33 cape",
+    "limit": 150,
+    "value": 50,
+    "avgHighPrice": 1012,
+    "avgLowPrice": 800,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 3363,
+    "name": "Thin snail",
+    "limit": 13000,
+    "value": 5,
+    "avgHighPrice": 1361,
+    "avgLowPrice": 707,
+    "highPriceVolume": 19,
+    "lowPriceVolume": 11
   },
   {
     "id": 1734,
@@ -2995,19 +3395,9 @@
     "limit": 18000,
     "value": 1,
     "avgHighPrice": 7,
-    "avgLowPrice": 8,
-    "highPriceVolume": 70921,
-    "lowPriceVolume": 1202
-  },
-  {
-    "id": 8837,
-    "name": "Timber beam",
-    "limit": 13000,
-    "value": 1,
-    "avgHighPrice": 550,
-    "avgLowPrice": 548,
-    "highPriceVolume": 700,
-    "lowPriceVolume": 201
+    "avgLowPrice": 7,
+    "highPriceVolume": 24843,
+    "lowPriceVolume": 10128
   },
   {
     "id": 438,
@@ -3016,178 +3406,228 @@
     "value": 3,
     "avgHighPrice": 14,
     "avgLowPrice": 14,
-    "highPriceVolume": 113,
-    "lowPriceVolume": 204
+    "highPriceVolume": 467,
+    "lowPriceVolume": 30
   },
   {
     "id": 590,
     "name": "Tinderbox",
     "limit": 40,
     "value": 1,
-    "avgHighPrice": 66,
-    "avgLowPrice": 80,
-    "highPriceVolume": 226,
-    "lowPriceVolume": 109
+    "avgHighPrice": 67,
+    "avgLowPrice": 67,
+    "highPriceVolume": 80,
+    "lowPriceVolume": 23
   },
   {
     "id": 2998,
     "name": "Toadflax",
     "limit": 13000,
     "value": 48,
-    "avgHighPrice": 2491,
-    "avgLowPrice": 2489,
-    "highPriceVolume": 9490,
-    "lowPriceVolume": 15805
+    "avgHighPrice": 2485,
+    "avgLowPrice": 2471,
+    "highPriceVolume": 2123,
+    "lowPriceVolume": 11537
   },
   {
     "id": 6524,
     "name": "Toktz-ket-xil",
     "limit": 70,
     "value": 45000,
-    "avgHighPrice": 348506,
-    "avgLowPrice": 328254,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 9
+    "avgHighPrice": 351998,
+    "avgLowPrice": 350000,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 13
   },
   {
     "id": 6523,
     "name": "Toktz-xil-ak",
     "limit": 70,
     "value": 40000,
-    "avgHighPrice": 408203,
-    "avgLowPrice": 394000,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 3
+    "avgHighPrice": 411934,
+    "avgLowPrice": 398000,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 1
   },
   {
     "id": 6522,
     "name": "Toktz-xil-ul",
     "limit": 11000,
     "value": 250,
-    "avgHighPrice": 2619,
+    "avgHighPrice": 2498,
     "avgLowPrice": 2334,
-    "highPriceVolume": 44,
-    "lowPriceVolume": 2
+    "highPriceVolume": 46,
+    "lowPriceVolume": 19
   },
   {
-    "id": 25099,
-    "name": "Trailblazer graceful ornament kit",
-    "limit": 6,
+    "id": 1982,
+    "name": "Tomato",
+    "limit": 13000,
+    "value": 4,
+    "avgHighPrice": 27,
+    "avgLowPrice": 26,
+    "highPriceVolume": 323,
+    "lowPriceVolume": 160
+  },
+  {
+    "id": 28693,
+    "name": "Trailblazer reloaded alchemy scroll",
+    "limit": null,
     "value": 25000,
-    "avgHighPrice": 347846,
-    "avgLowPrice": 305179,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 19
+    "avgHighPrice": 772097,
+    "avgLowPrice": 647500,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 2
   },
   {
     "id": 28690,
     "name": "Trailblazer reloaded blowpipe ornament kit",
     "limit": null,
     "value": 5000,
-    "avgHighPrice": 2030896,
-    "avgLowPrice": 1995000,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 4
+    "avgHighPrice": 2169428,
+    "avgLowPrice": 2082740,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 8
   },
   {
     "id": 28684,
     "name": "Trailblazer reloaded bulwark ornament kit",
     "limit": null,
     "value": 5000,
-    "avgHighPrice": 3339167,
-    "avgLowPrice": 3422222,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 5
+    "avgHighPrice": 3284500,
+    "avgLowPrice": 3200001,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   },
   {
-    "id": 28708,
-    "name": "Trailblazer reloaded rejuvenation pool scroll",
-    "limit": null,
+    "id": 28699,
+    "name": "Trailblazer reloaded death scroll",
+    "limit": 5,
     "value": 25000,
-    "avgHighPrice": 3400000,
-    "avgLowPrice": 3210000,
-    "highPriceVolume": 3,
+    "avgHighPrice": 1475000,
+    "avgLowPrice": 1157667,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 28705,
+    "name": "Trailblazer reloaded home teleport scroll",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 436049,
+    "avgLowPrice": 323323,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
-    "id": 25090,
-    "name": "Trailblazer tool ornament kit",
-    "limit": 5,
+    "id": 28696,
+    "name": "Trailblazer reloaded vengeance scroll",
+    "limit": null,
     "value": 25000,
-    "avgHighPrice": 650000,
-    "avgLowPrice": 600000,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 4
+    "avgHighPrice": 2663999,
+    "avgLowPrice": 2514167,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 6
+  },
+  {
+    "id": 25096,
+    "name": "Trailblazer rug",
+    "limit": 5,
+    "value": 50000,
+    "avgHighPrice": 1965108,
+    "avgLowPrice": 1550000,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
   },
   {
     "id": 333,
     "name": "Trout",
     "limit": 6000,
     "value": 10,
-    "avgHighPrice": 30,
+    "avgHighPrice": 32,
     "avgLowPrice": 30,
-    "highPriceVolume": 662,
-    "lowPriceVolume": 1102
+    "highPriceVolume": 10632,
+    "lowPriceVolume": 549
   },
   {
     "id": 24187,
     "name": "Trouver parchment",
     "limit": 500,
     "value": 200,
-    "avgHighPrice": 1076255,
-    "avgLowPrice": 1045264,
-    "highPriceVolume": 38,
-    "lowPriceVolume": 50
+    "avgHighPrice": 1049196,
+    "avgLowPrice": 1024719,
+    "highPriceVolume": 49,
+    "lowPriceVolume": 40
   },
   {
     "id": 361,
     "name": "Tuna",
     "limit": 6000,
     "value": 40,
-    "avgHighPrice": 72,
-    "avgLowPrice": 73,
-    "highPriceVolume": 65,
-    "lowPriceVolume": 2754
+    "avgHighPrice": 73,
+    "avgLowPrice": 70,
+    "highPriceVolume": 3415,
+    "lowPriceVolume": 10461
+  },
+  {
+    "id": 654,
+    "name": "Turquoise robe bottoms",
+    "limit": 150,
+    "value": 180,
+    "avgHighPrice": 1000,
+    "avgLowPrice": 966,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 24460,
+    "name": "Twisted teleport scroll",
+    "limit": 5,
+    "value": 25000,
+    "avgHighPrice": 199600,
+    "avgLowPrice": 200000,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 4
   },
   {
     "id": 6528,
     "name": "Tzhaar-ket-om",
     "limit": 70,
     "value": 50001,
-    "avgHighPrice": 211818,
-    "avgLowPrice": 196252,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 26
+    "avgHighPrice": 198217,
+    "avgLowPrice": 182646,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 10
   },
   {
     "id": 1617,
     "name": "Uncut diamond",
     "limit": 10000,
     "value": 200,
-    "avgHighPrice": 2677,
-    "avgLowPrice": 2626,
-    "highPriceVolume": 12891,
-    "lowPriceVolume": 18051
+    "avgHighPrice": 2666,
+    "avgLowPrice": 2660,
+    "highPriceVolume": 6381,
+    "lowPriceVolume": 16813
   },
   {
     "id": 1631,
     "name": "Uncut dragonstone",
     "limit": 10000,
     "value": 1000,
-    "avgHighPrice": 15520,
-    "avgLowPrice": 15481,
-    "highPriceVolume": 5076,
-    "lowPriceVolume": 571
+    "avgHighPrice": 15490,
+    "avgLowPrice": 15467,
+    "highPriceVolume": 23,
+    "lowPriceVolume": 1269
   },
   {
     "id": 1621,
     "name": "Uncut emerald",
     "limit": 10000,
     "value": 50,
-    "avgHighPrice": 559,
-    "avgLowPrice": 557,
-    "highPriceVolume": 467,
-    "lowPriceVolume": 18072
+    "avgHighPrice": 579,
+    "avgLowPrice": 560,
+    "highPriceVolume": 11447,
+    "lowPriceVolume": 46350
   },
   {
     "id": 1627,
@@ -3195,59 +3635,49 @@
     "limit": 10000,
     "value": 30,
     "avgHighPrice": 100,
-    "avgLowPrice": 83,
-    "highPriceVolume": 370,
-    "lowPriceVolume": 1517
-  },
-  {
-    "id": 6571,
-    "name": "Uncut onyx",
-    "limit": 11000,
-    "value": 200000,
-    "avgHighPrice": 2840000,
-    "avgLowPrice": 2833217,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 69
+    "avgLowPrice": 84,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 1194
   },
   {
     "id": 1625,
     "name": "Uncut opal",
     "limit": 10000,
     "value": 20,
-    "avgHighPrice": 74,
-    "avgLowPrice": 68,
-    "highPriceVolume": 823,
-    "lowPriceVolume": 1146
+    "avgHighPrice": 72,
+    "avgLowPrice": 70,
+    "highPriceVolume": 1320,
+    "lowPriceVolume": 704
   },
   {
     "id": 1629,
     "name": "Uncut red topaz",
     "limit": 10000,
     "value": 40,
-    "avgHighPrice": 2319,
-    "avgLowPrice": 2300,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 852
+    "avgHighPrice": 2328,
+    "avgLowPrice": 2265,
+    "highPriceVolume": 342,
+    "lowPriceVolume": 1161
   },
   {
     "id": 1619,
     "name": "Uncut ruby",
     "limit": 10000,
     "value": 100,
-    "avgHighPrice": 1223,
-    "avgLowPrice": 1211,
-    "highPriceVolume": 2827,
-    "lowPriceVolume": 23933
+    "avgHighPrice": 1217,
+    "avgLowPrice": 1199,
+    "highPriceVolume": 4944,
+    "lowPriceVolume": 29767
   },
   {
     "id": 1623,
     "name": "Uncut sapphire",
     "limit": 10000,
     "value": 25,
-    "avgHighPrice": 300,
-    "avgLowPrice": 290,
-    "highPriceVolume": 14292,
-    "lowPriceVolume": 22707
+    "avgHighPrice": 290,
+    "avgLowPrice": 286,
+    "highPriceVolume": 31801,
+    "lowPriceVolume": 67102
   },
   {
     "id": 596,
@@ -3256,8 +3686,8 @@
     "value": 4,
     "avgHighPrice": 23,
     "avgLowPrice": 16,
-    "highPriceVolume": 13,
-    "lowPriceVolume": 3
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
     "id": 227,
@@ -3266,38 +3696,58 @@
     "value": 2,
     "avgHighPrice": 4,
     "avgLowPrice": 4,
-    "highPriceVolume": 19102,
-    "lowPriceVolume": 94741
+    "highPriceVolume": 42489,
+    "lowPriceVolume": 40157
+  },
+  {
+    "id": 2015,
+    "name": "Vodka",
+    "limit": 13000,
+    "value": 5,
+    "avgHighPrice": 113,
+    "avgLowPrice": 113,
+    "highPriceVolume": 16,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 555,
+    "name": "Water rune",
+    "limit": 50000,
+    "value": 4,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "highPriceVolume": 1180635,
+    "lowPriceVolume": 386822
   },
   {
     "id": 1444,
     "name": "Water talisman",
     "limit": 11000,
     "value": 4,
-    "avgHighPrice": 317,
-    "avgLowPrice": 312,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 516
+    "avgHighPrice": 359,
+    "avgLowPrice": 351,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 393
   },
   {
     "id": 5331,
     "name": "Watering can",
     "limit": 40,
     "value": 8,
-    "avgHighPrice": 197,
-    "avgLowPrice": 197,
-    "highPriceVolume": 89,
-    "lowPriceVolume": 5
+    "avgHighPrice": 196,
+    "avgLowPrice": 170,
+    "highPriceVolume": 222,
+    "lowPriceVolume": 18
   },
   {
     "id": 5321,
     "name": "Watermelon seed",
     "limit": 200,
     "value": 56,
-    "avgHighPrice": 307,
-    "avgLowPrice": 280,
-    "highPriceVolume": 349,
-    "lowPriceVolume": 2275
+    "avgHighPrice": 289,
+    "avgLowPrice": 279,
+    "highPriceVolume": 2900,
+    "lowPriceVolume": 3672
   },
   {
     "id": 1831,
@@ -3305,28 +3755,38 @@
     "limit": 10000,
     "value": 15,
     "avgHighPrice": 80,
-    "avgLowPrice": 25,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 12
+    "avgLowPrice": 26,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 31
   },
   {
     "id": 1823,
     "name": "Waterskin(4)",
     "limit": 2000,
     "value": 30,
-    "avgHighPrice": 128,
-    "avgLowPrice": 92,
-    "highPriceVolume": 120,
-    "lowPriceVolume": 53
+    "avgHighPrice": 134,
+    "avgLowPrice": 90,
+    "highPriceVolume": 243,
+    "lowPriceVolume": 656
   },
   {
-    "id": 6625,
-    "name": "White platelegs",
+    "id": 6619,
+    "name": "White boots",
     "limit": 125,
-    "value": 1920,
-    "avgHighPrice": 5282,
-    "avgLowPrice": 3833,
-    "highPriceVolume": 6,
+    "value": 576,
+    "avgHighPrice": 4000,
+    "avgLowPrice": 2040,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 6629,
+    "name": "White gloves",
+    "limit": 125,
+    "value": 6,
+    "avgHighPrice": 944,
+    "avgLowPrice": 500,
+    "highPriceVolume": 1,
     "lowPriceVolume": 2
   },
   {
@@ -3335,39 +3795,39 @@
     "limit": 10000,
     "value": 182,
     "avgHighPrice": 650,
-    "avgLowPrice": 637,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 330
+    "avgLowPrice": 607,
+    "highPriceVolume": 214,
+    "lowPriceVolume": 176
   },
   {
     "id": 5311,
     "name": "Wildblood seed",
     "limit": 2000,
     "value": 14,
-    "avgHighPrice": 133,
-    "avgLowPrice": 115,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 1173
+    "avgHighPrice": 149,
+    "avgLowPrice": 133,
+    "highPriceVolume": 2029,
+    "lowPriceVolume": 2191
   },
   {
     "id": 24251,
     "name": "Wilderness crabs teleport",
     "limit": null,
     "value": 63,
-    "avgHighPrice": 23280,
-    "avgLowPrice": 22304,
-    "highPriceVolume": 184,
-    "lowPriceVolume": 343
+    "avgHighPrice": 22985,
+    "avgLowPrice": 22105,
+    "highPriceVolume": 287,
+    "lowPriceVolume": 275
   },
   {
     "id": 1017,
     "name": "Wizard hat",
     "limit": 125,
     "value": 2,
-    "avgHighPrice": 171,
-    "avgLowPrice": 165,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 7
+    "avgHighPrice": 189,
+    "avgLowPrice": 183,
+    "highPriceVolume": 6,
+    "lowPriceVolume": 58
   },
   {
     "id": 1907,
@@ -3375,18 +3835,48 @@
     "limit": 2000,
     "value": 2,
     "avgHighPrice": 116,
-    "avgLowPrice": 105,
-    "highPriceVolume": 110,
-    "lowPriceVolume": 4
+    "avgLowPrice": 116,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 18
+  },
+  {
+    "id": 1171,
+    "name": "Wooden shield",
+    "limit": 125,
+    "value": 20,
+    "avgHighPrice": 128,
+    "avgLowPrice": 120,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 3
   },
   {
     "id": 5998,
     "name": "Yanillian hops",
     "limit": 11000,
     "value": 7,
-    "avgHighPrice": 755,
-    "avgLowPrice": 730,
-    "highPriceVolume": 2350,
-    "lowPriceVolume": 8126
+    "avgHighPrice": 770,
+    "avgLowPrice": 755,
+    "highPriceVolume": 2608,
+    "lowPriceVolume": 296
+  },
+  {
+    "id": 1765,
+    "name": "Yellow dye",
+    "limit": 150,
+    "value": 5,
+    "avgHighPrice": 218,
+    "avgLowPrice": 190,
+    "highPriceVolume": 46,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 2922,
+    "name": "Yellow gloves",
+    "limit": 150,
+    "value": 500,
+    "avgHighPrice": 1094,
+    "avgLowPrice": 569,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   }
 ]
