@@ -1,0 +1,25 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1780041190,
+      "profit": null
+    }
+  ]
+}

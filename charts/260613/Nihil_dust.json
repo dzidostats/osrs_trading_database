@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Nihil dust",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1781149456,
+      "profit": null
+    }
+  ]
+}

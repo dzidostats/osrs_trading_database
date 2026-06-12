@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Maple shield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780054033,
+      "profit": null
+    },
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    }
+  ]
+}
