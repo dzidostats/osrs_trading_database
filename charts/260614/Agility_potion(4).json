@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Agility potion(4)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1780272290,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    }
+  ]
+}

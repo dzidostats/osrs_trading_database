@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancient stole",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779228871,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780523246,
+      "profit": null
+    },
+    {
+      "time": 1781327988,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    }
+  ]
+}

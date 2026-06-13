@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Twisted teleport scroll",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    }
+  ]
+}

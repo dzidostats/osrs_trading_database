@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ballista spring",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1780877110,
+      "profit": null
+    }
+  ]
+}

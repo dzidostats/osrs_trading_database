@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Torag's platelegs 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1781134936,
+      "profit": null
+    },
+    {
+      "time": 1781167493,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    }
+  ]
+}

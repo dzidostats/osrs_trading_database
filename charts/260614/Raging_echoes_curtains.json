@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Raging echoes curtains",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    }
+  ]
+}

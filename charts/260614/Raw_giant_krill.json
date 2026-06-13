@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Raw giant krill",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780727425,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1780941056,
+      "profit": null
+    }
+  ]
+}

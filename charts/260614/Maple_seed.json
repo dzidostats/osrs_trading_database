@@ -1,0 +1,73 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Maple seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779621292,
+      "profit": null
+    },
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1780213442,
+      "profit": null
+    },
+    {
+      "time": 1780265046,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780662925,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1780779719,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1780877110,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bandos rune armour set (sk)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1781340933,
+      "profit": null
+    }
+  ]
+}
