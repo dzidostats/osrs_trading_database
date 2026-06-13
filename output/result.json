@@ -1,79 +1,57 @@
 [
   {
-    "id": 33269,
-    "name": "Demonic boots (t1)",
-    "limit": null,
-    "value": 100000,
-    "avgHighPrice": 9000,
-    "avgLowPrice": 7278,
-    "minimalPrice": 10000,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 4525,
-    "name": "Empty oil lamp",
-    "limit": 10000,
-    "value": 25,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.5,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 2564
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 7,
+    "avgLowPrice": 7,
+    "minimalPrice": 10,
+    "highPriceVolume": 52,
+    "lowPriceVolume": 127
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5,
     "minimalPrice": 17,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 12
+    "highPriceVolume": 127,
+    "lowPriceVolume": 1
   },
   {
     "id": 1081,
     "name": "Iron plateskirt",
     "limit": 125,
     "value": 280,
-    "avgHighPrice": 20,
+    "avgHighPrice": 26,
     "avgLowPrice": 19,
     "minimalPrice": 28,
-    "highPriceVolume": 62,
-    "lowPriceVolume": 3
+    "highPriceVolume": 15,
+    "lowPriceVolume": 6
   },
   {
-    "id": 22873,
-    "name": "Potato cactus seed",
+    "id": 5104,
+    "name": "Jangerberry seed",
     "limit": 200,
-    "value": 140,
-    "avgHighPrice": 8,
-    "avgLowPrice": 7,
-    "minimalPrice": 14,
-    "highPriceVolume": 161,
-    "lowPriceVolume": 65
-  },
-  {
-    "id": 6322,
-    "name": "Snakeskin body",
-    "limit": 125,
-    "value": 1250,
-    "avgHighPrice": 119,
-    "avgLowPrice": 43,
-    "minimalPrice": 125,
+    "value": 60,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
+    "minimalPrice": 6,
     "highPriceVolume": 9,
-    "lowPriceVolume": 11
+    "lowPriceVolume": 28
   },
   {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 5,
-    "avgLowPrice": 6,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 1867,
-    "lowPriceVolume": 160
+    "id": 10125,
+    "name": "Spotted kebbit fur",
+    "limit": 10000,
+    "value": 150,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 15,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 21
   }
 ]
