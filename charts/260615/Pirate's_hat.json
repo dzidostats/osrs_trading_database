@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pirate's hat",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780941056,
+      "profit": null
+    },
+    {
+      "time": 1780949513,
+      "profit": null
+    },
+    {
+      "time": 1781043797,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781327988,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    }
+  ]
+}

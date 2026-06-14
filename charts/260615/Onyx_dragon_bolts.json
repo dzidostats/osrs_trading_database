@@ -1,0 +1,21 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Onyx dragon bolts",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779393195,
+      "profit": null
+    }
+  ]
+}

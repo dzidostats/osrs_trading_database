@@ -1,0 +1,21 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bronze full helm",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781134936,
+      "profit": null
+    }
+  ]
+}

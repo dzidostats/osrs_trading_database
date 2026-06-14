@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Holy elixir",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1780088773,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1780178401,
+      "profit": null
+    },
+    {
+      "time": 1780256279,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780714539,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1780877110,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    }
+  ]
+}

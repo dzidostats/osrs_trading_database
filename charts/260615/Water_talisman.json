@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Water talisman",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779318669,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1781134936,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    }
+  ]
+}

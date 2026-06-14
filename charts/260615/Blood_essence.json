@@ -1,0 +1,117 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blood essence",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779223677,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1779534561,
+      "profit": null
+    },
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1780229435,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780293633,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781028120,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781258934,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    }
+  ]
+}

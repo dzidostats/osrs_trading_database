@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancient page 3",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780662925,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1781327988,
+      "profit": null
+    },
+    {
+      "time": 1781340933,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    }
+  ]
+}

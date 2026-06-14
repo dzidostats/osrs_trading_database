@@ -1,0 +1,25 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Half full wine jug",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780025110,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    }
+  ]
+}
