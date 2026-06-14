@@ -1,57 +1,79 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 7,
-    "minimalPrice": 10,
-    "highPriceVolume": 52,
-    "lowPriceVolume": 127
-  },
-  {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 6,
-    "avgLowPrice": 5,
+    "avgHighPrice": 9,
+    "avgLowPrice": 6,
     "minimalPrice": 17,
-    "highPriceVolume": 127,
-    "lowPriceVolume": 1
+    "highPriceVolume": 496,
+    "lowPriceVolume": 109
   },
   {
-    "id": 1081,
-    "name": "Iron plateskirt",
+    "id": 1335,
+    "name": "Iron warhammer",
     "limit": 125,
-    "value": 280,
-    "avgHighPrice": 26,
-    "avgLowPrice": 19,
-    "minimalPrice": 28,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 6
+    "value": 173,
+    "avgHighPrice": 15,
+    "avgLowPrice": 12,
+    "minimalPrice": 17.3,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 157
   },
   {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
-    "minimalPrice": 6,
-    "highPriceVolume": 9,
-    "lowPriceVolume": 28
-  },
-  {
-    "id": 10125,
-    "name": "Spotted kebbit fur",
-    "limit": 10000,
-    "value": 150,
-    "avgHighPrice": 2,
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
     "avgLowPrice": 2,
-    "minimalPrice": 15,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 21
+    "minimalPrice": 10,
+    "highPriceVolume": 44,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 5541,
+    "name": "Nature tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 1,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 124,
+    "lowPriceVolume": 874
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 13,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 728,
+    "lowPriceVolume": 661
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 468,
+    "lowPriceVolume": 374
+  },
+  {
+    "id": 60,
+    "name": "Willow shortbow (u)",
+    "limit": 10000,
+    "value": 100,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 10,
+    "highPriceVolume": 644,
+    "lowPriceVolume": 640
   }
 ]
