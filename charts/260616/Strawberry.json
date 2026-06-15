@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Strawberry",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1781149456,
+      "profit": null
+    }
+  ]
+}

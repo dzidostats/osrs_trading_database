@@ -1,0 +1,117 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mahogany bird house",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779091279,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779334233,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1779542464,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780388861,
+      "profit": null
+    },
+    {
+      "time": 1780441267,
+      "profit": null
+    },
+    {
+      "time": 1780476853,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780714539,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781520825,
+      "profit": null
+    }
+  ]
+}
