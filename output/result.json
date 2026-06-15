@@ -7,19 +7,41 @@
     "avgHighPrice": 9,
     "avgLowPrice": 6,
     "minimalPrice": 17,
-    "highPriceVolume": 496,
-    "lowPriceVolume": 109
+    "highPriceVolume": 54,
+    "lowPriceVolume": 553
   },
   {
-    "id": 1335,
-    "name": "Iron warhammer",
+    "id": 1293,
+    "name": "Iron longsword",
     "limit": 125,
-    "value": 173,
-    "avgHighPrice": 15,
-    "avgLowPrice": 12,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 157
+    "value": 140,
+    "avgHighPrice": 10,
+    "avgLowPrice": 5,
+    "minimalPrice": 14,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1175,
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "avgHighPrice": 10,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 312,
+    "lowPriceVolume": 332
   },
   {
     "id": 5529,
@@ -27,53 +49,31 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 2,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 44,
-    "lowPriceVolume": 4
+    "highPriceVolume": 3,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5541,
-    "name": "Nature tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 1,
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 10,
     "avgLowPrice": 5,
-    "minimalPrice": 10,
-    "highPriceVolume": 124,
-    "lowPriceVolume": 874
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 13,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 728,
-    "lowPriceVolume": 661
+    "minimalPrice": 22.5,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 2
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 1,
-    "avgLowPrice": 2,
+    "avgHighPrice": 4,
+    "avgLowPrice": 4,
     "minimalPrice": 13.3,
-    "highPriceVolume": 468,
-    "lowPriceVolume": 374
-  },
-  {
-    "id": 60,
-    "name": "Willow shortbow (u)",
-    "limit": 10000,
-    "value": 100,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 10,
-    "highPriceVolume": 644,
-    "lowPriceVolume": 640
+    "highPriceVolume": 134,
+    "lowPriceVolume": 52
   }
 ]
