@@ -1,36 +1,25 @@
 [
   {
-    "id": 1131,
-    "name": "Hardleather body",
+    "id": 1363,
+    "name": "Iron battleaxe",
     "limit": 125,
-    "value": 170,
-    "avgHighPrice": 9,
-    "avgLowPrice": 6,
-    "minimalPrice": 17,
-    "highPriceVolume": 54,
-    "lowPriceVolume": 553
-  },
-  {
-    "id": 1293,
-    "name": "Iron longsword",
-    "limit": 125,
-    "value": 140,
-    "avgHighPrice": 10,
-    "avgLowPrice": 5,
-    "minimalPrice": 14,
+    "value": 182,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 18.2,
     "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
-    "id": 1175,
-    "name": "Iron sq shield",
+    "id": 1115,
+    "name": "Iron platebody",
     "limit": 125,
-    "value": 168,
-    "avgHighPrice": 10,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "value": 560,
+    "avgHighPrice": 42,
+    "avgLowPrice": 10,
+    "minimalPrice": 56,
+    "highPriceVolume": 2331,
+    "lowPriceVolume": 39
   },
   {
     "id": 48,
@@ -40,8 +29,8 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 312,
-    "lowPriceVolume": 332
+    "highPriceVolume": 64,
+    "lowPriceVolume": 683
   },
   {
     "id": 5529,
@@ -49,31 +38,20 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
+    "highPriceVolume": 10,
     "lowPriceVolume": 1
-  },
-  {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 10,
-    "avgLowPrice": 5,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 2
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 4,
-    "avgLowPrice": 4,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
     "minimalPrice": 13.3,
-    "highPriceVolume": 134,
-    "lowPriceVolume": 52
+    "highPriceVolume": 53,
+    "lowPriceVolume": 36
   }
 ]
