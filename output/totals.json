@@ -5150,5 +5150,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1169": {
+    "id": 1169,
+    "name": "Coif",
+    "totalHighVolume": 7,
+    "totalLowVolume": 2,
+    "averageHighPrice": 19,
+    "averageLowPrice": 15,
+    "samples": 1,
+    "lastHighPrice": 19,
+    "lastLowPrice": 15,
+    "limit": 125,
+    "value": 200,
+    "minimalPrice": 20
+  },
+  "5535": {
+    "id": 5535,
+    "name": "Earth tiara",
+    "totalHighVolume": 2,
+    "totalLowVolume": 1,
+    "averageHighPrice": 4,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 2,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 133,
+    "totalLowVolume": 1438,
+    "averageHighPrice": 1,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 1,
+    "lastLowPrice": 2,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "5106": {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "totalHighVolume": 28,
+    "totalLowVolume": 15,
+    "averageHighPrice": 11,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 11,
+    "lastLowPrice": 11,
+    "limit": 200,
+    "value": 166,
+    "minimalPrice": 16.6
   }
 }
