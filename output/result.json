@@ -1,46 +1,79 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1151,
+    "name": "Black med helm",
+    "limit": 125,
+    "value": 576,
+    "avgHighPrice": 28,
+    "avgLowPrice": 10,
+    "minimalPrice": 57.6,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 4
+  },
+  {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 19,
-    "avgLowPrice": 15,
+    "avgHighPrice": 13,
+    "avgLowPrice": 11,
     "minimalPrice": 20,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 5535,
-    "name": "Earth tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 2,
-    "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "highPriceVolume": 164,
+    "lowPriceVolume": 37
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 1,
-    "avgLowPrice": 2,
+    "avgHighPrice": 7,
+    "avgLowPrice": 5,
     "minimalPrice": 17,
-    "highPriceVolume": 133,
-    "lowPriceVolume": 1438
+    "highPriceVolume": 14,
+    "lowPriceVolume": 10
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 241,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 828,
+    "name": "Mithril javelin",
+    "limit": 7000,
+    "value": 64,
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "minimalPrice": 6.4,
+    "highPriceVolume": 250,
+    "lowPriceVolume": 924
   },
   {
     "id": 5106,
     "name": "Poison ivy seed",
     "limit": 200,
     "value": 166,
-    "avgHighPrice": 11,
+    "avgHighPrice": 12,
     "avgLowPrice": 11,
     "minimalPrice": 16.6,
-    "highPriceVolume": 28,
-    "lowPriceVolume": 15
+    "highPriceVolume": 183,
+    "lowPriceVolume": 147
   }
 ]
