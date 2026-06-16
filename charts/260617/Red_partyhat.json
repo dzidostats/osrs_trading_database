@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red partyhat",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779235422,
+      "profit": null
+    },
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780293633,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780561168,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    }
+  ]
+}

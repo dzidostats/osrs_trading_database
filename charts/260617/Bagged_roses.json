@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bagged roses",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779192529,
+      "profit": null
+    },
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1780132415,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1781028120,
+      "profit": null
+    },
+    {
+      "time": 1781068581,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781638381,
+      "profit": null
+    }
+  ]
+}

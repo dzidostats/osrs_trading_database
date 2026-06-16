@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Black nails",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779918734,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1781134936,
+      "profit": null
+    }
+  ]
+}

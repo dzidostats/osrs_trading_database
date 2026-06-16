@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ruby dragon bolts",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780010085,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780727425,
+      "profit": null
+    },
+    {
+      "time": 1780897713,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    }
+  ]
+}

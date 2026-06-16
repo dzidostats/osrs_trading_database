@@ -1,0 +1,77 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pineapple pizza",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1780652593,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1780941056,
+      "profit": null
+    },
+    {
+      "time": 1781028120,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1781043797,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    },
+    {
+      "time": 1781134936,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    }
+  ]
+}

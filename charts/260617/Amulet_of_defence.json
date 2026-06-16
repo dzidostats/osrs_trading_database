@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Amulet of defence",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1780941056,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Secateurs attachment",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780338991,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    }
+  ]
+}

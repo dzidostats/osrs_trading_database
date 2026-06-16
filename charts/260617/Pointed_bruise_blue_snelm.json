@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pointed bruise blue snelm",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781478451,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1781647794,
+      "profit": null
+    }
+  ]
+}

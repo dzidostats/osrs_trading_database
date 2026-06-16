@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancient brew(3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779799130,
+      "profit": null
+    },
+    {
+      "time": 1780957503,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    }
+  ]
+}
