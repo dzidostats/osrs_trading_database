@@ -4,55 +4,88 @@
     "name": "Air tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 5,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 15,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 1151,
-    "name": "Black med helm",
-    "limit": 125,
-    "value": 576,
-    "avgHighPrice": 28,
-    "avgLowPrice": 10,
-    "minimalPrice": 57.6,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 4
+    "highPriceVolume": 66,
+    "lowPriceVolume": 9
   },
   {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 13,
-    "avgLowPrice": 11,
+    "avgHighPrice": 17,
+    "avgLowPrice": 15,
     "minimalPrice": 20,
-    "highPriceVolume": 164,
-    "lowPriceVolume": 37
+    "highPriceVolume": 50,
+    "lowPriceVolume": 61
+  },
+  {
+    "id": 4525,
+    "name": "Empty oil lamp",
+    "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 242,
+    "lowPriceVolume": 162
+  },
+  {
+    "id": 5537,
+    "name": "Fire tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 94,
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 7,
-    "avgLowPrice": 5,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
     "minimalPrice": 17,
-    "highPriceVolume": 14,
-    "lowPriceVolume": 10
+    "highPriceVolume": 1087,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1067,
+    "name": "Iron platelegs",
+    "limit": 125,
+    "value": 280,
+    "avgHighPrice": 22,
+    "avgLowPrice": 14,
+    "minimalPrice": 28,
+    "highPriceVolume": 132,
+    "lowPriceVolume": 6
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 203,
+    "lowPriceVolume": 21
   },
   {
     "id": 5529,
     "name": "Mind tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 2,
+    "avgHighPrice": 3,
     "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 241,
-    "lowPriceVolume": 1
+    "highPriceVolume": 10,
+    "lowPriceVolume": 2
   },
   {
     "id": 828,
@@ -62,8 +95,8 @@
     "avgHighPrice": 6,
     "avgLowPrice": 6,
     "minimalPrice": 6.4,
-    "highPriceVolume": 250,
-    "lowPriceVolume": 924
+    "highPriceVolume": 152,
+    "lowPriceVolume": 419
   },
   {
     "id": 5106,
@@ -73,7 +106,40 @@
     "avgHighPrice": 12,
     "avgLowPrice": 11,
     "minimalPrice": 16.6,
-    "highPriceVolume": 183,
-    "lowPriceVolume": 147
+    "highPriceVolume": 121,
+    "lowPriceVolume": 116
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 19,
+    "avgLowPrice": 21,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 141
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 22254,
+    "name": "Willow shield",
+    "limit": 18000,
+    "value": 160,
+    "avgHighPrice": 15,
+    "avgLowPrice": 10,
+    "minimalPrice": 16,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 3
   }
 ]
