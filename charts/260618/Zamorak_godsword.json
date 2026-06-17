@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Zamorak godsword",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779269348,
+      "profit": null
+    },
+    {
+      "time": 1779799130,
+      "profit": null
+    },
+    {
+      "time": 1779909789,
+      "profit": null
+    },
+    {
+      "time": 1779918734,
+      "profit": null
+    },
+    {
+      "time": 1780458870,
+      "profit": null
+    },
+    {
+      "time": 1780561168,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    }
+  ]
+}

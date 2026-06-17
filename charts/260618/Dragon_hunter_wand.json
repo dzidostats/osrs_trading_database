@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dragon hunter wand",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779075659,
+      "profit": null
+    },
+    {
+      "time": 1780388861,
+      "profit": null
+    },
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    }
+  ]
+}
