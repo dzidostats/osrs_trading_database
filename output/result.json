@@ -1,14 +1,36 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 4,
+    "avgLowPrice": 5,
+    "minimalPrice": 12,
+    "highPriceVolume": 71,
+    "lowPriceVolume": 354
+  },
+  {
+    "id": 5535,
+    "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 5,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
     "minimalPrice": 10,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 42
+    "highPriceVolume": 1045,
+    "lowPriceVolume": 40
+  },
+  {
+    "id": 31205,
+    "name": "Grid master altar icon scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 131499,
+    "avgLowPrice": 64328,
+    "minimalPrice": 250000,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
@@ -18,8 +40,19 @@
     "avgHighPrice": 9,
     "avgLowPrice": 8,
     "minimalPrice": 17,
-    "highPriceVolume": 768,
-    "lowPriceVolume": 251
+    "highPriceVolume": 147,
+    "lowPriceVolume": 10
+  },
+  {
+    "id": 1175,
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "avgHighPrice": 10,
+    "avgLowPrice": 10,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 8
   },
   {
     "id": 48,
@@ -29,19 +62,8 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 1
-  },
-  {
-    "id": 3046,
-    "name": "Magic potion(1)",
-    "limit": 2000,
-    "value": 150,
-    "avgHighPrice": 14,
-    "avgLowPrice": 14,
-    "minimalPrice": 15,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 2
+    "highPriceVolume": 538,
+    "lowPriceVolume": 394
   },
   {
     "id": 828,
@@ -51,40 +73,40 @@
     "avgHighPrice": 6,
     "avgLowPrice": 6,
     "minimalPrice": 6.4,
-    "highPriceVolume": 567,
-    "lowPriceVolume": 693
+    "highPriceVolume": 144,
+    "lowPriceVolume": 489
   },
   {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 14,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 273,
-    "lowPriceVolume": 423
+    "id": 411,
+    "name": "Oyster pearl",
+    "limit": 11000,
+    "value": 112,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 11.200000000000001,
+    "highPriceVolume": 173,
+    "lowPriceVolume": 1
   },
   {
     "id": 1424,
     "name": "Steel mace",
     "limit": 125,
     "value": 225,
-    "avgHighPrice": 19,
-    "avgLowPrice": 4,
+    "avgHighPrice": 14,
+    "avgLowPrice": 19,
     "minimalPrice": 22.5,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 153
+    "highPriceVolume": 11,
+    "lowPriceVolume": 1
   },
   {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 7,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 2
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 12,
+    "avgLowPrice": 4,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 228,
+    "lowPriceVolume": 701
   }
 ]
