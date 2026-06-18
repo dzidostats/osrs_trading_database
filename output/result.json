@@ -1,14 +1,25 @@
 [
   {
-    "id": 33266,
-    "name": "Demonic robe bottom (t1)",
-    "limit": null,
-    "value": 100000,
-    "avgHighPrice": 2000,
-    "avgLowPrice": 235,
-    "minimalPrice": 10000,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 4
+    "id": 1151,
+    "name": "Black med helm",
+    "limit": 125,
+    "value": 576,
+    "avgHighPrice": 25,
+    "avgLowPrice": 12,
+    "minimalPrice": 57.6,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5535,
+    "name": "Earth tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 10,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 40
   },
   {
     "id": 1131,
@@ -16,21 +27,32 @@
     "limit": 125,
     "value": 170,
     "avgHighPrice": 16,
-    "avgLowPrice": 15,
+    "avgLowPrice": 11,
     "minimalPrice": 17,
-    "highPriceVolume": 25,
-    "lowPriceVolume": 36
+    "highPriceVolume": 7,
+    "lowPriceVolume": 626
   },
   {
-    "id": 1081,
-    "name": "Iron plateskirt",
+    "id": 1363,
+    "name": "Iron battleaxe",
     "limit": 125,
-    "value": 280,
-    "avgHighPrice": 22,
-    "avgLowPrice": 19,
-    "minimalPrice": 28,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 115
+    "value": 182,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
+    "minimalPrice": 18.2,
+    "highPriceVolume": 84,
+    "lowPriceVolume": 46
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 2,
+    "avgLowPrice": 1,
+    "minimalPrice": 10,
+    "highPriceVolume": 39,
+    "lowPriceVolume": 143
   },
   {
     "id": 828,
@@ -40,18 +62,29 @@
     "avgHighPrice": 6,
     "avgLowPrice": 6,
     "minimalPrice": 6.4,
-    "highPriceVolume": 42,
-    "lowPriceVolume": 441
+    "highPriceVolume": 339,
+    "lowPriceVolume": 2028
   },
   {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
+    "id": 411,
+    "name": "Oyster pearl",
+    "limit": 11000,
+    "value": 112,
     "avgHighPrice": 5,
-    "avgLowPrice": 8,
-    "minimalPrice": 14,
-    "highPriceVolume": 34,
-    "lowPriceVolume": 10
+    "avgLowPrice": 5,
+    "minimalPrice": 11.200000000000001,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 82
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 12,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 408,
+    "lowPriceVolume": 156
   }
 ]
