@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ahrim's staff 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779831792,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781647794,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ahrim's hood 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1780088773,
+      "profit": null
+    },
+    {
+      "time": 1780779719,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781601921,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dwarf cannon set",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1780476853,
+      "profit": null
+    },
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780561168,
+      "profit": null
+    },
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781720009,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    }
+  ]
+}

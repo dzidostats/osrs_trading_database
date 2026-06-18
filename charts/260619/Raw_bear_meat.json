@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Raw bear meat",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1781800140,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    }
+  ]
+}

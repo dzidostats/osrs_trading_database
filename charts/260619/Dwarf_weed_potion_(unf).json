@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dwarf weed potion (unf)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779482541,
+      "profit": null
+    },
+    {
+      "time": 1779529837,
+      "profit": null
+    },
+    {
+      "time": 1779659680,
+      "profit": null
+    },
+    {
+      "time": 1779686292,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1780652593,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1780897713,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781128805,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781647794,
+      "profit": null
+    },
+    {
+      "time": 1781738520,
+      "profit": null
+    }
+  ]
+}

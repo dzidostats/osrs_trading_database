@@ -1,0 +1,129 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Craw's bow (u)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779511108,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1780272290,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1780834765,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1780957503,
+      "profit": null
+    },
+    {
+      "time": 1781096217,
+      "profit": null
+    },
+    {
+      "time": 1781243254,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    },
+    {
+      "time": 1781391762,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781424884,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    }
+  ]
+}

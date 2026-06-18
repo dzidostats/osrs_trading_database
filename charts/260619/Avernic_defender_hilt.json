@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Avernic defender hilt",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780573892,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    }
+  ]
+}

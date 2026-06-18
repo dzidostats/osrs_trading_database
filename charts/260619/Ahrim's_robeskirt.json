@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ahrim's robeskirt",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1778943295,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779386149,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1780561168,
+      "profit": null
+    },
+    {
+      "time": 1780603391,
+      "profit": null
+    },
+    {
+      "time": 1780765876,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781520825,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781647794,
+      "profit": null
+    },
+    {
+      "time": 1781655267,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    }
+  ]
+}
