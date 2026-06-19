@@ -4,11 +4,22 @@
     "name": "Air tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 5,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
     "minimalPrice": 10,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 1
+    "highPriceVolume": 8,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 5281,
+    "name": "Belladonna seed",
+    "limit": 200,
+    "value": 177,
+    "avgHighPrice": 1,
+    "avgLowPrice": 5,
+    "minimalPrice": 17.7,
+    "highPriceVolume": 230,
+    "lowPriceVolume": 225
   },
   {
     "id": 1169,
@@ -16,32 +27,76 @@
     "limit": 125,
     "value": 200,
     "avgHighPrice": 18,
-    "avgLowPrice": 15,
+    "avgLowPrice": 11,
     "minimalPrice": 20,
-    "highPriceVolume": 898,
-    "lowPriceVolume": 7
+    "highPriceVolume": 457,
+    "lowPriceVolume": 310
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 9,
+    "highPriceVolume": 1000,
+    "lowPriceVolume": 150
+  },
+  {
+    "id": 33269,
+    "name": "Demonic boots (t1)",
+    "limit": null,
+    "value": 100000,
+    "avgHighPrice": 6875,
+    "avgLowPrice": 5911,
+    "minimalPrice": 10000,
+    "highPriceVolume": 20,
+    "lowPriceVolume": 5
+  },
+  {
+    "id": 33266,
+    "name": "Demonic robe bottom (t1)",
+    "limit": null,
+    "value": 100000,
+    "avgHighPrice": 6788,
+    "avgLowPrice": 8817,
+    "minimalPrice": 10000,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 11
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 13,
+    "avgHighPrice": 9,
+    "avgLowPrice": 2,
     "minimalPrice": 17,
-    "highPriceVolume": 1076,
-    "lowPriceVolume": 517
+    "highPriceVolume": 418,
+    "lowPriceVolume": 2
   },
   {
-    "id": 1167,
-    "name": "Leather cowl",
+    "id": 1175,
+    "name": "Iron sq shield",
     "limit": 125,
-    "value": 24,
-    "avgHighPrice": 2,
-    "avgLowPrice": 1,
-    "minimalPrice": 2.4000000000000004,
-    "highPriceVolume": 97,
-    "lowPriceVolume": 12
+    "value": 168,
+    "avgHighPrice": 11,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 11,
+    "lowPriceVolume": 15
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 110,
+    "lowPriceVolume": 396
   },
   {
     "id": 828,
@@ -51,18 +106,29 @@
     "avgHighPrice": 6,
     "avgLowPrice": 6,
     "minimalPrice": 6.4,
-    "highPriceVolume": 231,
-    "lowPriceVolume": 9948
+    "highPriceVolume": 276,
+    "lowPriceVolume": 524
   },
   {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 6,
-    "avgLowPrice": 5,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 74,
-    "lowPriceVolume": 267
+    "id": 5541,
+    "name": "Nature tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 9,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 94,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 15,
+    "avgLowPrice": 4,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 34,
+    "lowPriceVolume": 3
   }
 ]
