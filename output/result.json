@@ -1,113 +1,80 @@
 [
   {
-    "id": 5527,
-    "name": "Air tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 8,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 5281,
-    "name": "Belladonna seed",
-    "limit": 200,
-    "value": 177,
-    "avgHighPrice": 1,
-    "avgLowPrice": 5,
-    "minimalPrice": 17.7,
-    "highPriceVolume": 230,
-    "lowPriceVolume": 225
-  },
-  {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
     "avgHighPrice": 18,
-    "avgLowPrice": 11,
+    "avgLowPrice": 16,
     "minimalPrice": 20,
-    "highPriceVolume": 457,
-    "lowPriceVolume": 310
+    "highPriceVolume": 221,
+    "lowPriceVolume": 82
   },
   {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
+    "id": 5535,
+    "name": "Earth tiara",
+    "limit": 40,
+    "value": 100,
     "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 1000,
-    "lowPriceVolume": 150
+    "avgLowPrice": 5,
+    "minimalPrice": 10,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 2
   },
   {
-    "id": 33269,
-    "name": "Demonic boots (t1)",
+    "id": 31208,
+    "name": "Grid master torch scroll",
     "limit": null,
-    "value": 100000,
-    "avgHighPrice": 6875,
-    "avgLowPrice": 5911,
-    "minimalPrice": 10000,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 5
-  },
-  {
-    "id": 33266,
-    "name": "Demonic robe bottom (t1)",
-    "limit": null,
-    "value": 100000,
-    "avgHighPrice": 6788,
-    "avgLowPrice": 8817,
-    "minimalPrice": 10000,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 11
+    "value": 2500000,
+    "avgHighPrice": 143901,
+    "avgLowPrice": 63051,
+    "minimalPrice": 250000,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 9,
-    "avgLowPrice": 2,
+    "avgHighPrice": 1,
+    "avgLowPrice": 7,
     "minimalPrice": 17,
-    "highPriceVolume": 418,
-    "lowPriceVolume": 2
+    "highPriceVolume": 2017,
+    "lowPriceVolume": 728
   },
   {
-    "id": 1175,
-    "name": "Iron sq shield",
-    "limit": 125,
-    "value": 168,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 15
-  },
-  {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
     "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgHighPrice": 5,
+    "avgLowPrice": 2,
     "minimalPrice": 6,
-    "highPriceVolume": 110,
-    "lowPriceVolume": 396
+    "highPriceVolume": 239,
+    "lowPriceVolume": 35
   },
   {
-    "id": 828,
-    "name": "Mithril javelin",
-    "limit": 7000,
-    "value": 64,
-    "avgHighPrice": 6,
-    "avgLowPrice": 6,
-    "minimalPrice": 6.4,
-    "highPriceVolume": 276,
-    "lowPriceVolume": 524
+    "id": 4542,
+    "name": "Lantern lens",
+    "limit": 10000,
+    "value": 70,
+    "avgHighPrice": 5,
+    "avgLowPrice": 5,
+    "minimalPrice": 7,
+    "highPriceVolume": 3188,
+    "lowPriceVolume": 2430
+  },
+  {
+    "id": 1167,
+    "name": "Leather cowl",
+    "limit": 125,
+    "value": 24,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.4000000000000004,
+    "highPriceVolume": 52,
+    "lowPriceVolume": 47
   },
   {
     "id": 5541,
@@ -115,20 +82,20 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 9,
-    "avgLowPrice": 6,
+    "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 94,
-    "lowPriceVolume": 2
+    "highPriceVolume": 3,
+    "lowPriceVolume": 3
   },
   {
-    "id": 1424,
-    "name": "Steel mace",
+    "id": 1177,
+    "name": "Steel sq shield",
     "limit": 125,
-    "value": 225,
-    "avgHighPrice": 15,
-    "avgLowPrice": 4,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 34,
-    "lowPriceVolume": 3
+    "value": 600,
+    "avgHighPrice": 52,
+    "avgLowPrice": 15,
+    "minimalPrice": 60,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 37
   }
 ]
