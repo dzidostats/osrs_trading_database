@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Green halloween mask",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780002399,
+      "profit": null
+    },
+    {
+      "time": 1780178401,
+      "profit": null
+    },
+    {
+      "time": 1780371862,
+      "profit": null
+    },
+    {
+      "time": 1780388861,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1781149456,
+      "profit": null
+    },
+    {
+      "time": 1781601921,
+      "profit": null
+    }
+  ]
+}
