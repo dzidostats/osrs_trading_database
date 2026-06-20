@@ -1,14 +1,36 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 4,
+    "avgLowPrice": 3,
+    "minimalPrice": 10,
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
+  },
+  {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
     "avgHighPrice": 18,
-    "avgLowPrice": 16,
+    "avgLowPrice": 15,
     "minimalPrice": 20,
-    "highPriceVolume": 221,
-    "lowPriceVolume": 82
+    "highPriceVolume": 15,
+    "lowPriceVolume": 204
+  },
+  {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 31
   },
   {
     "id": 5535,
@@ -18,18 +40,7 @@
     "avgHighPrice": 1,
     "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 31208,
-    "name": "Grid master torch scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 143901,
-    "avgLowPrice": 63051,
-    "minimalPrice": 250000,
-    "highPriceVolume": 2,
+    "highPriceVolume": 6,
     "lowPriceVolume": 1
   },
   {
@@ -37,22 +48,11 @@
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 1,
-    "avgLowPrice": 7,
+    "avgHighPrice": 10,
+    "avgLowPrice": 13,
     "minimalPrice": 17,
-    "highPriceVolume": 2017,
-    "lowPriceVolume": 728
-  },
-  {
-    "id": 5104,
-    "name": "Jangerberry seed",
-    "limit": 200,
-    "value": 60,
-    "avgHighPrice": 5,
-    "avgLowPrice": 2,
-    "minimalPrice": 6,
-    "highPriceVolume": 239,
-    "lowPriceVolume": 35
+    "highPriceVolume": 335,
+    "lowPriceVolume": 9
   },
   {
     "id": 4542,
@@ -62,19 +62,19 @@
     "avgHighPrice": 5,
     "avgLowPrice": 5,
     "minimalPrice": 7,
-    "highPriceVolume": 3188,
-    "lowPriceVolume": 2430
+    "highPriceVolume": 824,
+    "lowPriceVolume": 4964
   },
   {
-    "id": 1167,
-    "name": "Leather cowl",
-    "limit": 125,
-    "value": 24,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.4000000000000004,
-    "highPriceVolume": 52,
-    "lowPriceVolume": 47
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 331,
+    "lowPriceVolume": 134
   },
   {
     "id": 5541,
@@ -82,20 +82,20 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 9,
-    "avgLowPrice": 5,
+    "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 3
+    "highPriceVolume": 8,
+    "lowPriceVolume": 1
   },
   {
     "id": 1177,
     "name": "Steel sq shield",
     "limit": 125,
     "value": 600,
-    "avgHighPrice": 52,
+    "avgHighPrice": 55,
     "avgLowPrice": 15,
     "minimalPrice": 60,
-    "highPriceVolume": 3,
-    "lowPriceVolume": 37
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
   }
 ]
