@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Paddewwa teleport (tablet)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1780213442,
+      "profit": null
+    },
+    {
+      "time": 1780674724,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    }
+  ]
+}

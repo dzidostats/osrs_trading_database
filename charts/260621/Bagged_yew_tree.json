@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bagged yew tree",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778971341,
+      "profit": null
+    },
+    {
+      "time": 1779192529,
+      "profit": null
+    },
+    {
+      "time": 1779771727,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    }
+  ]
+}

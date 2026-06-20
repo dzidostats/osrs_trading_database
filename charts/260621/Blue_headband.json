@@ -1,0 +1,73 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blue headband",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779149044,
+      "profit": null
+    },
+    {
+      "time": 1779386149,
+      "profit": null
+    },
+    {
+      "time": 1779446927,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779573187,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    },
+    {
+      "time": 1781391762,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    }
+  ]
+}
