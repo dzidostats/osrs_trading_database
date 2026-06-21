@@ -4,66 +4,44 @@
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 16,
-    "avgLowPrice": 12,
+    "avgHighPrice": 18,
+    "avgLowPrice": 14,
     "minimalPrice": 20,
-    "highPriceVolume": 24,
-    "lowPriceVolume": 23
-  },
-  {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 250,
-    "lowPriceVolume": 50
+    "highPriceVolume": 13,
+    "lowPriceVolume": 7
   },
   {
     "id": 6470,
     "name": "Compost potion(4)",
     "limit": 50,
     "value": 120,
-    "avgHighPrice": 2,
-    "avgLowPrice": 3,
-    "minimalPrice": 12,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 1175,
-    "name": "Iron sq shield",
-    "limit": 125,
-    "value": 168,
-    "avgHighPrice": 10,
-    "avgLowPrice": 10,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 26,
-    "lowPriceVolume": 3
-  },
-  {
-    "id": 4542,
-    "name": "Lantern lens",
-    "limit": 10000,
-    "value": 70,
-    "avgHighPrice": 5,
+    "avgHighPrice": 4,
     "avgLowPrice": 2,
-    "minimalPrice": 7,
-    "highPriceVolume": 5247,
-    "lowPriceVolume": 189
+    "minimalPrice": 12,
+    "highPriceVolume": 50,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5535,
+    "name": "Earth tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 1,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 84,
+    "lowPriceVolume": 1
   },
   {
     "id": 48,
     "name": "Longbow (u)",
     "limit": 10000,
     "value": 60,
-    "avgHighPrice": 4,
+    "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 22,
-    "lowPriceVolume": 16
+    "highPriceVolume": 131,
+    "lowPriceVolume": 329
   },
   {
     "id": 5106,
@@ -73,18 +51,29 @@
     "avgHighPrice": 12,
     "avgLowPrice": 11,
     "minimalPrice": 16.6,
-    "highPriceVolume": 269,
-    "lowPriceVolume": 133
+    "highPriceVolume": 202,
+    "lowPriceVolume": 8
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 9,
-    "avgLowPrice": 5,
+    "avgHighPrice": 10,
+    "avgLowPrice": 8,
     "minimalPrice": 14,
-    "highPriceVolume": 79,
+    "highPriceVolume": 100,
+    "lowPriceVolume": 94
+  },
+  {
+    "id": 1177,
+    "name": "Steel sq shield",
+    "limit": 125,
+    "value": 600,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 60,
+    "highPriceVolume": 2,
     "lowPriceVolume": 18
   }
 ]
