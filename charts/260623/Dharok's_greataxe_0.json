@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dharok's greataxe 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779386149,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    }
+  ]
+}

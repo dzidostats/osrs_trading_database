@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Maple pyre logs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781391762,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pineapple seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780213442,
+      "profit": null
+    },
+    {
+      "time": 1781963895,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    }
+  ]
+}

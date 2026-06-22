@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Karil's leatherskirt 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779179710,
+      "profit": null
+    },
+    {
+      "time": 1780636498,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781096217,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781898428,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    }
+  ]
+}

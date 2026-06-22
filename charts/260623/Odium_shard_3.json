@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Odium shard 3",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779023801,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    }
+  ]
+}

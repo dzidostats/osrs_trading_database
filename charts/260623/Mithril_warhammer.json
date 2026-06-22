@@ -1,0 +1,137 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mithril warhammer",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779223677,
+      "profit": null
+    },
+    {
+      "time": 1779235422,
+      "profit": null
+    },
+    {
+      "time": 1779404503,
+      "profit": null
+    },
+    {
+      "time": 1779534561,
+      "profit": null
+    },
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1779726423,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1779936956,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1780168259,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780357265,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780689107,
+      "profit": null
+    },
+    {
+      "time": 1780714539,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    },
+    {
+      "time": 1781828694,
+      "profit": null
+    },
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    }
+  ]
+}

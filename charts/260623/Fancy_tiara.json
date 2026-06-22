@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Fancy tiara",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Voidwaker blade",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780256279,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780458870,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781582069,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1782050764,
+      "profit": null
+    },
+    {
+      "time": 1782132523,
+      "profit": null
+    }
+  ]
+}

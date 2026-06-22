@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Trailblazer teleport scroll",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781327988,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781478451,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Diamond bracelet",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779044759,
+      "profit": null
+    },
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1779475962,
+      "profit": null
+    },
+    {
+      "time": 1779548346,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781954186,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782109658,
+      "profit": null
+    },
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    }
+  ]
+}
