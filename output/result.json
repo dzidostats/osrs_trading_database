@@ -4,22 +4,11 @@
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 15,
-    "avgLowPrice": 12,
+    "avgHighPrice": 18,
+    "avgLowPrice": 11,
     "minimalPrice": 20,
-    "highPriceVolume": 165,
-    "lowPriceVolume": 842
-  },
-  {
-    "id": 23206,
-    "name": "Dual sai",
-    "limit": 8,
-    "value": 6000,
-    "avgHighPrice": 222,
-    "avgLowPrice": 222,
-    "minimalPrice": 600,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 814,
+    "lowPriceVolume": 315
   },
   {
     "id": 5537,
@@ -27,97 +16,75 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 7,
-    "avgLowPrice": 7,
+    "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 10,
+    "highPriceVolume": 9,
     "lowPriceVolume": 1
-  },
-  {
-    "id": 31208,
-    "name": "Grid master torch scroll",
-    "limit": null,
-    "value": 2500000,
-    "avgHighPrice": 100000,
-    "avgLowPrice": 100000,
-    "minimalPrice": 250000,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 2
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 10,
+    "avgHighPrice": 11,
     "avgLowPrice": 10,
     "minimalPrice": 17,
-    "highPriceVolume": 191,
-    "lowPriceVolume": 1132
+    "highPriceVolume": 209,
+    "lowPriceVolume": 34
   },
   {
-    "id": 1363,
-    "name": "Iron battleaxe",
+    "id": 1293,
+    "name": "Iron longsword",
     "limit": 125,
-    "value": 182,
-    "avgHighPrice": 17,
-    "avgLowPrice": 18,
-    "minimalPrice": 18.2,
-    "highPriceVolume": 97,
-    "lowPriceVolume": 7
+    "value": 140,
+    "avgHighPrice": 7,
+    "avgLowPrice": 7,
+    "minimalPrice": 14,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
   },
   {
     "id": 5104,
     "name": "Jangerberry seed",
     "limit": 200,
     "value": 60,
-    "avgHighPrice": 4,
-    "avgLowPrice": 5,
-    "minimalPrice": 6,
-    "highPriceVolume": 696,
-    "lowPriceVolume": 1029
-  },
-  {
-    "id": 4542,
-    "name": "Lantern lens",
-    "limit": 10000,
-    "value": 70,
-    "avgHighPrice": 4,
+    "avgHighPrice": 3,
     "avgLowPrice": 2,
-    "minimalPrice": 7,
-    "highPriceVolume": 84038,
-    "lowPriceVolume": 8257
+    "minimalPrice": 6,
+    "highPriceVolume": 63,
+    "lowPriceVolume": 250
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 5,
-    "avgLowPrice": 6,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
     "minimalPrice": 14,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 51
+    "highPriceVolume": 1,
+    "lowPriceVolume": 139
   },
   {
-    "id": 2007,
-    "name": "Spice",
-    "limit": 11000,
-    "value": 230,
-    "avgHighPrice": 19,
-    "avgLowPrice": 18,
-    "minimalPrice": 23,
-    "highPriceVolume": 30,
-    "lowPriceVolume": 489
+    "id": 1325,
+    "name": "Steel scimitar",
+    "limit": 125,
+    "value": 400,
+    "avgHighPrice": 31,
+    "avgLowPrice": 20,
+    "minimalPrice": 40,
+    "highPriceVolume": 38,
+    "lowPriceVolume": 5
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 12,
-    "avgLowPrice": 7,
+    "avgHighPrice": 6,
+    "avgLowPrice": 13,
     "minimalPrice": 13.3,
-    "highPriceVolume": 35,
-    "lowPriceVolume": 89
+    "highPriceVolume": 7,
+    "lowPriceVolume": 335
   }
 ]
