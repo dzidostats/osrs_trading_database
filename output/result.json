@@ -1,69 +1,25 @@
 [
   {
-    "id": 5533,
-    "name": "Body tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 4,
-    "avgLowPrice": 3,
-    "minimalPrice": 10,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
-  },
-  {
     "id": 1169,
     "name": "Coif",
     "limit": 125,
     "value": 200,
-    "avgHighPrice": 19,
-    "avgLowPrice": 15,
-    "minimalPrice": 20,
-    "highPriceVolume": 771,
-    "lowPriceVolume": 199
-  },
-  {
-    "id": 4525,
-    "name": "Empty oil lamp",
-    "limit": 10000,
-    "value": 25,
-    "avgHighPrice": 2,
-    "avgLowPrice": 2,
-    "minimalPrice": 2.5,
-    "highPriceVolume": 473,
-    "lowPriceVolume": 306
-  },
-  {
-    "id": 1363,
-    "name": "Iron battleaxe",
-    "limit": 125,
-    "value": 182,
     "avgHighPrice": 18,
     "avgLowPrice": 18,
-    "minimalPrice": 18.2,
-    "highPriceVolume": 41,
-    "lowPriceVolume": 113
+    "minimalPrice": 20,
+    "highPriceVolume": 27,
+    "lowPriceVolume": 23
   },
   {
-    "id": 48,
-    "name": "Longbow (u)",
-    "limit": 10000,
-    "value": 60,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
-    "minimalPrice": 6,
-    "highPriceVolume": 38,
-    "lowPriceVolume": 419
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
+    "id": 22873,
+    "name": "Potato cactus seed",
     "limit": 200,
-    "value": 166,
+    "value": 140,
     "avgHighPrice": 11,
-    "avgLowPrice": 12,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 18,
-    "lowPriceVolume": 188
+    "avgLowPrice": 4,
+    "minimalPrice": 14,
+    "highPriceVolume": 11,
+    "lowPriceVolume": 2509
   },
   {
     "id": 2007,
@@ -73,18 +29,40 @@
     "avgHighPrice": 19,
     "avgLowPrice": 18,
     "minimalPrice": 23,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 438
+    "highPriceVolume": 19,
+    "lowPriceVolume": 189
   },
   {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 7,
-    "avgLowPrice": 5,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 229,
-    "lowPriceVolume": 23
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 19,
+    "avgLowPrice": 15,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 35
+  },
+  {
+    "id": 1325,
+    "name": "Steel scimitar",
+    "limit": 125,
+    "value": 400,
+    "avgHighPrice": 22,
+    "avgLowPrice": 15,
+    "minimalPrice": 40,
+    "highPriceVolume": 677,
+    "lowPriceVolume": 2
+  },
+  {
+    "id": 1339,
+    "name": "Steel warhammer",
+    "limit": 125,
+    "value": 640,
+    "avgHighPrice": 54,
+    "avgLowPrice": 50,
+    "minimalPrice": 64,
+    "highPriceVolume": 747,
+    "lowPriceVolume": 2
   }
 ]
