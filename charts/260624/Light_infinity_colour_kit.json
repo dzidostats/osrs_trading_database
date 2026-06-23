@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Light infinity colour kit",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780079627,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1780213442,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    }
+  ]
+}

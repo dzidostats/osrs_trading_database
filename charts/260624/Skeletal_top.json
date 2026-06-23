@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Skeletal top",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778926400,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1780265046,
+      "profit": null
+    },
+    {
+      "time": 1780351165,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780834765,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    }
+  ]
+}

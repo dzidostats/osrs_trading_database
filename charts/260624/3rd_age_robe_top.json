@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "3rd age robe top",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779965803,
+      "profit": null
+    },
+    {
+      "time": 1780476853,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1780848796,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781738520,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    }
+  ]
+}

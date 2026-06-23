@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Amulet of fury",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779253386,
+      "profit": null
+    },
+    {
+      "time": 1779269348,
+      "profit": null
+    },
+    {
+      "time": 1779294293,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "White platelegs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778950901,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782109658,
+      "profit": null
+    },
+    {
+      "time": 1782252602,
+      "profit": null
+    }
+  ]
+}

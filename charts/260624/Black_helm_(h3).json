@@ -1,0 +1,21 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Black helm (h3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781496277,
+      "profit": null
+    }
+  ]
+}

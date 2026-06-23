@@ -1,0 +1,25 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Proboscis",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    }
+  ]
+}

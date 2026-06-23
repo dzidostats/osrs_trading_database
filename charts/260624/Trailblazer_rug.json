@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Trailblazer rug",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781424884,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781638381,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    }
+  ]
+}
