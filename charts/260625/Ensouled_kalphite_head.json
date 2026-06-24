@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ensouled kalphite head",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    }
+  ]
+}

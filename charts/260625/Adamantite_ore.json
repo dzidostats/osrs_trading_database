@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Adamantite ore",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778899471,
+      "profit": null
+    },
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1779376840,
+      "profit": null
+    },
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1779398774,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779634933,
+      "profit": null
+    },
+    {
+      "time": 1779641920,
+      "profit": null
+    },
+    {
+      "time": 1779653017,
+      "profit": null
+    },
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1779936956,
+      "profit": null
+    },
+    {
+      "time": 1780122134,
+      "profit": null
+    },
+    {
+      "time": 1781720009,
+      "profit": null
+    }
+  ]
+}

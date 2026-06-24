@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Umbral coral",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    }
+  ]
+}

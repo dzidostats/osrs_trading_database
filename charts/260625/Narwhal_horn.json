@@ -1,0 +1,97 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Narwhal horn",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780779719,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1780957503,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    },
+    {
+      "time": 1781134936,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781582069,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1781738520,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781800140,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782086999,
+      "profit": null
+    },
+    {
+      "time": 1782271448,
+      "profit": null
+    },
+    {
+      "time": 1782286682,
+      "profit": null
+    },
+    {
+      "time": 1782334007,
+      "profit": null
+    }
+  ]
+}

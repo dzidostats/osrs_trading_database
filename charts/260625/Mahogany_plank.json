@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mahogany plank",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779923745,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    }
+  ]
+}

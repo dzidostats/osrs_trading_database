@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bob's green shirt",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782252602,
+      "profit": null
+    }
+  ]
+}

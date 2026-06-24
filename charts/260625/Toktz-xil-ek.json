@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Toktz-xil-ek",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779062149,
+      "profit": null
+    },
+    {
+      "time": 1779404503,
+      "profit": null
+    },
+    {
+      "time": 1779753837,
+      "profit": null
+    },
+    {
+      "time": 1780779719,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1782031160,
+      "profit": null
+    },
+    {
+      "time": 1782086999,
+      "profit": null
+    }
+  ]
+}

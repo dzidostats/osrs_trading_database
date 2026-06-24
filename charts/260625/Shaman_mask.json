@@ -1,0 +1,97 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Shaman mask",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780182521,
+      "profit": null
+    },
+    {
+      "time": 1780351165,
+      "profit": null
+    },
+    {
+      "time": 1780510922,
+      "profit": null
+    },
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    },
+    {
+      "time": 1780714539,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1781738520,
+      "profit": null
+    },
+    {
+      "time": 1781868034,
+      "profit": null
+    },
+    {
+      "time": 1782086999,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Frog-leather boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779456640,
+      "profit": null
+    },
+    {
+      "time": 1780603391,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1780897713,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Torag's hammers",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780949513,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    },
+    {
+      "time": 1781868034,
+      "profit": null
+    },
+    {
+      "time": 1782334007,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bronze arrowtips",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778964190,
+      "profit": null
+    },
+    {
+      "time": 1780786883,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    },
+    {
+      "time": 1781828694,
+      "profit": null
+    },
+    {
+      "time": 1781881847,
+      "profit": null
+    },
+    {
+      "time": 1781903285,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1781945564,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782042302,
+      "profit": null
+    },
+    {
+      "time": 1782050764,
+      "profit": null
+    },
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    },
+    {
+      "time": 1782190704,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    }
+  ]
+}
