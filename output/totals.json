@@ -5472,5 +5472,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1169": {
+    "id": 1169,
+    "name": "Coif",
+    "totalHighVolume": 176,
+    "totalLowVolume": 4,
+    "averageHighPrice": 16,
+    "averageLowPrice": 12,
+    "samples": 1,
+    "lastHighPrice": 16,
+    "lastLowPrice": 12,
+    "limit": 125,
+    "value": 200,
+    "minimalPrice": 20
+  },
+  "1293": {
+    "id": 1293,
+    "name": "Iron longsword",
+    "totalHighVolume": 2,
+    "totalLowVolume": 4,
+    "averageHighPrice": 10,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 10,
+    "lastLowPrice": 7,
+    "limit": 125,
+    "value": 140,
+    "minimalPrice": 14
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Steel mace",
+    "totalHighVolume": 13,
+    "totalLowVolume": 143,
+    "averageHighPrice": 17,
+    "averageLowPrice": 18,
+    "samples": 1,
+    "lastHighPrice": 17,
+    "lastLowPrice": 18,
+    "limit": 125,
+    "value": 225,
+    "minimalPrice": 22.5
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 320,
+    "totalLowVolume": 204,
+    "averageHighPrice": 4,
+    "averageLowPrice": 4,
+    "samples": 1,
+    "lastHighPrice": 4,
+    "lastLowPrice": 4,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
