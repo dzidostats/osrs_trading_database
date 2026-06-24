@@ -8,40 +8,29 @@
     "avgLowPrice": 5,
     "minimalPrice": 10,
     "highPriceVolume": 3,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 6470,
-    "name": "Compost potion(4)",
-    "limit": 50,
-    "value": 120,
-    "avgHighPrice": 3,
-    "avgLowPrice": 5,
-    "minimalPrice": 12,
-    "highPriceVolume": 200,
-    "lowPriceVolume": 201
+    "lowPriceVolume": 1
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
+    "avgHighPrice": 10,
+    "avgLowPrice": 12,
     "minimalPrice": 17,
-    "highPriceVolume": 173,
-    "lowPriceVolume": 8
+    "highPriceVolume": 507,
+    "lowPriceVolume": 213
   },
   {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 12,
-    "avgLowPrice": 13,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 470,
-    "lowPriceVolume": 453
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 5,
+    "lowPriceVolume": 4
   },
   {
     "id": 22873,
@@ -49,9 +38,31 @@
     "limit": 200,
     "value": 140,
     "avgHighPrice": 7,
-    "avgLowPrice": 5,
+    "avgLowPrice": 9,
     "minimalPrice": 14,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 98
+    "highPriceVolume": 24,
+    "lowPriceVolume": 38
+  },
+  {
+    "id": 2007,
+    "name": "Spice",
+    "limit": 11000,
+    "value": 230,
+    "avgHighPrice": 20,
+    "avgLowPrice": 20,
+    "minimalPrice": 23,
+    "highPriceVolume": 1061,
+    "lowPriceVolume": 94
+  },
+  {
+    "id": 1365,
+    "name": "Steel battleaxe",
+    "limit": 125,
+    "value": 650,
+    "avgHighPrice": 48,
+    "avgLowPrice": 24,
+    "minimalPrice": 65,
+    "highPriceVolume": 3,
+    "lowPriceVolume": 279
   }
 ]
