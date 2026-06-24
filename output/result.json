@@ -1,68 +1,90 @@
 [
   {
+    "id": 1367,
+    "name": "Black battleaxe",
+    "limit": 125,
+    "value": 1248,
+    "avgHighPrice": 110,
+    "avgLowPrice": 49,
+    "minimalPrice": 124.80000000000001,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
     "id": 5533,
     "name": "Body tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 7,
+    "avgHighPrice": 6,
     "avgLowPrice": 5,
     "minimalPrice": 10,
-    "highPriceVolume": 3,
+    "highPriceVolume": 6,
     "lowPriceVolume": 1
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
-    "limit": 125,
-    "value": 170,
-    "avgHighPrice": 10,
-    "avgLowPrice": 12,
-    "minimalPrice": 17,
-    "highPriceVolume": 507,
-    "lowPriceVolume": 213
-  },
-  {
-    "id": 5529,
-    "name": "Mind tiara",
+    "id": 5535,
+    "name": "Earth tiara",
     "limit": 40,
     "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 4,
+    "avgHighPrice": 9,
+    "avgLowPrice": 7,
     "minimalPrice": 10,
-    "highPriceVolume": 5,
-    "lowPriceVolume": 4
-  },
-  {
-    "id": 22873,
-    "name": "Potato cactus seed",
-    "limit": 200,
-    "value": 140,
-    "avgHighPrice": 7,
-    "avgLowPrice": 9,
-    "minimalPrice": 14,
-    "highPriceVolume": 24,
-    "lowPriceVolume": 38
-  },
-  {
-    "id": 2007,
-    "name": "Spice",
-    "limit": 11000,
-    "value": 230,
-    "avgHighPrice": 20,
-    "avgLowPrice": 20,
-    "minimalPrice": 23,
-    "highPriceVolume": 1061,
-    "lowPriceVolume": 94
-  },
-  {
-    "id": 1365,
-    "name": "Steel battleaxe",
-    "limit": 125,
-    "value": 650,
-    "avgHighPrice": 48,
-    "avgLowPrice": 24,
-    "minimalPrice": 65,
     "highPriceVolume": 3,
-    "lowPriceVolume": 279
+    "lowPriceVolume": 169
+  },
+  {
+    "id": 31208,
+    "name": "Grid master torch scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 132242,
+    "avgLowPrice": 100796,
+    "minimalPrice": 250000,
+    "highPriceVolume": 4,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 70,
+    "lowPriceVolume": 110
+  },
+  {
+    "id": 5531,
+    "name": "Water tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 15,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 4,
+    "avgLowPrice": 2,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 45,
+    "lowPriceVolume": 51
+  },
+  {
+    "id": 9444,
+    "name": "Willow stock",
+    "limit": 10000,
+    "value": 53,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 5.300000000000001,
+    "highPriceVolume": 178,
+    "lowPriceVolume": 2
   }
 ]
