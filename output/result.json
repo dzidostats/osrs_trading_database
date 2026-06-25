@@ -1,14 +1,91 @@
 [
   {
-    "id": 48,
-    "name": "Longbow (u)",
+    "id": 1217,
+    "name": "Black dagger",
+    "limit": 125,
+    "value": 240,
+    "avgHighPrice": 10,
+    "avgLowPrice": 3,
+    "minimalPrice": 24,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 63
+  },
+  {
+    "id": 6472,
+    "name": "Compost potion(3)",
+    "limit": 50,
+    "value": 90,
+    "avgHighPrice": 1,
+    "avgLowPrice": 2,
+    "minimalPrice": 9,
+    "highPriceVolume": 287,
+    "lowPriceVolume": 712
+  },
+  {
+    "id": 4525,
+    "name": "Empty oil lamp",
     "limit": 10000,
+    "value": 25,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.5,
+    "highPriceVolume": 100,
+    "lowPriceVolume": 114
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 16,
+    "avgLowPrice": 13,
+    "minimalPrice": 17,
+    "highPriceVolume": 7,
+    "lowPriceVolume": 15
+  },
+  {
+    "id": 1293,
+    "name": "Iron longsword",
+    "limit": 125,
+    "value": 140,
+    "avgHighPrice": 13,
+    "avgLowPrice": 7,
+    "minimalPrice": 14,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 5104,
+    "name": "Jangerberry seed",
+    "limit": 200,
     "value": 60,
-    "avgHighPrice": 3,
+    "avgHighPrice": 2,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 525,
-    "lowPriceVolume": 16
+    "highPriceVolume": 372,
+    "lowPriceVolume": 485
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 8,
+    "avgLowPrice": 3,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 234,
+    "lowPriceVolume": 1268
+  },
+  {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "limit": 200,
+    "value": 140,
+    "avgHighPrice": 1,
+    "avgLowPrice": 3,
+    "minimalPrice": 14,
+    "highPriceVolume": 407,
+    "lowPriceVolume": 347
   },
   {
     "id": 2007,
@@ -18,29 +95,18 @@
     "avgHighPrice": 21,
     "avgLowPrice": 20,
     "minimalPrice": 23,
-    "highPriceVolume": 609,
-    "lowPriceVolume": 16
-  },
-  {
-    "id": 5531,
-    "name": "Water tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 6,
-    "avgLowPrice": 6,
-    "minimalPrice": 10,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 1
+    "highPriceVolume": 534,
+    "lowPriceVolume": 508
   },
   {
     "id": 5105,
     "name": "Whiteberry seed",
     "limit": 200,
     "value": 133,
-    "avgHighPrice": 3,
-    "avgLowPrice": 3,
+    "avgHighPrice": 6,
+    "avgLowPrice": 2,
     "minimalPrice": 13.3,
-    "highPriceVolume": 110,
-    "lowPriceVolume": 70
+    "highPriceVolume": 997,
+    "lowPriceVolume": 828
   }
 ]
