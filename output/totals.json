@@ -4436,5 +4436,61 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "48": {
+    "id": 48,
+    "name": "Longbow (u)",
+    "totalHighVolume": 525,
+    "totalLowVolume": 16,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 10000,
+    "value": 60,
+    "minimalPrice": 6
+  },
+  "2007": {
+    "id": 2007,
+    "name": "Spice",
+    "totalHighVolume": 609,
+    "totalLowVolume": 16,
+    "averageHighPrice": 21,
+    "averageLowPrice": 20,
+    "samples": 1,
+    "lastHighPrice": 21,
+    "lastLowPrice": 20,
+    "limit": 11000,
+    "value": 230,
+    "minimalPrice": 23
+  },
+  "5531": {
+    "id": 5531,
+    "name": "Water tiara",
+    "totalHighVolume": 4,
+    "totalLowVolume": 1,
+    "averageHighPrice": 6,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 6,
+    "limit": 40,
+    "value": 100,
+    "minimalPrice": 10
+  },
+  "5105": {
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "totalHighVolume": 110,
+    "totalLowVolume": 70,
+    "averageHighPrice": 3,
+    "averageLowPrice": 3,
+    "samples": 1,
+    "lastHighPrice": 3,
+    "lastLowPrice": 3,
+    "limit": 200,
+    "value": 133,
+    "minimalPrice": 13.3
   }
 }
