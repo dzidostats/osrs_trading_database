@@ -1,46 +1,101 @@
 [
   {
+    "id": 31208,
+    "name": "Grid master torch scroll",
+    "limit": null,
+    "value": 2500000,
+    "avgHighPrice": 110000,
+    "avgLowPrice": 77777,
+    "minimalPrice": 250000,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 2
+  },
+  {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
     "avgHighPrice": 15,
-    "avgLowPrice": 11,
+    "avgLowPrice": 10,
     "minimalPrice": 17,
-    "highPriceVolume": 26,
-    "lowPriceVolume": 116
+    "highPriceVolume": 157,
+    "lowPriceVolume": 4
   },
   {
-    "id": 1293,
-    "name": "Iron longsword",
+    "id": 1175,
+    "name": "Iron sq shield",
     "limit": 125,
-    "value": 140,
-    "avgHighPrice": 7,
-    "avgLowPrice": 7,
-    "minimalPrice": 14,
+    "value": 168,
+    "avgHighPrice": 13,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 10,
+    "lowPriceVolume": 3
+  },
+  {
+    "id": 1167,
+    "name": "Leather cowl",
+    "limit": 125,
+    "value": 24,
+    "avgHighPrice": 2,
+    "avgLowPrice": 2,
+    "minimalPrice": 2.4000000000000004,
+    "highPriceVolume": 58,
+    "lowPriceVolume": 24
+  },
+  {
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
     "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "lowPriceVolume": 501
+  },
+  {
+    "id": 5106,
+    "name": "Poison ivy seed",
+    "limit": 200,
+    "value": 166,
+    "avgHighPrice": 11,
+    "avgLowPrice": 11,
+    "minimalPrice": 16.6,
+    "highPriceVolume": 40,
+    "lowPriceVolume": 167
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 6,
-    "avgLowPrice": 2,
+    "avgHighPrice": 7,
+    "avgLowPrice": 5,
     "minimalPrice": 14,
-    "highPriceVolume": 118,
-    "lowPriceVolume": 161
+    "highPriceVolume": 220,
+    "lowPriceVolume": 114
   },
   {
     "id": 2007,
     "name": "Spice",
     "limit": 11000,
     "value": 230,
-    "avgHighPrice": 21,
-    "avgLowPrice": 20,
+    "avgHighPrice": 22,
+    "avgLowPrice": 21,
     "minimalPrice": 23,
-    "highPriceVolume": 21,
-    "lowPriceVolume": 166
+    "highPriceVolume": 13,
+    "lowPriceVolume": 484
+  },
+  {
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 18,
+    "avgLowPrice": 15,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 13,
+    "lowPriceVolume": 1
   }
 ]
