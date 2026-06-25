@@ -1,0 +1,21 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Oak shield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782161086,
+      "profit": null
+    }
+  ]
+}

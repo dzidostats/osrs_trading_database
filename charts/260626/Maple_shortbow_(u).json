@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Maple shortbow (u)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778958124,
+      "profit": null
+    },
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779037396,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779420577,
+      "profit": null
+    },
+    {
+      "time": 1779521405,
+      "profit": null
+    },
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1779621292,
+      "profit": null
+    },
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779899758,
+      "profit": null
+    },
+    {
+      "time": 1779936956,
+      "profit": null
+    },
+    {
+      "time": 1780877110,
+      "profit": null
+    },
+    {
+      "time": 1781149456,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781378558,
+      "profit": null
+    },
+    {
+      "time": 1781655267,
+      "profit": null
+    },
+    {
+      "time": 1782417448,
+      "profit": null
+    }
+  ]
+}

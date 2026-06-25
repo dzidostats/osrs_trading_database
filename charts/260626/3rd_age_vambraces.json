@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "3rd age vambraces",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779576717,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1782109658,
+      "profit": null
+    },
+    {
+      "time": 1782424040,
+      "profit": null
+    }
+  ]
+}

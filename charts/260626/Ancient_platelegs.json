@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancient platelegs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    },
+    {
+      "time": 1781378558,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1782417448,
+      "profit": null
+    }
+  ]
+}

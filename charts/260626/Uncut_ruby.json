@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Uncut ruby",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779653017,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    },
+    {
+      "time": 1782387844,
+      "profit": null
+    },
+    {
+      "time": 1782397706,
+      "profit": null
+    }
+  ]
+}
