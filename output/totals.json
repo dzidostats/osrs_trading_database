@@ -5164,5 +5164,61 @@
     "limit": 150,
     "value": 5,
     "minimalPrice": 5
+  },
+  "1131": {
+    "id": 1131,
+    "name": "Hardleather body",
+    "totalHighVolume": 26,
+    "totalLowVolume": 116,
+    "averageHighPrice": 15,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 15,
+    "lastLowPrice": 11,
+    "limit": 125,
+    "value": 170,
+    "minimalPrice": 17
+  },
+  "1293": {
+    "id": 1293,
+    "name": "Iron longsword",
+    "totalHighVolume": 1,
+    "totalLowVolume": 1,
+    "averageHighPrice": 7,
+    "averageLowPrice": 7,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 7,
+    "limit": 125,
+    "value": 140,
+    "minimalPrice": 14
+  },
+  "22873": {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "totalHighVolume": 118,
+    "totalLowVolume": 161,
+    "averageHighPrice": 6,
+    "averageLowPrice": 2,
+    "samples": 1,
+    "lastHighPrice": 6,
+    "lastLowPrice": 2,
+    "limit": 200,
+    "value": 140,
+    "minimalPrice": 14
+  },
+  "2007": {
+    "id": 2007,
+    "name": "Spice",
+    "totalHighVolume": 21,
+    "totalLowVolume": 166,
+    "averageHighPrice": 21,
+    "averageLowPrice": 20,
+    "samples": 1,
+    "lastHighPrice": 21,
+    "lastLowPrice": 20,
+    "limit": 11000,
+    "value": 230,
+    "minimalPrice": 23
   }
 }
