@@ -5696,5 +5696,47 @@
     "limit": 150,
     "value": 500,
     "minimalPrice": 500
+  },
+  "1081": {
+    "id": 1081,
+    "name": "Iron plateskirt",
+    "totalHighVolume": 3,
+    "totalLowVolume": 1,
+    "averageHighPrice": 21,
+    "averageLowPrice": 11,
+    "samples": 1,
+    "lastHighPrice": 21,
+    "lastLowPrice": 11,
+    "limit": 125,
+    "value": 280,
+    "minimalPrice": 28
+  },
+  "1167": {
+    "id": 1167,
+    "name": "Leather cowl",
+    "totalHighVolume": 34,
+    "totalLowVolume": 51,
+    "averageHighPrice": 2,
+    "averageLowPrice": 1,
+    "samples": 1,
+    "lastHighPrice": 2,
+    "lastLowPrice": 1,
+    "limit": 125,
+    "value": 24,
+    "minimalPrice": 2.4000000000000004
+  },
+  "22873": {
+    "id": 22873,
+    "name": "Potato cactus seed",
+    "totalHighVolume": 393,
+    "totalLowVolume": 98,
+    "averageHighPrice": 7,
+    "averageLowPrice": 6,
+    "samples": 1,
+    "lastHighPrice": 7,
+    "lastLowPrice": 6,
+    "limit": 200,
+    "value": 140,
+    "minimalPrice": 14
   }
 }
