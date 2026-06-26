@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Spined body",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781914074,
+      "profit": null
+    },
+    {
+      "time": 1781963895,
+      "profit": null
+    },
+    {
+      "time": 1782271448,
+      "profit": null
+    },
+    {
+      "time": 1782506720,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Rune spear",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1780897713,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781520825,
+      "profit": null
+    },
+    {
+      "time": 1781647794,
+      "profit": null
+    },
+    {
+      "time": 1781849809,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1782060222,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    },
+    {
+      "time": 1782190704,
+      "profit": null
+    },
+    {
+      "time": 1782499828,
+      "profit": null
+    }
+  ]
+}
