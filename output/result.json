@@ -1,35 +1,101 @@
 [
   {
-    "id": 1081,
-    "name": "Iron plateskirt",
+    "id": 1169,
+    "name": "Coif",
     "limit": 125,
-    "value": 280,
-    "avgHighPrice": 21,
-    "avgLowPrice": 11,
-    "minimalPrice": 28,
-    "highPriceVolume": 3,
+    "value": 200,
+    "avgHighPrice": 15,
+    "avgLowPrice": 14,
+    "minimalPrice": 20,
+    "highPriceVolume": 360,
+    "lowPriceVolume": 120
+  },
+  {
+    "id": 1131,
+    "name": "Hardleather body",
+    "limit": 125,
+    "value": 170,
+    "avgHighPrice": 11,
+    "avgLowPrice": 13,
+    "minimalPrice": 17,
+    "highPriceVolume": 17,
+    "lowPriceVolume": 4
+  },
+  {
+    "id": 1293,
+    "name": "Iron longsword",
+    "limit": 125,
+    "value": 140,
+    "avgHighPrice": 10,
+    "avgLowPrice": 7,
+    "minimalPrice": 14,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
-    "id": 1167,
-    "name": "Leather cowl",
-    "limit": 125,
-    "value": 24,
-    "avgHighPrice": 2,
-    "avgLowPrice": 1,
-    "minimalPrice": 2.4000000000000004,
-    "highPriceVolume": 34,
-    "lowPriceVolume": 51
+    "id": 48,
+    "name": "Longbow (u)",
+    "limit": 10000,
+    "value": 60,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6,
+    "highPriceVolume": 101,
+    "lowPriceVolume": 96
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 6,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 12,
+    "lowPriceVolume": 542
+  },
+  {
+    "id": 828,
+    "name": "Mithril javelin",
+    "limit": 7000,
+    "value": 64,
+    "avgHighPrice": 3,
+    "avgLowPrice": 3,
+    "minimalPrice": 6.4,
+    "highPriceVolume": 361,
+    "lowPriceVolume": 436
   },
   {
     "id": 22873,
     "name": "Potato cactus seed",
     "limit": 200,
     "value": 140,
-    "avgHighPrice": 7,
-    "avgLowPrice": 6,
+    "avgHighPrice": 6,
+    "avgLowPrice": 5,
     "minimalPrice": 14,
-    "highPriceVolume": 393,
-    "lowPriceVolume": 98
+    "highPriceVolume": 9,
+    "lowPriceVolume": 76
+  },
+  {
+    "id": 2007,
+    "name": "Spice",
+    "limit": 11000,
+    "value": 230,
+    "avgHighPrice": 21,
+    "avgLowPrice": 21,
+    "minimalPrice": 23,
+    "highPriceVolume": 180,
+    "lowPriceVolume": 3128
+  },
+  {
+    "id": 1255,
+    "name": "Steel spear(p)",
+    "limit": 125,
+    "value": 325,
+    "avgHighPrice": 1,
+    "avgLowPrice": 1,
+    "minimalPrice": 32.5,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 6
   }
 ]
