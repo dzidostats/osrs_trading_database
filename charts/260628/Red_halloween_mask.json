@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Red halloween mask",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781243254,
+      "profit": null
+    },
+    {
+      "time": 1781601921,
+      "profit": null
+    },
+    {
+      "time": 1781828694,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782173029,
+      "profit": null
+    },
+    {
+      "time": 1782490481,
+      "profit": null
+    }
+  ]
+}

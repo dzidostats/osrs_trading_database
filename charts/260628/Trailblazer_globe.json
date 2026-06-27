@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Trailblazer globe",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781243254,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781327988,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781881847,
+      "profit": null
+    },
+    {
+      "time": 1782535928,
+      "profit": null
+    }
+  ]
+}

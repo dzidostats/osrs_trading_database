@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Antifire potion(3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779107293,
+      "profit": null
+    },
+    {
+      "time": 1780357265,
+      "profit": null
+    },
+    {
+      "time": 1781655267,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    }
+  ]
+}

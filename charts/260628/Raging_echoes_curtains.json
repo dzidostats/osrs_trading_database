@@ -1,0 +1,129 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Raging echoes curtains",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781309927,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781371240,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781582069,
+      "profit": null
+    },
+    {
+      "time": 1781800140,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    },
+    {
+      "time": 1781945564,
+      "profit": null
+    },
+    {
+      "time": 1782065898,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782339330,
+      "profit": null
+    },
+    {
+      "time": 1782363816,
+      "profit": null
+    },
+    {
+      "time": 1782444651,
+      "profit": null
+    },
+    {
+      "time": 1782562091,
+      "profit": null
+    }
+  ]
+}

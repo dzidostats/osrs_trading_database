@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mithril javelin tips",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779511108,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    },
+    {
+      "time": 1782377893,
+      "profit": null
+    }
+  ]
+}

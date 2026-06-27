@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "3rd age range top",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780915784,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781828694,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Super defence(3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779393195,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1781068581,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    },
+    {
+      "time": 1782511892,
+      "profit": null
+    },
+    {
+      "time": 1782554761,
+      "profit": null
+    }
+  ]
+}

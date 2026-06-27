@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bronze crossbow",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779135797,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    }
+  ]
+}

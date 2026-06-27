@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Godsword shard 2",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1779362490,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1779580535,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779703296,
+      "profit": null
+    },
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1781149456,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781424884,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    }
+  ]
+}

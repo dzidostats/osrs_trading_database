@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Prayer potion(1)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780261072,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1782407455,
+      "profit": null
+    }
+  ]
+}

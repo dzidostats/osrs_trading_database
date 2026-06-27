@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ancestral robe top",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780561168,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1782576193,
+      "profit": null
+    }
+  ]
+}

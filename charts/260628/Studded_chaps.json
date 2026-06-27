@@ -1,0 +1,101 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Studded chaps",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780243552,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1781385243,
+      "profit": null
+    },
+    {
+      "time": 1781409163,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781445528,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    },
+    {
+      "time": 1781478451,
+      "profit": null
+    },
+    {
+      "time": 1781520825,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781582069,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1781730228,
+      "profit": null
+    },
+    {
+      "time": 1781800140,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    }
+  ]
+}
