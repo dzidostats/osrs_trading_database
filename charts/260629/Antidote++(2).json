@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Antidote++(2)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780544968,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1782042302,
+      "profit": null
+    }
+  ]
+}

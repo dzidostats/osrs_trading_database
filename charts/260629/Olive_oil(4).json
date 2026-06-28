@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Olive oil(4)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779965803,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781391762,
+      "profit": null
+    }
+  ]
+}

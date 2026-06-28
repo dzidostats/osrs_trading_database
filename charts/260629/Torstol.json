@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Torstol",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782203561,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782237075,
+      "profit": null
+    },
+    {
+      "time": 1782298017,
+      "profit": null
+    },
+    {
+      "time": 1782424040,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    }
+  ]
+}

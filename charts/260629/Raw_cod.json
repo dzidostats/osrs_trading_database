@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Raw cod",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781638381,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    },
+    {
+      "time": 1782173029,
+      "profit": null
+    },
+    {
+      "time": 1782190704,
+      "profit": null
+    },
+    {
+      "time": 1782244836,
+      "profit": null
+    },
+    {
+      "time": 1782298017,
+      "profit": null
+    },
+    {
+      "time": 1782327025,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Spotted cape",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779746759,
+      "profit": null
+    },
+    {
+      "time": 1780963448,
+      "profit": null
+    },
+    {
+      "time": 1781120025,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1782203561,
+      "profit": null
+    }
+  ]
+}

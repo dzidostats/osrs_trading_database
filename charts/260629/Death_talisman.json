@@ -1,0 +1,93 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Death talisman",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779050935,
+      "profit": null
+    },
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779058329,
+      "profit": null
+    },
+    {
+      "time": 1780174443,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    },
+    {
+      "time": 1782173029,
+      "profit": null
+    },
+    {
+      "time": 1782190704,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782237075,
+      "profit": null
+    },
+    {
+      "time": 1782244836,
+      "profit": null
+    },
+    {
+      "time": 1782271448,
+      "profit": null
+    },
+    {
+      "time": 1782346202,
+      "profit": null
+    },
+    {
+      "time": 1782407455,
+      "profit": null
+    },
+    {
+      "time": 1782424040,
+      "profit": null
+    },
+    {
+      "time": 1782429378,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Eldritch orb",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780523246,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1781243254,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781720009,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782659800,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Marigold seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781868034,
+      "profit": null
+    },
+    {
+      "time": 1781903285,
+      "profit": null
+    },
+    {
+      "time": 1781963895,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1782429378,
+      "profit": null
+    },
+    {
+      "time": 1782659800,
+      "profit": null
+    }
+  ]
+}

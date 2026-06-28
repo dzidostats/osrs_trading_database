@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Piscarilius scarf",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780265046,
+      "profit": null
+    },
+    {
+      "time": 1780338991,
+      "profit": null
+    },
+    {
+      "time": 1781655267,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    },
+    {
+      "time": 1782684532,
+      "profit": null
+    }
+  ]
+}

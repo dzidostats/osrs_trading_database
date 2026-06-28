@@ -1,0 +1,85 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Rune kiteshield (t)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778937492,
+      "profit": null
+    },
+    {
+      "time": 1778947020,
+      "profit": null
+    },
+    {
+      "time": 1778967999,
+      "profit": null
+    },
+    {
+      "time": 1779534561,
+      "profit": null
+    },
+    {
+      "time": 1779634933,
+      "profit": null
+    },
+    {
+      "time": 1779641920,
+      "profit": null
+    },
+    {
+      "time": 1780272290,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780636498,
+      "profit": null
+    },
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    },
+    {
+      "time": 1781810766,
+      "profit": null
+    },
+    {
+      "time": 1782511892,
+      "profit": null
+    },
+    {
+      "time": 1782666472,
+      "profit": null
+    }
+  ]
+}

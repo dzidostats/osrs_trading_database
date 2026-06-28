@@ -1,0 +1,81 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Trailblazer reloaded home teleport scroll",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781243254,
+      "profit": null
+    },
+    {
+      "time": 1781258934,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781378558,
+      "profit": null
+    },
+    {
+      "time": 1781914074,
+      "profit": null
+    },
+    {
+      "time": 1781954186,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782666472,
+      "profit": null
+    },
+    {
+      "time": 1782684532,
+      "profit": null
+    }
+  ]
+}
