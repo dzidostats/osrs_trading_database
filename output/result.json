@@ -7,30 +7,41 @@
     "avgHighPrice": 5,
     "avgLowPrice": 4,
     "minimalPrice": 10,
-    "highPriceVolume": 11,
-    "lowPriceVolume": 4
+    "highPriceVolume": 86,
+    "lowPriceVolume": 2
   },
   {
     "id": 31004,
     "name": "Atlatl dart shaft",
     "limit": 11000,
     "value": 220,
-    "avgHighPrice": 18,
+    "avgHighPrice": 20,
     "avgLowPrice": 15,
     "minimalPrice": 22,
-    "highPriceVolume": 20903,
-    "lowPriceVolume": 4
+    "highPriceVolume": 12068,
+    "lowPriceVolume": 580
   },
   {
-    "id": 6472,
-    "name": "Compost potion(3)",
-    "limit": 50,
-    "value": 90,
-    "avgHighPrice": 1,
-    "avgLowPrice": 1,
-    "minimalPrice": 9,
-    "highPriceVolume": 15,
+    "id": 5533,
+    "name": "Body tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 8,
+    "avgLowPrice": 6,
+    "minimalPrice": 10,
+    "highPriceVolume": 4,
     "lowPriceVolume": 1
+  },
+  {
+    "id": 6470,
+    "name": "Compost potion(4)",
+    "limit": 50,
+    "value": 120,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 12,
+    "highPriceVolume": 21,
+    "lowPriceVolume": 4
   },
   {
     "id": 5535,
@@ -38,10 +49,10 @@
     "limit": 40,
     "value": 100,
     "avgHighPrice": 7,
-    "avgLowPrice": 5,
+    "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 17,
-    "lowPriceVolume": 12
+    "highPriceVolume": 207,
+    "lowPriceVolume": 67
   },
   {
     "id": 151,
@@ -51,95 +62,51 @@
     "avgHighPrice": 2,
     "avgLowPrice": 2,
     "minimalPrice": 20,
-    "highPriceVolume": 12,
-    "lowPriceVolume": 406
+    "highPriceVolume": 22,
+    "lowPriceVolume": 22
   },
   {
-    "id": 1131,
-    "name": "Hardleather body",
+    "id": 3785,
+    "name": "Fremennik purple cloak",
+    "limit": 150,
+    "value": 250,
+    "avgHighPrice": 23,
+    "avgLowPrice": 23,
+    "minimalPrice": 25,
+    "highPriceVolume": 1,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 1363,
+    "name": "Iron battleaxe",
     "limit": 125,
-    "value": 170,
-    "avgHighPrice": 11,
-    "avgLowPrice": 11,
-    "minimalPrice": 17,
-    "highPriceVolume": 765,
-    "lowPriceVolume": 89
+    "value": 182,
+    "avgHighPrice": 10,
+    "avgLowPrice": 10,
+    "minimalPrice": 18.2,
+    "highPriceVolume": 189,
+    "lowPriceVolume": 70
   },
   {
-    "id": 5529,
-    "name": "Mind tiara",
-    "limit": 40,
-    "value": 100,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "minimalPrice": 10,
-    "highPriceVolume": 26,
-    "lowPriceVolume": 2
-  },
-  {
-    "id": 1428,
-    "name": "Mithril mace",
+    "id": 1167,
+    "name": "Leather cowl",
     "limit": 125,
-    "value": 585,
-    "avgHighPrice": 3,
-    "avgLowPrice": 5,
-    "minimalPrice": 58.5,
-    "highPriceVolume": 4,
-    "lowPriceVolume": 362
-  },
-  {
-    "id": 5106,
-    "name": "Poison ivy seed",
-    "limit": 200,
-    "value": 166,
-    "avgHighPrice": 14,
-    "avgLowPrice": 13,
-    "minimalPrice": 16.6,
-    "highPriceVolume": 7,
-    "lowPriceVolume": 1073
-  },
-  {
-    "id": 127,
-    "name": "Restore potion(3)",
-    "limit": 2000,
-    "value": 88,
-    "avgHighPrice": 7,
-    "avgLowPrice": 6,
-    "minimalPrice": 8.8,
-    "highPriceVolume": 107,
-    "lowPriceVolume": 132
+    "value": 24,
+    "avgHighPrice": 2,
+    "avgLowPrice": 1,
+    "minimalPrice": 2.4000000000000004,
+    "highPriceVolume": 321,
+    "lowPriceVolume": 1
   },
   {
     "id": 2007,
     "name": "Spice",
     "limit": 11000,
     "value": 230,
-    "avgHighPrice": 16,
-    "avgLowPrice": 14,
+    "avgHighPrice": 13,
+    "avgLowPrice": 13,
     "minimalPrice": 23,
-    "highPriceVolume": 67,
-    "lowPriceVolume": 9425
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 5,
-    "avgLowPrice": 5,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 482,
-    "lowPriceVolume": 30
-  },
-  {
-    "id": 32041,
-    "name": "Wooden hull parts",
-    "limit": 100,
-    "value": 250,
-    "avgHighPrice": 19,
-    "avgLowPrice": 10,
-    "minimalPrice": 25,
-    "highPriceVolume": 10,
-    "lowPriceVolume": 10
+    "highPriceVolume": 280,
+    "lowPriceVolume": 2148
   }
 ]
