@@ -1,5 +1,16 @@
 [
   {
+    "id": 5527,
+    "name": "Air tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 5,
+    "avgLowPrice": 4,
+    "minimalPrice": 10,
+    "highPriceVolume": 11,
+    "lowPriceVolume": 5
+  },
+  {
     "id": 5533,
     "name": "Body tiara",
     "limit": 40,
@@ -7,52 +18,63 @@
     "avgHighPrice": 7,
     "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 1
+    "highPriceVolume": 4,
+    "lowPriceVolume": 3
   },
   {
-    "id": 151,
-    "name": "Fishing potion(3)",
-    "limit": 2000,
+    "id": 1169,
+    "name": "Coif",
+    "limit": 125,
     "value": 200,
-    "avgHighPrice": 12,
-    "avgLowPrice": 2,
+    "avgHighPrice": 19,
+    "avgLowPrice": 14,
     "minimalPrice": 20,
-    "highPriceVolume": 1,
-    "lowPriceVolume": 1
+    "highPriceVolume": 560,
+    "lowPriceVolume": 27
   },
   {
     "id": 1131,
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 12,
-    "avgLowPrice": 11,
+    "avgHighPrice": 16,
+    "avgLowPrice": 9,
     "minimalPrice": 17,
-    "highPriceVolume": 20,
-    "lowPriceVolume": 4506
+    "highPriceVolume": 39,
+    "lowPriceVolume": 611
   },
   {
-    "id": 1175,
-    "name": "Iron sq shield",
+    "id": 1293,
+    "name": "Iron longsword",
     "limit": 125,
-    "value": 168,
-    "avgHighPrice": 10,
-    "avgLowPrice": 5,
-    "minimalPrice": 16.8,
-    "highPriceVolume": 84,
+    "value": 140,
+    "avgHighPrice": 7,
+    "avgLowPrice": 7,
+    "minimalPrice": 14,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
-    "id": 1335,
-    "name": "Iron warhammer",
+    "id": 1067,
+    "name": "Iron platelegs",
     "limit": 125,
-    "value": 173,
-    "avgHighPrice": 12,
-    "avgLowPrice": 15,
-    "minimalPrice": 17.3,
-    "highPriceVolume": 6,
-    "lowPriceVolume": 57
+    "value": 280,
+    "avgHighPrice": 22,
+    "avgLowPrice": 20,
+    "minimalPrice": 28,
+    "highPriceVolume": 616,
+    "lowPriceVolume": 13
+  },
+  {
+    "id": 4542,
+    "name": "Lantern lens",
+    "limit": 10000,
+    "value": 70,
+    "avgHighPrice": 6,
+    "avgLowPrice": 6,
+    "minimalPrice": 7,
+    "highPriceVolume": 12387,
+    "lowPriceVolume": 26589
   },
   {
     "id": 48,
@@ -62,29 +84,40 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 214,
-    "lowPriceVolume": 461
+    "highPriceVolume": 798,
+    "lowPriceVolume": 825
+  },
+  {
+    "id": 5529,
+    "name": "Mind tiara",
+    "limit": 40,
+    "value": 100,
+    "avgHighPrice": 3,
+    "avgLowPrice": 2,
+    "minimalPrice": 10,
+    "highPriceVolume": 24,
+    "lowPriceVolume": 2
   },
   {
     "id": 5106,
     "name": "Poison ivy seed",
     "limit": 200,
     "value": 166,
-    "avgHighPrice": 6,
-    "avgLowPrice": 2,
+    "avgHighPrice": 9,
+    "avgLowPrice": 6,
     "minimalPrice": 16.6,
-    "highPriceVolume": 90,
-    "lowPriceVolume": 29
+    "highPriceVolume": 222,
+    "lowPriceVolume": 117
   },
   {
-    "id": 1424,
-    "name": "Steel mace",
-    "limit": 125,
-    "value": 225,
-    "avgHighPrice": 20,
-    "avgLowPrice": 19,
-    "minimalPrice": 22.5,
-    "highPriceVolume": 91,
-    "lowPriceVolume": 60
+    "id": 5105,
+    "name": "Whiteberry seed",
+    "limit": 200,
+    "value": 133,
+    "avgHighPrice": 11,
+    "avgLowPrice": 8,
+    "minimalPrice": 13.3,
+    "highPriceVolume": 44,
+    "lowPriceVolume": 96
   }
 ]
