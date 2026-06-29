@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dharok's platelegs 0",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1780981413,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    },
+    {
+      "time": 1782674200,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    }
+  ]
+}

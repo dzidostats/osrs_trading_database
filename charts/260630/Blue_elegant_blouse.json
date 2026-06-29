@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blue elegant blouse",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1782604807,
+      "profit": null
+    },
+    {
+      "time": 1782659800,
+      "profit": null
+    }
+  ]
+}

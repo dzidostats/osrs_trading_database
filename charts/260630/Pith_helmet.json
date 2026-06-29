@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pith helmet",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782397706,
+      "profit": null
+    },
+    {
+      "time": 1782730440,
+      "profit": null
+    }
+  ]
+}

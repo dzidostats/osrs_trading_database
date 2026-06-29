@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Snakeskin chaps",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1781963895,
+      "profit": null
+    },
+    {
+      "time": 1782499828,
+      "profit": null
+    },
+    {
+      "time": 1782511892,
+      "profit": null
+    },
+    {
+      "time": 1782762843,
+      "profit": null
+    },
+    {
+      "time": 1782768277,
+      "profit": null
+    }
+  ]
+}

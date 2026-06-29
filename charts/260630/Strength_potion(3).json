@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Strength potion(3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779304992,
+      "profit": null
+    },
+    {
+      "time": 1780674724,
+      "profit": null
+    },
+    {
+      "time": 1781983373,
+      "profit": null
+    },
+    {
+      "time": 1782666472,
+      "profit": null
+    }
+  ]
+}
