@@ -7,7 +7,18 @@
     "avgHighPrice": 7,
     "avgLowPrice": 6,
     "minimalPrice": 10,
-    "highPriceVolume": 43,
+    "highPriceVolume": 2,
+    "lowPriceVolume": 1
+  },
+  {
+    "id": 151,
+    "name": "Fishing potion(3)",
+    "limit": 2000,
+    "value": 200,
+    "avgHighPrice": 12,
+    "avgLowPrice": 2,
+    "minimalPrice": 20,
+    "highPriceVolume": 1,
     "lowPriceVolume": 1
   },
   {
@@ -15,33 +26,33 @@
     "name": "Hardleather body",
     "limit": 125,
     "value": 170,
-    "avgHighPrice": 11,
-    "avgLowPrice": 9,
+    "avgHighPrice": 12,
+    "avgLowPrice": 11,
     "minimalPrice": 17,
-    "highPriceVolume": 139,
-    "lowPriceVolume": 569
+    "highPriceVolume": 20,
+    "lowPriceVolume": 4506
+  },
+  {
+    "id": 1175,
+    "name": "Iron sq shield",
+    "limit": 125,
+    "value": 168,
+    "avgHighPrice": 10,
+    "avgLowPrice": 5,
+    "minimalPrice": 16.8,
+    "highPriceVolume": 84,
+    "lowPriceVolume": 1
   },
   {
     "id": 1335,
     "name": "Iron warhammer",
     "limit": 125,
     "value": 173,
-    "avgHighPrice": 17,
+    "avgHighPrice": 12,
     "avgLowPrice": 15,
     "minimalPrice": 17.3,
-    "highPriceVolume": 2,
-    "lowPriceVolume": 49
-  },
-  {
-    "id": 4542,
-    "name": "Lantern lens",
-    "limit": 10000,
-    "value": 70,
-    "avgHighPrice": 6,
-    "avgLowPrice": 6,
-    "minimalPrice": 7,
-    "highPriceVolume": 9095,
-    "lowPriceVolume": 1055
+    "highPriceVolume": 6,
+    "lowPriceVolume": 57
   },
   {
     "id": 48,
@@ -51,40 +62,29 @@
     "avgHighPrice": 3,
     "avgLowPrice": 3,
     "minimalPrice": 6,
-    "highPriceVolume": 100,
-    "lowPriceVolume": 82
+    "highPriceVolume": 214,
+    "lowPriceVolume": 461
   },
   {
     "id": 5106,
     "name": "Poison ivy seed",
     "limit": 200,
     "value": 166,
-    "avgHighPrice": 9,
-    "avgLowPrice": 4,
+    "avgHighPrice": 6,
+    "avgLowPrice": 2,
     "minimalPrice": 16.6,
-    "highPriceVolume": 450,
-    "lowPriceVolume": 310
+    "highPriceVolume": 90,
+    "lowPriceVolume": 29
   },
   {
-    "id": 2007,
-    "name": "Spice",
-    "limit": 11000,
-    "value": 230,
-    "avgHighPrice": 21,
-    "avgLowPrice": 20,
-    "minimalPrice": 23,
-    "highPriceVolume": 29,
-    "lowPriceVolume": 1038
-  },
-  {
-    "id": 5105,
-    "name": "Whiteberry seed",
-    "limit": 200,
-    "value": 133,
-    "avgHighPrice": 2,
-    "avgLowPrice": 5,
-    "minimalPrice": 13.3,
-    "highPriceVolume": 23,
-    "lowPriceVolume": 400
+    "id": 1424,
+    "name": "Steel mace",
+    "limit": 125,
+    "value": 225,
+    "avgHighPrice": 20,
+    "avgLowPrice": 19,
+    "minimalPrice": 22.5,
+    "highPriceVolume": 91,
+    "lowPriceVolume": 60
   }
 ]
