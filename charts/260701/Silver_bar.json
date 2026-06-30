@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Silver bar",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779141656,
+      "profit": null
+    },
+    {
+      "time": 1781465026,
+      "profit": null
+    },
+    {
+      "time": 1782109658,
+      "profit": null
+    },
+    {
+      "time": 1782271448,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    },
+    {
+      "time": 1782773675,
+      "profit": null
+    },
+    {
+      "time": 1782854791,
+      "profit": null
+    }
+  ]
+}

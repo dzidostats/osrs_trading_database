@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "3rd age range legs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780636498,
+      "profit": null
+    },
+    {
+      "time": 1780915784,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781622502,
+      "profit": null
+    },
+    {
+      "time": 1781970466,
+      "profit": null
+    },
+    {
+      "time": 1781990182,
+      "profit": null
+    },
+    {
+      "time": 1782014402,
+      "profit": null
+    },
+    {
+      "time": 1782535928,
+      "profit": null
+    },
+    {
+      "time": 1782674200,
+      "profit": null
+    }
+  ]
+}

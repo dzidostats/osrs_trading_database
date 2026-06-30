@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bagged flower",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1782570470,
+      "profit": null
+    },
+    {
+      "time": 1782634804,
+      "profit": null
+    }
+  ]
+}

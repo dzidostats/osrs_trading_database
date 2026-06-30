@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Adamant arrow",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1781601921,
+      "profit": null
+    },
+    {
+      "time": 1781655267,
+      "profit": null
+    },
+    {
+      "time": 1782109658,
+      "profit": null
+    },
+    {
+      "time": 1782271448,
+      "profit": null
+    },
+    {
+      "time": 1782307227,
+      "profit": null
+    },
+    {
+      "time": 1782674200,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    },
+    {
+      "time": 1782744573,
+      "profit": null
+    },
+    {
+      "time": 1782811843,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Baby impling jar",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1780198677,
+      "profit": null
+    },
+    {
+      "time": 1780229435,
+      "profit": null
+    },
+    {
+      "time": 1780492549,
+      "profit": null
+    },
+    {
+      "time": 1780700788,
+      "profit": null
+    },
+    {
+      "time": 1780737860,
+      "profit": null
+    },
+    {
+      "time": 1780745071,
+      "profit": null
+    },
+    {
+      "time": 1780752475,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1781028120,
+      "profit": null
+    },
+    {
+      "time": 1781496277,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    },
+    {
+      "time": 1782149937,
+      "profit": null
+    },
+    {
+      "time": 1782168361,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782252602,
+      "profit": null
+    },
+    {
+      "time": 1782397706,
+      "profit": null
+    },
+    {
+      "time": 1782470956,
+      "profit": null
+    },
+    {
+      "time": 1782644740,
+      "profit": null
+    },
+    {
+      "time": 1782680344,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    },
+    {
+      "time": 1782744573,
+      "profit": null
+    },
+    {
+      "time": 1782762843,
+      "profit": null
+    }
+  ]
+}

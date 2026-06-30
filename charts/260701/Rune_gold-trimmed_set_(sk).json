@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Rune gold-trimmed set (sk)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779799130,
+      "profit": null
+    },
+    {
+      "time": 1781303001,
+      "profit": null
+    },
+    {
+      "time": 1782042302,
+      "profit": null
+    },
+    {
+      "time": 1782479396,
+      "profit": null
+    },
+    {
+      "time": 1782680344,
+      "profit": null
+    }
+  ]
+}

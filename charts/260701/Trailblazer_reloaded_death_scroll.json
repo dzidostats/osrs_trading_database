@@ -1,0 +1,89 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Trailblazer reloaded death scroll",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1781181864,
+      "profit": null
+    },
+    {
+      "time": 1781196822,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781215315,
+      "profit": null
+    },
+    {
+      "time": 1781223496,
+      "profit": null
+    },
+    {
+      "time": 1781273375,
+      "profit": null
+    },
+    {
+      "time": 1781285792,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1781709778,
+      "profit": null
+    },
+    {
+      "time": 1781881847,
+      "profit": null
+    },
+    {
+      "time": 1782346202,
+      "profit": null
+    },
+    {
+      "time": 1782511892,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    },
+    {
+      "time": 1782691602,
+      "profit": null
+    }
+  ]
+}

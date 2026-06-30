@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Monk's robe",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1781898428,
+      "profit": null
+    },
+    {
+      "time": 1781970466,
+      "profit": null
+    },
+    {
+      "time": 1782031160,
+      "profit": null
+    },
+    {
+      "time": 1782042302,
+      "profit": null
+    },
+    {
+      "time": 1782060222,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782444651,
+      "profit": null
+    },
+    {
+      "time": 1782490481,
+      "profit": null
+    },
+    {
+      "time": 1782506720,
+      "profit": null
+    },
+    {
+      "time": 1782576193,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Dark bow tie",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1780002399,
+      "profit": null
+    },
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1780773575,
+      "profit": null
+    },
+    {
+      "time": 1781540226,
+      "profit": null
+    },
+    {
+      "time": 1782086999,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    },
+    {
+      "time": 1782244836,
+      "profit": null
+    },
+    {
+      "time": 1782546471,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    },
+    {
+      "time": 1782773675,
+      "profit": null
+    }
+  ]
+}

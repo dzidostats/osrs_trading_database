@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bag of salt",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782684532,
+      "profit": null
+    },
+    {
+      "time": 1782754486,
+      "profit": null
+    },
+    {
+      "time": 1782833127,
+      "profit": null
+    }
+  ]
+}

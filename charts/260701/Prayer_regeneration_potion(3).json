@@ -1,0 +1,81 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Prayer regeneration potion(3)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779207502,
+      "profit": null
+    },
+    {
+      "time": 1779362490,
+      "profit": null
+    },
+    {
+      "time": 1779628941,
+      "profit": null
+    },
+    {
+      "time": 1779740498,
+      "profit": null
+    },
+    {
+      "time": 1779746759,
+      "profit": null
+    },
+    {
+      "time": 1780079627,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1780147506,
+      "profit": null
+    },
+    {
+      "time": 1780256279,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1782424040,
+      "profit": null
+    },
+    {
+      "time": 1782634804,
+      "profit": null
+    },
+    {
+      "time": 1782674200,
+      "profit": null
+    }
+  ]
+}

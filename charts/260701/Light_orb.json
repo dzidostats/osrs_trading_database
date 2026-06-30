@@ -1,0 +1,65 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Light orb",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779645841,
+      "profit": null
+    },
+    {
+      "time": 1780222422,
+      "profit": null
+    },
+    {
+      "time": 1780338991,
+      "profit": null
+    },
+    {
+      "time": 1780595139,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782073432,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782244836,
+      "profit": null
+    },
+    {
+      "time": 1782773675,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Twisted buckler",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780132415,
+      "profit": null
+    },
+    {
+      "time": 1780949513,
+      "profit": null
+    },
+    {
+      "time": 1781020400,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    },
+    {
+      "time": 1782841847,
+      "profit": null
+    },
+    {
+      "time": 1782849149,
+      "profit": null
+    }
+  ]
+}

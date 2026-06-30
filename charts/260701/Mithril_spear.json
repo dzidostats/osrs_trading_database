@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Mithril spear",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1780611584,
+      "profit": null
+    },
+    {
+      "time": 1781738520,
+      "profit": null
+    },
+    {
+      "time": 1782387844,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    }
+  ]
+}

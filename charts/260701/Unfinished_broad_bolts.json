@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Unfinished broad bolts",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781085362,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1782132523,
+      "profit": null
+    },
+    {
+      "time": 1782691602,
+      "profit": null
+    },
+    {
+      "time": 1782854791,
+      "profit": null
+    }
+  ]
+}

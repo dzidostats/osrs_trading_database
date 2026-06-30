@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ruby necklace",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780957503,
+      "profit": null
+    },
+    {
+      "time": 1781891700,
+      "profit": null
+    },
+    {
+      "time": 1781932284,
+      "profit": null
+    },
+    {
+      "time": 1782506720,
+      "profit": null
+    },
+    {
+      "time": 1782754486,
+      "profit": null
+    },
+    {
+      "time": 1782777746,
+      "profit": null
+    }
+  ]
+}

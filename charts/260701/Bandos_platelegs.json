@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bandos platelegs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779918734,
+      "profit": null
+    },
+    {
+      "time": 1780293633,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782506720,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    }
+  ]
+}

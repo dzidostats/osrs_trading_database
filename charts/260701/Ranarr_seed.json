@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ranarr seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780250393,
+      "profit": null
+    },
+    {
+      "time": 1780256279,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    },
+    {
+      "time": 1782754486,
+      "profit": null
+    },
+    {
+      "time": 1782841847,
+      "profit": null
+    }
+  ]
+}

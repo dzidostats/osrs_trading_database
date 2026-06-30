@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Pastry dough",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781096217,
+      "profit": null
+    },
+    {
+      "time": 1782327025,
+      "profit": null
+    },
+    {
+      "time": 1782583267,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    },
+    {
+      "time": 1782659800,
+      "profit": null
+    }
+  ]
+}
