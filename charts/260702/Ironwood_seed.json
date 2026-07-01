@@ -1,0 +1,77 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Ironwood seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1780068154,
+      "profit": null
+    },
+    {
+      "time": 1780338991,
+      "profit": null
+    },
+    {
+      "time": 1780357265,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780510922,
+      "profit": null
+    },
+    {
+      "time": 1780530089,
+      "profit": null
+    },
+    {
+      "time": 1780855345,
+      "profit": null
+    },
+    {
+      "time": 1780863010,
+      "profit": null
+    },
+    {
+      "time": 1781391762,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    },
+    {
+      "time": 1782684532,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    }
+  ]
+}

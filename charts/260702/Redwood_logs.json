@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Redwood logs",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780420882,
+      "profit": null
+    },
+    {
+      "time": 1780433158,
+      "profit": null
+    },
+    {
+      "time": 1781038525,
+      "profit": null
+    },
+    {
+      "time": 1781358938,
+      "profit": null
+    },
+    {
+      "time": 1781954186,
+      "profit": null
+    },
+    {
+      "time": 1781963895,
+      "profit": null
+    },
+    {
+      "time": 1782286682,
+      "profit": null
+    },
+    {
+      "time": 1782317965,
+      "profit": null
+    },
+    {
+      "time": 1782841847,
+      "profit": null
+    },
+    {
+      "time": 1782907379,
+      "profit": null
+    }
+  ]
+}

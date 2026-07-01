@@ -1,0 +1,41 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Sapphire ring",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781365340,
+      "profit": null
+    },
+    {
+      "time": 1782339330,
+      "profit": null
+    },
+    {
+      "time": 1782363816,
+      "profit": null
+    },
+    {
+      "time": 1782479396,
+      "profit": null
+    },
+    {
+      "time": 1782768277,
+      "profit": null
+    },
+    {
+      "time": 1782833127,
+      "profit": null
+    }
+  ]
+}

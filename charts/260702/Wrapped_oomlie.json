@@ -1,0 +1,45 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Wrapped oomlie",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1782286682,
+      "profit": null
+    },
+    {
+      "time": 1782590817,
+      "profit": null
+    },
+    {
+      "time": 1782659800,
+      "profit": null
+    },
+    {
+      "time": 1782674200,
+      "profit": null
+    },
+    {
+      "time": 1782680344,
+      "profit": null
+    },
+    {
+      "time": 1782877042,
+      "profit": null
+    }
+  ]
+}

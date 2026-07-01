@@ -1,0 +1,57 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Diamond amulet (u)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1780213442,
+      "profit": null
+    },
+    {
+      "time": 1781696748,
+      "profit": null
+    },
+    {
+      "time": 1782161086,
+      "profit": null
+    },
+    {
+      "time": 1782237075,
+      "profit": null
+    },
+    {
+      "time": 1782286682,
+      "profit": null
+    },
+    {
+      "time": 1782363816,
+      "profit": null
+    },
+    {
+      "time": 1782535928,
+      "profit": null
+    },
+    {
+      "time": 1782546471,
+      "profit": null
+    },
+    {
+      "time": 1782562091,
+      "profit": null
+    },
+    {
+      "time": 1782849149,
+      "profit": null
+    }
+  ]
+}

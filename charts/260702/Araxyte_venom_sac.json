@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Araxyte venom sac",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782860989,
+      "profit": null
+    },
+    {
+      "time": 1782893423,
+      "profit": null
+    },
+    {
+      "time": 1782928358,
+      "profit": null
+    }
+  ]
+}

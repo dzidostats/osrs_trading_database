@@ -1,0 +1,129 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bones to bananas (tablet)",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779008610,
+      "profit": null
+    },
+    {
+      "time": 1779029689,
+      "profit": null
+    },
+    {
+      "time": 1779033467,
+      "profit": null
+    },
+    {
+      "time": 1779166742,
+      "profit": null
+    },
+    {
+      "time": 1779217129,
+      "profit": null
+    },
+    {
+      "time": 1779228871,
+      "profit": null
+    },
+    {
+      "time": 1779313877,
+      "profit": null
+    },
+    {
+      "time": 1779349774,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779569373,
+      "profit": null
+    },
+    {
+      "time": 1779580535,
+      "profit": null
+    },
+    {
+      "time": 1779686292,
+      "profit": null
+    },
+    {
+      "time": 1779951344,
+      "profit": null
+    },
+    {
+      "time": 1780694647,
+      "profit": null
+    },
+    {
+      "time": 1781068581,
+      "profit": null
+    },
+    {
+      "time": 1781294869,
+      "profit": null
+    },
+    {
+      "time": 1781436540,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781945564,
+      "profit": null
+    },
+    {
+      "time": 1782079970,
+      "profit": null
+    },
+    {
+      "time": 1782229549,
+      "profit": null
+    },
+    {
+      "time": 1782244836,
+      "profit": null
+    },
+    {
+      "time": 1782258872,
+      "profit": null
+    },
+    {
+      "time": 1782363816,
+      "profit": null
+    },
+    {
+      "time": 1782460199,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    },
+    {
+      "time": 1782754486,
+      "profit": null
+    }
+  ]
+}

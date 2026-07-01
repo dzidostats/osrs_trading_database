@@ -1,0 +1,29 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Bronze platebody",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781903285,
+      "profit": null
+    },
+    {
+      "time": 1781914074,
+      "profit": null
+    },
+    {
+      "time": 1782654137,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Drake's tooth",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781738520,
+      "profit": null
+    },
+    {
+      "time": 1782597667,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    },
+    {
+      "time": 1782773675,
+      "profit": null
+    }
+  ]
+}

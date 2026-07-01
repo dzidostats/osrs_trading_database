@@ -1,0 +1,65 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Guthix kiteshield",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779054803,
+      "profit": null
+    },
+    {
+      "time": 1779482541,
+      "profit": null
+    },
+    {
+      "time": 1780096195,
+      "profit": null
+    },
+    {
+      "time": 1781457543,
+      "profit": null
+    },
+    {
+      "time": 1781555077,
+      "profit": null
+    },
+    {
+      "time": 1781564493,
+      "profit": null
+    },
+    {
+      "time": 1781945564,
+      "profit": null
+    },
+    {
+      "time": 1781954186,
+      "profit": null
+    },
+    {
+      "time": 1782031160,
+      "profit": null
+    },
+    {
+      "time": 1782680344,
+      "profit": null
+    },
+    {
+      "time": 1782744573,
+      "profit": null
+    },
+    {
+      "time": 1782777746,
+      "profit": null
+    }
+  ]
+}

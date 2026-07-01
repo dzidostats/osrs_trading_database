@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Grape seed",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779130202,
+      "profit": null
+    },
+    {
+      "time": 1779634933,
+      "profit": null
+    },
+    {
+      "time": 1779641920,
+      "profit": null
+    },
+    {
+      "time": 1779667227,
+      "profit": null
+    },
+    {
+      "time": 1779771727,
+      "profit": null
+    },
+    {
+      "time": 1780603391,
+      "profit": null
+    },
+    {
+      "time": 1780681960,
+      "profit": null
+    },
+    {
+      "time": 1781391762,
+      "profit": null
+    },
+    {
+      "time": 1781452311,
+      "profit": null
+    },
+    {
+      "time": 1781471401,
+      "profit": null
+    },
+    {
+      "time": 1781909697,
+      "profit": null
+    },
+    {
+      "time": 1782795673,
+      "profit": null
+    },
+    {
+      "time": 1782893423,
+      "profit": null
+    }
+  ]
+}

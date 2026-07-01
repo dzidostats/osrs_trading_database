@@ -1,0 +1,117 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Snape grass",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778922688,
+      "profit": null
+    },
+    {
+      "time": 1778932132,
+      "profit": null
+    },
+    {
+      "time": 1779564215,
+      "profit": null
+    },
+    {
+      "time": 1779605843,
+      "profit": null
+    },
+    {
+      "time": 1779686292,
+      "profit": null
+    },
+    {
+      "time": 1779733463,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780250393,
+      "profit": null
+    },
+    {
+      "time": 1780758802,
+      "profit": null
+    },
+    {
+      "time": 1780869736,
+      "profit": null
+    },
+    {
+      "time": 1780897713,
+      "profit": null
+    },
+    {
+      "time": 1780981413,
+      "profit": null
+    },
+    {
+      "time": 1781020400,
+      "profit": null
+    },
+    {
+      "time": 1781043797,
+      "profit": null
+    },
+    {
+      "time": 1781050291,
+      "profit": null
+    },
+    {
+      "time": 1781085362,
+      "profit": null
+    },
+    {
+      "time": 1781349209,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1781800140,
+      "profit": null
+    },
+    {
+      "time": 1781820339,
+      "profit": null
+    },
+    {
+      "time": 1781849809,
+      "profit": null
+    },
+    {
+      "time": 1781976275,
+      "profit": null
+    },
+    {
+      "time": 1781996768,
+      "profit": null
+    },
+    {
+      "time": 1782216285,
+      "profit": null
+    },
+    {
+      "time": 1782554761,
+      "profit": null
+    }
+  ]
+}

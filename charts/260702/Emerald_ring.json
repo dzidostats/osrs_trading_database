@@ -1,0 +1,37 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Emerald ring",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779836898,
+      "profit": null
+    },
+    {
+      "time": 1780041190,
+      "profit": null
+    },
+    {
+      "time": 1782860989,
+      "profit": null
+    },
+    {
+      "time": 1782877042,
+      "profit": null
+    },
+    {
+      "time": 1782893423,
+      "profit": null
+    }
+  ]
+}

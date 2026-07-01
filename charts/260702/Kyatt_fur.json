@@ -1,0 +1,61 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Kyatt fur",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1782499828,
+      "profit": null
+    },
+    {
+      "time": 1782506720,
+      "profit": null
+    },
+    {
+      "time": 1782511892,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    },
+    {
+      "time": 1782535928,
+      "profit": null
+    },
+    {
+      "time": 1782554761,
+      "profit": null
+    },
+    {
+      "time": 1782562091,
+      "profit": null
+    },
+    {
+      "time": 1782576193,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    },
+    {
+      "time": 1782666472,
+      "profit": null
+    },
+    {
+      "time": 1782684532,
+      "profit": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Teak bird house",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779831792,
+      "profit": null
+    },
+    {
+      "time": 1780779719,
+      "profit": null
+    },
+    {
+      "time": 1780843839,
+      "profit": null
+    },
+    {
+      "time": 1781340934,
+      "profit": null
+    },
+    {
+      "time": 1781914074,
+      "profit": null
+    },
+    {
+      "time": 1782429378,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    },
+    {
+      "time": 1782762843,
+      "profit": null
+    }
+  ]
+}

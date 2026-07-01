@@ -1,0 +1,69 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Sinister key",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1779614582,
+      "profit": null
+    },
+    {
+      "time": 1780153497,
+      "profit": null
+    },
+    {
+      "time": 1780317319,
+      "profit": null
+    },
+    {
+      "time": 1780404005,
+      "profit": null
+    },
+    {
+      "time": 1780617920,
+      "profit": null
+    },
+    {
+      "time": 1780803701,
+      "profit": null
+    },
+    {
+      "time": 1781206502,
+      "profit": null
+    },
+    {
+      "time": 1781754172,
+      "profit": null
+    },
+    {
+      "time": 1782050764,
+      "profit": null
+    },
+    {
+      "time": 1782334007,
+      "profit": null
+    },
+    {
+      "time": 1782583267,
+      "profit": null
+    },
+    {
+      "time": 1782841847,
+      "profit": null
+    },
+    {
+      "time": 1782877042,
+      "profit": null
+    }
+  ]
+}

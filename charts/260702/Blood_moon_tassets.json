@@ -1,0 +1,53 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Blood moon tassets",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1781085362,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781785434,
+      "profit": null
+    },
+    {
+      "time": 1782470956,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    },
+    {
+      "time": 1782621874,
+      "profit": null
+    },
+    {
+      "time": 1782841847,
+      "profit": null
+    },
+    {
+      "time": 1782849149,
+      "profit": null
+    },
+    {
+      "time": 1782935475,
+      "profit": null
+    }
+  ]
+}

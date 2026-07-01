@@ -1,0 +1,65 @@
+{
+  "chartType": "line",
+  "meta": {
+    "title": "Aranea boots",
+    "description": "Daily profit trend"
+  },
+  "xKey": "time",
+  "series": [
+    {
+      "dataKey": "profit",
+      "label": "Profit",
+      "valueFormat": "integer"
+    }
+  ],
+  "data": [
+    {
+      "time": 1778899471,
+      "profit": null
+    },
+    {
+      "time": 1778986409,
+      "profit": null
+    },
+    {
+      "time": 1780293633,
+      "profit": null
+    },
+    {
+      "time": 1781676538,
+      "profit": null
+    },
+    {
+      "time": 1781772313,
+      "profit": null
+    },
+    {
+      "time": 1781849809,
+      "profit": null
+    },
+    {
+      "time": 1782518690,
+      "profit": null
+    },
+    {
+      "time": 1782562091,
+      "profit": null
+    },
+    {
+      "time": 1782712092,
+      "profit": null
+    },
+    {
+      "time": 1782730440,
+      "profit": null
+    },
+    {
+      "time": 1782762843,
+      "profit": null
+    },
+    {
+      "time": 1782777746,
+      "profit": null
+    }
+  ]
+}
